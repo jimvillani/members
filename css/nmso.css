@@ -1,0 +1,150 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+td {
+	vertical-align:top;
+}
+body {
+	background: url(/graphics/2012-13/icon1112.png) white no-repeat bottom left fixed;
+	background-position: 1% 99%;
+	background-color: #fcfcdc;
+}
+.leftBorder {
+	border-left-style:solid; 
+	border-left-color:#893B82; 
+	border-left-width:thin
+}
+.rightBorder {
+	border-right-style:solid; 
+	border-right-color:#893B82; 
+	border-right-width:thin
+}
+.topBorder {
+	border-top-style:solid;
+	border-top-color:#893B82;
+	border-top-width:thin;
+}
+.bottomBorder {
+	border-bottom-style:solid;
+	border-bottom-color:#893B82;
+	border-bottom-width:thin;
+}
+.boxBorder {
+	border-style:solid;
+	border-color:#893B82; 
+	border-width:thin
+}
+.blackbold12px {
+	font-size: 12px;
+	font-weight: bold;
+}
+.greybg {
+	background-color:#CCCCCC;
+}
+.whitebold12px {font-size: 12px; font-weight: bold; color: #FFFFFF; }
+.graybold12px {font-size: 12px; font-weight: bold; color: #CCCCCC; }
+.normal {
+	font-size: 12px;
+	font-weight: normal;
+}
+.bold {
+	font-weight:bold;
+}
+.italic {
+	font-style: italic;
+}
+.small {
+	font-size: 9px;
+	font-weight: normal;
+}
+.smallbold {
+	font-size:9px;
+	font-weight: bold;
+}
+.italics {
+	font-style: italic;
+	font-size: 12px;
+	font-weight: normal;
+}
+.headline, .newsheadline {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+}
+.purple {
+    color:#893B82;
+}
+.white {
+    color:#FFFFFF;
+}
+.gray {
+    color:#CCCCCC;
+}
+.boldItalics {
+	font-style: italic;
+	font-size: 12px;
+	font-weight: bold;
+}
+.whitebold14px {
+	font-size: 14px; font-weight: bold; color: #FFFFFF;
+}
+.blackbold14px {
+	font-size: 14px;
+	font-weight: bold;
+}
+.normal10pt {
+
+	font-size: 10px;
+	font-weight: normal;
+}
+
+th {
+	vertical-align:middle;
+}
+
+div.item {
+	text-align: left;
+	margin-bottom: 12px;
+	padding-left: 12px;
+}
+
+div.newsitem {
+	text-align: left;
+	margin-bottom: 12px;
+	padding-left: 0 px;
+	clear:both;
+	height:auto;
+	width: 440px;
+}
+
+div.purpletextbox, .menubutton {
+	height:18px; 
+	font-weight:bold; 
+	text-align:center; 
+	background-color:#893B82; 
+	color:#FFFFFF;
+}
+
+.menubutton {
+	background-color:#932E90;
+	height:24px;
+	float:left;
+}
+
+.news {
+	padding-top:6px;
+	padding-bottom:6px;
+}
+
+.dateline {
+	font-weight:bold;
+	font-size: 10px;
+	padding-bottom:6px;
+}
+
+.newsheadline {
+	padding-top: 12px;
+	padding-bottom: 0px;
+}
