@@ -1,0 +1,168 @@
+{
+  "schedule": [
+    {
+      "date": "July 27, 2016",
+      "time": "7:30-9:30PM",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": []
+    },
+    {
+      "date": "August 3, 2016",
+      "time": "7:30-9:30PM",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": [
+        {
+          "piece": "007 Through the Years"
+        },
+        {
+          "piece": "A Hollywood Salute"
+        },
+        {
+          "piece": "The Complete Harry Potter"
+        },
+        {
+          "piece": "76 Trombones"
+        },
+        {
+          "piece": "break"
+        },
+        {
+          "piece": "Star Wars"
+        },
+        {
+          "piece": "High School Musical"
+        },
+        {
+          "piece": "Theme from ET"
+        },
+        {
+          "piece": "Colonel Bogey March"
+        }
+      ]
+    },
+    {
+      "date": "August 10, 2016",
+      "time": "7:30-9:30PM",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": [
+        {
+          "piece": "The Complete Harry Potter"
+        },
+        {
+          "piece": "Theme from ET"
+        },
+        {
+          "piece": "Star Wars"
+        },
+        {
+          "piece": "A Hollywood Salute"
+        },
+        {
+          "piece": "Colonel Bogey March"
+        },
+        {
+          "piece": "76 Trombones"
+        },
+        {
+          "piece": "007 Through the Years"
+        },
+        {
+          "piece": "High School Musical"
+        }
+      ]
+    },
+    {
+      "date": "August 17, 2016",
+      "time": "7:30-9:30PM",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": [
+        {
+          "piece": "The Complete Harry Potter"
+        },
+        {
+          "piece": "Theme from ET"
+        },
+        {
+          "piece": "Star Wars"
+        },
+        {
+          "piece": "A Hollywood Salute"
+        },
+        {
+          "piece": "Colonel Bogey March"
+        },
+        {
+          "piece": "76 Trombones"
+        },
+        {
+          "piece": "007 Through the Years"
+        },
+        {
+          "piece": "High School Musical"
+        }
+      ]
+    },
+    {
+      "date": "August 20, 2016",
+      "time": "10:00AM - noon",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": [
+        {
+          "piece": "A Hollywood Salute"
+        },
+        {
+          "piece": "The Complete Harry Potter"
+        },
+        {
+          "piece": "Theme from ET"
+        },
+        {
+          "piece": "76 Trombones"
+        },
+        {
+          "piece": "007 Through the Years"
+        },
+        {
+          "piece": "High School Musical"
+        },
+        {
+          "piece": "Star Wars"
+        },
+        {
+          "piece": "Colonel Bogey March"
+        }
+      ]
+    },
+    {
+      "date": "August 21, 2016",
+      "time": "3:00 Concert (2:00 setup; 2:30 call)",
+      "location": "Harris Pavilion",
+      "scheduleItem": [
+        {
+          "piece": "A Hollywood Salute"
+        },
+        {
+          "piece": "The Complete Harry Potter"
+        },
+        {
+          "piece": "Theme from ET"
+        },
+        {
+          "piece": "76 Trombones"
+        },
+        {
+          "piece": "007 Through the Years"
+        },
+        {
+          "piece": "High School Musical"
+        },
+        {
+          "piece": "Star Wars"
+        },
+        {
+          "piece": "Colonel Bogey March"
+        }
+      ]
+    }
+  ]
+}
