@@ -1,0 +1,43 @@
+<div class="banner">Rehearsal Schedule</div>
+<div ng-controller="scheduleCtrl">
+    <div style="padding-top: 0px; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="l rightBorder">
+        <div class="item" ng-repeat="x in scheduleData | slice:0:(scheduleData.length/2)+1">
+            <div class="date">
+                {{x.date}} ({{x.location}})<br/>
+                {{x.time}}
+            </div>
+            <div class="schedule" ng-repeat="y in x.scheduleItem">
+                <div>{{ y.time }}<span ng-show="y.hasOwnProperty('time')"> &ndash; </span>{{y.piece}}</div>
+            </div>
+        </div>
+    </div>
+    <div style="text-align:left; padding-top:0px; padding-bottom:12px;margin-top: 12px;" class="r">
+        <div class="item" ng-repeat="x in scheduleData | slice:(scheduleData.length/2 + 1):(scheduleData.length)">
+            <div class="date">
+                {{x.date}} ({{x.location}})<br/>
+                {{x.time}}
+            </div>
+            <div class="schedule" ng-repeat="y in x.scheduleItem">
+                <div>{{ y.time }}<span ng-show="y.hasOwnProperty('time')"> &ndash; </span>{{y.piece}}</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 6px;" >
+    <div class="normal" style="width:400px; padding-top:6px;">
+	<div style="padding-bottom: 3px;"><img src="graphics/2016-17/icon-purple-gold-25x25.png" height="25" width="25" />&nbsp;<a href="http://mso.me/absent1617">Report rehearsal absence</a></div>
+	<div><img src="graphics/2016-17/icon-purple-gold-25x25.png" height="25" width="25" />&nbsp;<a href="http://mso.me/regfall16">Register for FALL 2016 credit</a></div>
+    </div>
+
+    <div class="blackbold12px" style="width:400px; padding-top:6px;">
+        2016-17 Concert Dates
+    </div>
+    <div class="normal">
+        Sunday, August 21, 2016 - 3:00 (Harris Pavilion) <br/>
+        Saturday, October 29, 2016 - 7:30 <br/>
+        Saturday, December 10, 2016 - 3:30 <br/>
+        Saturday, March 4, 2017 - 7:30 <br/>
+        Saturday, May 13, 2017 - 7:30
+    </div>
+</div>
