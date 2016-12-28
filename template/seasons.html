@@ -1,0 +1,8 @@
+<div style="float:top; clear:left;" ng-controller="seasonsCtrl">
+    <div ng-repeat="x in seasonsData" style="width:33%; float:left;">
+        <div class="blackbold12px" style="width:100%; padding-top:6px;">
+            {{ x.season }} Concert Dates
+        </div>
+        <div class="normal" ng-repeat="y in x.dates">{{y}}</div>
+    </div>
+</div>
