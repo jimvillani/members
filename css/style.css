@@ -70,9 +70,10 @@ div.rr { float: right; }
 	background-color: white;
 	width: 977px;
 	position: relative;
-	left: 50%;
+	/*left: 50%;*/
 	top: 70px;
-	margin-left: -488px;
+	/*margin-left: -488px;*/
+	margin-left: 96px;
 	margin-bottom: 20px;
 	/*box-shadow: 3px 3px 3px rgba(125, 38, 205, 0.5);*/
 }
