@@ -1,12 +1,15 @@
 <div class="banner">Interesting Links</div>
-<div>
-    <ul style="padding-top: 6px; padding-left: 18px;" ng-controller="linksCtrl">
-        <li ng-repeat="x in linksData">
+<div class="normal">
+    <ul style="padding: 0; margin:0; list-style: none; " ng-controller="linksCtrl">
+        <li ng-repeat="x in linksData.key">
+            <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
+        </li>
+        <li ng-repeat="x in linksData.interesting">
             <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
         </li>
     </ul>
 </div>
 
-<div style="font-style: italic">
-    Suggestion? <a href="mailto:jim.villani@manassassymphony.org"> Let me know. </a>
+<div class="italics" style="padding-top: 8px;">
+    Suggestions? <a href="mailto:jim.villani@manassassymphony.org"> Let me know. </a>
 </div>

@@ -6,4 +6,13 @@ app.directive('links', function () {
         scope: {},
         templateUrl: 'template/links.html'
     }
-})
+});
+
+app.directive('keylinks', function () {
+    return {
+        restrict: 'E',
+        transclude: true,
+        scope: {},
+        templateUrl: 'template/keylinks.html'
+    }
+});

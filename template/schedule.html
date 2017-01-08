@@ -11,7 +11,7 @@
                     {{ y.time }}{{ y.composer }}
                     <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{y.piece}}
                 </div>
-                <div style="text-indent: 24px;" ng-show="y.hasOwnProperty('instrumentation')">
+                <div style="text-indent: 2em;" ng-show="y.hasOwnProperty('instrumentation')">
                     ({{ y.instrumentation }})
                 </div>
             </div>
@@ -28,11 +28,12 @@
                     {{ y.time }}{{ y.composer }}
                     <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{y.piece}}
                 </div>
-                <div style="text-indent: 24px;" ng-show="y.hasOwnProperty('instrumentation')">
+                <div style="text-indent: 2em;" ng-show="y.hasOwnProperty('instrumentation')">
                     ({{ y.instrumentation }})
                 </div>
             </div>
         </div>
     </div>
+    <keylinks></keylinks>
 </div>
 

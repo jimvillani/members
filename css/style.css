@@ -360,10 +360,12 @@ div.item {
 }
 
 div.schedule {
+	font-size: 12px;
 	padding-left: 12px;
 }
 
 div.date {
+	font-size: 12px;
 	font-weight: bold;
 	margin-bottom: 0px;
 }

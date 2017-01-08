@@ -5,10 +5,10 @@
                 height="300" width="760"></iframe>
         <br/>
     </div>
-    <div>
+    <div class="topBorder" style="margin-top: 18px;">
         Practice parts for these pieces are available from IMSLP.
     </div>
-    <ol style="padding-top: 6px; padding-left: 18px;" ng-controller="partsCtrl">
+    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" ng-controller="partsCtrl">
         <li ng-repeat="x in partsData">
             {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
             (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
