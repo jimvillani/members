@@ -6,4 +6,4 @@ app.directive('parts', function () {
         scope: { },
         templateUrl: 'template/parts.html'
     }
-})
+});

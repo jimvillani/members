@@ -6,4 +6,4 @@ app.directive('seasons', function () {
         scope: {},
         templateUrl: 'template/seasons.html'
     }
-})
+});

@@ -1,6 +1,6 @@
 <div class="banner">Contact Information</div>
 <div id="contacts" ng-controller="contactsCtrl">
-    <div style="padding-top: 0px; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="left">
+    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="left">
         <div class="headline">Staff</div>
         <div ng-repeat="x in contactsData.staff">
             <div class="contactname">
@@ -18,7 +18,7 @@
             </li>
         </ul>
     </div>
-    <div style="padding-top: 0px; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="middle">
+    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="middle">
         <div class="headline">Board of Directors</div>
         <div ng-repeat="x in contactsData.officers">
             <div class="contactname">
@@ -38,7 +38,7 @@
             </div>
         </div>
     </div>
-    <div style="padding-top: 0px; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="right">
+    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="right">
         <div class="headline">&nbsp;</div>
         <div ng-repeat="x in contactsData.directors |
              slice:((contactsData.directors.length/2) - (contactsData.officers.length/2) + 1):contactsData.directors.length">
