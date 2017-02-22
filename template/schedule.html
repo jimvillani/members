@@ -18,8 +18,7 @@
         </div>
     </div>
     <div id="schedule2" style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="m">
-        <div class="item"
-             ng-repeat="x in scheduleData | slice:colLength:2*colLength">
+        <div class="item" ng-repeat="x in scheduleData | slice:colLength:2*colLength">
             <div class="date">
                 {{x.date}} ({{x.location}})<br/>
                 {{x.time}}

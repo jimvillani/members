@@ -29,7 +29,7 @@
             </div>
         </div>
         <div ng-repeat="x in contactsData.directors |
-             slice:0:((contactsData.directors.length/2) - (contactsData.officers.length/2) + 1)">
+             slice:0:((contactsData.directors.length/2) - (contactsData.officers.length/2))">
             <div class="contactname">
                 {{x.name}}
             </div>
@@ -41,7 +41,7 @@
     <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="right">
         <div class="headline">&nbsp;</div>
         <div ng-repeat="x in contactsData.directors |
-             slice:((contactsData.directors.length/2) - (contactsData.officers.length/2) + 1):contactsData.directors.length">
+             slice:((contactsData.directors.length/2) - (contactsData.officers.length/2)):contactsData.directors.length">
             <div class="contactname">
                 {{x.name}}
             </div>
@@ -50,15 +50,4 @@
             </div>
         </div>
     </div>
-    <!--<div style="text-align:left; padding-top:0px; padding-bottom:12px;margin-top: 12px;" class="r">-->
-    <!--<div class="item" ng-repeat="x in scheduleData | slice:(scheduleData.length/2 + 1):(scheduleData.length)">-->
-    <!--<div class="date">-->
-    <!--{{x.date}} ({{x.location}})<br/>-->
-    <!--{{x.time}}-->
-    <!--</div>-->
-    <!--<div class="schedule" ng-repeat="y in x.scheduleItem">-->
-    <!--<div>{{ y.time }} - {{y.piece}}</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
 </div>

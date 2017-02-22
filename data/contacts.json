@@ -1,1 +1,98 @@
-{"contacts":{"staff":[{"name":"Jim Villani","title":"Music Director/Conductor","email":"jim.villani@manassassymphony.org"},{"name":"Michelle Milligan","title":"Personnel Manager","email":"michelle.milligan@manassassymphony.org"},{"name":"Darlene Dawson","title":"Music Librarian","email":"darlene.dawson@manassassymphony.org"},{"name":"Matt Bess","title":"Asst. Music Librarian","email":"matt.bess@manassassymphony.org"}],"officers":[{"name":"Michael Murtha","title":"President","email":"michael.murtha@manassassymphony.org"},{"name":"J. Timothy Mauk","title":"Vice President","email":"tim.mauk@manassassymphony.org"},{"name":"Andrea Brothers","title":"Secretary","email":"andrea.brothers@manassassymphony.org"},{"name":"Ronda Sprague","title":"Treasurer","email":"ronda.sprague@manassassymphony.org"}],"directors":[{"name":"Loretta Baxa","email":"loretta.baxa@manassassymphony.org"},{"name":"Marianne Gesotti","email":"marianne.gesotti@manassassymphony.org"},{"name":"Kim Golanski","email":"kim.golanski@manassassymphony.org"},{"name":"Austin Harris","email":"austin.harris@manassassymphony.org"},{"name":"Carol Hartt","email":"carol.hartt@manassassymphony.org"},{"name":"Larry Hughes","email":"larry.hughes@manassassymphony.org"},{"name":"Dr. Andrew Loerch","email":"andy.loerch@manassassymphony.org"},{"name":"Bob Marsh","email":"bob.marsh@manassassymphony.org"},{"name":"Bill Reeder","email":"william.reeder@manassassymphony.org"},{"name":"C. Milton Rodgers","email":"milton.rodgers@manassassymphony.org"},{"name":"Dr. Ed Stephenson","email":"ed.stephenson@manassassymphony.org"},{"name":"Steven Thompson","email":"steven.thompson@manassassymphony.org"}]}}
+{
+  "contacts": {
+    "staff": [
+      {
+        "name": "Jim Villani",
+        "title": "Music Director/Conductor",
+        "email": "jim.villani@manassassymphony.org"
+      },
+      {
+        "name": "Michelle Milligan",
+        "title": "Personnel Manager",
+        "email": "michelle.milligan@manassassymphony.org"
+      },
+      {
+        "name": "Darlene Dawson",
+        "title": "Music Librarian",
+        "email": "darlene.dawson@manassassymphony.org"
+      },
+      {
+        "name": "Matt Bess",
+        "title": "Asst. Music Librarian",
+        "email": "matt.bess@manassassymphony.org"
+      }
+    ],
+    "officers": [
+      {
+        "name": "Michael Murtha",
+        "title": "President",
+        "email": "michael.murtha@manassassymphony.org"
+      },
+      {
+        "name": "J. Timothy Mauk",
+        "title": "Vice President",
+        "email": "tim.mauk@manassassymphony.org"
+      },
+      {
+        "name": "Andrea Brothers",
+        "title": "Secretary",
+        "email": "andrea.brothers@manassassymphony.org"
+      },
+      {
+        "name": "Ronda Sprague",
+        "title": "Treasurer",
+        "email": "ronda.sprague@manassassymphony.org"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Loretta Baxa",
+        "email": "loretta.baxa@manassassymphony.org"
+      },
+      {
+        "name": "Marianne Gesotti",
+        "email": "marianne.gesotti@manassassymphony.org"
+      },
+      {
+        "name": "Kim Golanski",
+        "email": "kim.golanski@manassassymphony.org"
+      },
+      {
+        "name": "Austin Harris",
+        "email": "austin.harris@manassassymphony.org"
+      },
+      {
+        "name": "Carol Hartt",
+        "email": "carol.hartt@manassassymphony.org"
+      },
+      {
+        "name": "Larry Hughes",
+        "email": "lawrence.hughes@manassassymphony.org"
+      },
+      {
+        "name": "Dr. Andrew Loerch",
+        "email": "andy.loerch@manassassymphony.org"
+      },
+      {
+        "name": "Bob Marsh",
+        "email": "bob.marsh@manassassymphony.org"
+      },
+      {
+        "name": "Bill Reeder",
+        "email": "william.reeder@manassassymphony.org"
+      },
+      {
+        "name": "C. Milton Rodgers",
+        "email": "milton.rodgers@manassassymphony.org"
+      },
+      {
+        "name": "Dr. Ed Stephenson",
+        "email": "ed.stephenson@manassassymphony.org"
+      },
+      {
+        "name": "Steven Thompson",
+        "email": "steven.thompson@manassassymphony.org"
+      }
+    ]
+  }
+}
