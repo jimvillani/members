@@ -1,93 +1,119 @@
-body
-{
-	font-family: Arial, Tahoma, Geneva, sans-serif;
-	font-size: 12px;
-	color: #000000;
-	background-color: #FDBB31;
+body {
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    background-color: #FDBB31;
 }
 
-a
-{
-	color: #6F2B8F;
-	font-weight: bold;
-	text-decoration: none;
+a {
+    color: #6F2B8F;
+    font-weight: bold;
+    text-decoration: none;
 }
 
-a:link { text-decoration: none; color: rgba(104, 20, 9, 1); }
+a:link {
+    text-decoration: none;
+    color: rgba(104, 20, 9, 1);
+}
 
 /* visited link */
-a:visited { text-decoration: underline; color: #6F2B8F; }
+a:visited {
+    text-decoration: underline;
+    color: #6F2B8F;
+}
 
 /* mouse over link */
-a:hover { text-decoration: underline; color: #FDBB31; }
-
-.normal, .bold, .italics
-{
-	font-size: small;
-	font-weight: normal;
+a:hover {
+    text-decoration: underline;
+    color: #FDBB31;
 }
 
-.bold { font-weight: bold; }
-.italics { font-style: italic; }
-
-.purple { color: #6F2B8F; }
-.altpurple { color: #7D26CD; }
-.gold { color: #FDBB31; }
-.white { color: #FFFFFF; }
-.black { color: #000000; }
-.deepred { color: rgba(104, 20, 9, 1); }
-.altred { color: #9b2615; }
-
-#container
-{
-	background-color: white;
-	width: 977px;
-	position: relative;
-	top: 70px;
-	bottom: 70px;
-	margin: auto;
+.normal, .bold, .italics {
+    font-size: small;
+    font-weight: normal;
 }
 
-#header
-{
-	position: relative;
-	left: 0;
-	top: 0;
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.purple {
+    color: #6F2B8F;
+}
+
+.altpurple {
+    color: #7D26CD;
+}
+
+.gold {
+    color: #FDBB31;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.black {
+    color: #000000;
+}
+
+.deepred {
+    color: rgba(104, 20, 9, 1);
+}
+
+.altred {
+    color: #9b2615;
+}
+
+#container {
+    background-color: white;
+    width: 977px;
+    position: relative;
+    top: 70px;
+    bottom: 70px;
+    margin: auto;
+}
+
+#header {
+    position: relative;
+    left: 0;
+    top: 0;
     background: #681409 url('../graphics/2016-17/seats-tap15.jpg') no-repeat center;
     background-origin: content-box;
-	width: 100%;
-	min-width: 977px;
-	height: 136px;
-	float: left;
+    width: 100%;
+    min-width: 977px;
+    height: 136px;
+    float: left;
 }
 
-#content-full > #col2 > .left
-{
-/* 	border: thin solid black; */
-	clear: left;
-	float: left;
-	padding: 6px;
-	width: 258px;
+#content-full > #col2 > .left {
+    /* 	border: thin solid black; */
+    clear: left;
+    float: left;
+    padding: 6px;
+    width: 258px;
 }
 
-#content-full > #col2 > .right
-{
-	float: left;
-	padding: 6px;
-	width: 254px;
-	margin-left: 7px;
+#content-full > #col2 > .right {
+    float: left;
+    padding: 6px;
+    width: 254px;
+    margin-left: 7px;
 }
 
 #contacts > .left,
 #contacts > .middle,
-#contacts > .right
-{
-	width: 288px;
-	height: auto;
-	float: left;
+#contacts > .right {
+    width: 288px;
+    height: auto;
+    float: left;
     text-indent: 4px;
-	padding-top: 8px;
-	line-height: 140%;
+    padding-top: 8px;
+    line-height: 140%;
 }
 
 #contacts > .left {
@@ -101,8 +127,7 @@ div.contactname {
     font-weight: bold;
 }
 
-.headline
-{
+.headline {
     font-size: 16px;
     font-style: normal;
     font-weight: bold;
@@ -113,78 +138,97 @@ div.contactname {
 
 #addresses > .left,
 #addresses > .middle,
-#addresses > .right
-{
-	width: 250px;
-	height: auto;
-	float: left;
-	margin-left: 4px;
-	padding-top: 8px;
-	font-size: 1.0em;
+#addresses > .right {
+    width: 250px;
+    height: auto;
+    float: left;
+    margin-left: 4px;
+    padding-top: 8px;
+    font-size: 1.0em;
 }
 
 /* banners */
-div.banner
-{
-	position: relative;
-	top: 0;
-	padding-top: 8px;
-	padding-bottom: 24px;
-	background-color: white;
-	color: rgba(104, 20, 9, 1);
-	clear: both;
-	text-align: center;
-	font-size: 24pt;
-	font-weight: bold;
-	text-shadow: 2px 1px 1px rgba(253, 187, 49, 0.75);
+div.banner {
+    position: relative;
+    top: 0;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    background-color: white;
+    color: rgba(104, 20, 9, 1);
+    clear: both;
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bold;
+    text-shadow: 2px 1px 1px rgba(253, 187, 49, 0.75);
 }
 
 /* end banners */
 
+/*schedule columns*/
+
 div.item {
-	padding-bottom: 12px;
+    padding-bottom: 12px;
 }
 
 div.date, div.schedule, div.season {
     font-size: small;
 }
+
 div.schedule {
-	padding-left: 1em;
+    padding-left: 1em;
+}
+
+div.schedule > div.time {
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+div.schedule > div.instr {
+    padding-left: 2em;
+    text-indent: -1em;
 }
 
 div.date {
-	font-weight: bold;
-	margin-bottom: 0;
+    font-weight: bold;
+    margin-bottom: 0;
 }
 
 div.l, div.r, div.m {
     text-align: left;
     float: left;
     padding-bottom: 5px;
-    padding-right: 1px;
+    padding-right: 3em;
     height: auto;
     width: 33%;
 }
 
 div.l {
     text-align: left;
+    padding-left: 1em;
     clear: left;
 }
 
+#schedule1, #schedule2. #schedule3 {
+    padding-top: 0;
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+/*roster columns*/
 div.c1-4, div.c2-4, div.c3-4, div.c4-4 {
-	text-align: left;
-	float: left;
-	padding-bottom: 5px;
-	padding-right: 1px;
-	height: auto;
-	width: 25%;
+    text-align: left;
+    float: left;
+    padding-bottom: 5px;
+    padding-right: 1px;
+    height: auto;
+    width: 25%;
 }
 
 div.c1-4 {
-	text-align: left;
-	clear: left;
+    text-align: left;
+    clear: left;
 }
-
 
 .topBorder {
     border-top: thin solid #893B82;
