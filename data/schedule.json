@@ -1,171 +1,171 @@
 {
-  "schedule": [
-    {
-      "date": "March 8, 2017",
-      "location": "No rehearsal"
-    },
-    {
-      "date": "March 15, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Rossini"
-        },
-        {
-          "time": "7:45",
-          "piece": "Hindemith"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Forrest"
-        }
-      ]
-    },
-    {
-      "date": "March 22, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "March 29, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "piece": "Sectional rehearsals TBA"
-        }
-      ]
-    },
-    {
-      "date": "April 1, 2017",
-      "time": "10AM - noon",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "piece": "Conducting Workshop - String volunteers TBD"
-        }
-      ]
-    },
-    {
-      "date": "April 5, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "April 12, 2017",
-      "location": "No rehearsal"
-    },
-    {
-      "date": "April 19, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "April 26, 2017",
-      "time": "7:30 - 9:30PM Bring stands",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "May 3, 2017",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "May 10, 2017",
-      "time": "7:30 - 9:45PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Forrest w/choir"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Forrest (cont'd)"
-        },
-        {
-          "time": "9:00",
-          "piece": "Hindemith"
-        }
-      ]
-    },
-    {
-      "date": "May 12, 2017",
-      "time": "7:30 - 10:00PM Dress Rehearsal",
-      "location": "Hylton PAC - Gregory",
-      "scheduleItem": [
-        {
-          "piece": "Rossini"
-        },
-        {
-          "piece": "Hindemith"
-        },
-        {
-          "piece": "Forrest"
-        }
-      ]
-    },
-    {
-      "date": "May 13, 2017",
-      "time": "7:30 Concert",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "composer": "Gioacchino Rossini",
-          "piece": "The Barber of Seville Overture",
-          "instrumentation": "1+1.2.2.2/2.2.3.0 timp BD strings"
-        },
-        {
-          "composer": "Paul Hindemith",
-          "piece": "Symphonic Metamorphosis of Themes by Carl Maria von Weber",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.2.3.1 timp perc strings"
-        },
-        {
-          "composer": "Dan Forrest",
-          "piece": "Requiem For The Living",
-          "instrumentation": "2.2.2.2/4.2.3.1 timp perc harp strings"
-        }
-      ]
-    }
-  ]
+"schedule": [
+{
+"date": "March 8, 2017",
+"location": "No rehearsal"
+},
+{
+"date": "March 15, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Hylton PAC - Stage",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "Rossini"
+},
+{
+"time": "7:45",
+"piece": "Hindemith"
+},
+{
+"time": "8:25",
+"piece": "break"
+},
+{
+"time": "8:35",
+"piece": "Forrest"
+}
+]
+},
+{
+"date": "March 22, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Metz MS",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "TBD"
+}
+]
+},
+{
+"date": "March 29, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Metz MS",
+"scheduleItem": [
+{
+"piece": "Sectional rehearsals TBA"
+}
+]
+},
+{
+"date": "April 1, 2017",
+"time": "10AM - noon",
+"location": "Metz MS",
+"scheduleItem": [
+{
+"piece": "Conducting Workshop - String volunteers TBD"
+}
+]
+},
+{
+"date": "April 5, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Hylton PAC",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "TBD"
+}
+]
+},
+{
+"date": "April 12, 2017",
+"location": "No rehearsal"
+},
+{
+"date": "April 19, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Hylton PAC",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "TBD"
+}
+]
+},
+{
+"date": "April 26, 2017",
+"time": "7:30 - 9:30PM Bring stands",
+"location": "Metz MS",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "TBD"
+}
+]
+},
+{
+"date": "May 3, 2017",
+"time": "7:30 - 9:30PM",
+"location": "Metz MS",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "TBD"
+}
+]
+},
+{
+"date": "May 10, 2017",
+"time": "7:30 - 9:45PM",
+"location": "Hylton PAC",
+"scheduleItem": [
+{
+"time": "7:30",
+"piece": "Forrest w/choir"
+},
+{
+"time": "8:25",
+"piece": "break"
+},
+{
+"time": "8:35",
+"piece": "Forrest (cont'd)"
+},
+{
+"time": "9:00",
+"piece": "Hindemith"
+}
+]
+},
+{
+"date": "May 12, 2017",
+"time": "7:30 - 10:00PM Dress Rehearsal",
+"location": "Hylton PAC - Gregory",
+"scheduleItem": [
+{
+"piece": "Rossini"
+},
+{
+"piece": "Hindemith"
+},
+{
+"piece": "Forrest"
+}
+]
+},
+{
+"date": "May 13, 2017",
+"time": "7:30 Concert",
+"location": "Hylton PAC",
+"scheduleItem": [
+{
+"composer": "Gioacchino Rossini",
+"piece": "The Barber of Seville Overture",
+"instrumentation": "1+1.2.2.2/2.2.3.0 timp BD strings"
+},
+{
+"composer": "Paul Hindemith",
+"piece": "Symphonic Metamorphosis of Themes by Carl Maria von Weber",
+"instrumentation": "2+1.2+1.2+1.2+1/4.2.3.1 timp perc strings"
+},
+{
+"composer": "Dan Forrest",
+"piece": "Requiem For The Living",
+"instrumentation": "2.2.2.2/4.2.3.1 timp perc harp strings"
+}
+]
+}
+]
 }
