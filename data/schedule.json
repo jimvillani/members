@@ -34,7 +34,27 @@
 "scheduleItem": [
 {
 "time": "7:30",
-"piece": "TBD"
+"piece": "Hindemith I"
+},
+{
+"time": "7:55",
+"piece": "Hindemith II"
+},
+{
+"time": "8:20",
+"piece": "break"
+},
+{
+"time": "8:30",
+"piece": "Hindemith III"
+},
+{
+"time": "8:55",
+"piece": "Hindemith IV"
+},
+{
+"time": "9:15",
+"piece": "Rossini"
 }
 ]
 },
