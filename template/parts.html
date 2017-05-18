@@ -1,15 +1,15 @@
 <div class="banner">Practice Parts</div>
-<div>
+<div ng-controller="partsCtrl">
     <div class="normal">
-        <iframe src="http://members.manassassymphony.org/parts/2016-17" frameborder="0"
+        <iframe ng-src="{{ partsData.ftp }}" frameborder="0"
                 height="300" width="760"></iframe>
         <br/>
     </div>
     <div class="topBorder" style="margin-top: 18px;">
         Practice parts for these pieces are available from IMSLP.
     </div>
-    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" ng-controller="partsCtrl">
-        <li ng-repeat="x in partsData">
+    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" >
+        <li ng-repeat="x in partsData.links">
             {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
             (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
         </li>
