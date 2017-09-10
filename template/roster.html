@@ -1,7 +1,7 @@
 <div class="banner">Orchestra Personnel</div>
 <div class="normal" style="" ng-controller="rosterCtrl">
     <div class="c1-4">
-        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:0:3"
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:0:2"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
             <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -14,7 +14,7 @@
         </div>
     </div>
     <div class="c2-4">
-        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:3:10"
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:2:5"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
             <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="c3-4">
-        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:10:17"
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:5:15"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
             <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="c4-4">
-        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:17:rosterData.length"
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:15:rosterData.length"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
             <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
