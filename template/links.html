@@ -1,10 +1,11 @@
 <div class="banner">Interesting Links</div>
 <div class="normal">
     <ul style="padding:0; margin:0; list-style: none; " ng-controller="linksCtrl">
-        <li style="padding:0 0 0 12px;background-color: #FDBB31;" ng-repeat="x in linksData.key">
+        <li style="padding:0 0 0 12px;background-color: #D4A752;" ng-repeat="x in linksData.key">
             <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
         </li>
-        <div>&nbsp;</div>
+    </ul>
+    <ul style="padding:12px 0 0 0; margin:0; list-style: none; " ng-controller="linksCtrl">
         <li style="padding:0 0 0 12px;" ng-repeat="x in linksData.interesting">
             <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
         </li>

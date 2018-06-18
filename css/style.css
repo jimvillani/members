@@ -2,30 +2,30 @@ body {
     font-family: Arial, Tahoma, Geneva, sans-serif;
     font-size: 12px;
     color: #000000;
-    background-color: #FDBB31;
+    background-color: #D4A752;
 }
 
 a {
-    color: #6F2B8F;
+    color: #52144B;
     font-weight: bold;
     text-decoration: none;
 }
 
 a:link {
     text-decoration: none;
-    color: rgba(104, 20, 9, 1);
+    color: #52144B;
 }
 
 /* visited link */
 a:visited {
     text-decoration: underline;
-    color: #6F2B8F;
+    color: #52144B;
 }
 
 /* mouse over link */
 a:hover {
     text-decoration: underline;
-    color: #FDBB31;
+    color: #D4A752;
 }
 
 .normal, .bold, .italics {
@@ -42,15 +42,15 @@ a:hover {
 }
 
 .purple {
-    color: #6F2B8F;
+    color: #52144B;
 }
 
 .altpurple {
-    color: #7D26CD;
+    color: #52144B;
 }
 
 .gold {
-    color: #FDBB31;
+    color: #D4A752;
 }
 
 .white {
@@ -82,9 +82,9 @@ a:hover {
     position: relative;
     left: 0;
     top: 0;
-    background: #681409 url('../graphics/2016-17/seats-tap15.jpg') no-repeat center;
+    background: #52144B url('../graphics/2018-19/header18.jpg') no-repeat center;
     background-origin: content-box;
-    width: 100%;
+    width: 977px;
     min-width: 977px;
     height: 136px;
     float: left;
@@ -117,7 +117,7 @@ a:hover {
 }
 
 #contacts > .left {
-    background-color: #FDBB31;
+    background-color: #D4A752;
     margin-right: 12px;
 }
 
@@ -130,9 +130,11 @@ div.contactname {
 .headline {
     font-size: 16px;
     font-style: normal;
-    font-weight: bold;
+    /*font-weight: bold;*/
+    font-weight: normal;
     text-indent: 4px;
-    background-color: black;
+    /*background-color: black;*/
+    background-color: #52144B;
     color: white;
 }
 
@@ -154,12 +156,14 @@ div.banner {
     padding-top: 8px;
     padding-bottom: 24px;
     background-color: white;
-    color: rgba(104, 20, 9, 1);
+    /*color: rgba(104, 20, 9, 1);*/
+    color: rgba(82, 20, 75, 1);
     clear: both;
     text-align: center;
     font-size: 24pt;
     font-weight: bold;
-    text-shadow: 2px 1px 1px rgba(253, 187, 49, 0.75);
+    /*text-shadow: 2px 1px 1px rgba(253, 187, 49, 0.75);*/
+    text-shadow: 2px 1px 1px rgba(212, 167, 82, 0.75);
 }
 
 /* end banners */
@@ -231,6 +235,6 @@ div.c1-4 {
 }
 
 .topBorder {
-    border-top: thin solid #893B82;
+    border-top: thin solid #52144B;
 }
 
