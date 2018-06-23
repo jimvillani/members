@@ -1,31 +1,31 @@
 body {
-    font-family: Arial, Tahoma, Geneva, sans-serif;
-    font-size: 12px;
+    font-family: Lato, sans-serif;
+    /*font-size: 12px;*/
     color: #000000;
-    background-color: #D4A752;
+    background-color: #d2a550;
 }
 
 a {
-    color: #52144B;
+    color: #51134a;
     font-weight: bold;
     text-decoration: none;
 }
 
 a:link {
     text-decoration: none;
-    color: #52144B;
+    color: #51134a;
 }
 
 /* visited link */
 a:visited {
     text-decoration: underline;
-    color: #52144B;
+    color: #51134a;
 }
 
 /* mouse over link */
 a:hover {
     text-decoration: underline;
-    color: #D4A752;
+    color: #d2a550;
 }
 
 .normal, .bold, .italics {
@@ -42,15 +42,15 @@ a:hover {
 }
 
 .purple {
-    color: #52144B;
+    color: #51134a;
 }
 
 .altpurple {
-    color: #52144B;
+    color: #51134a;
 }
 
 .gold {
-    color: #D4A752;
+    color: #d2a550;
 }
 
 .white {
@@ -70,6 +70,7 @@ a:hover {
 }
 
 #container {
+    font-family: Lato, sans-serif;
     background-color: white;
     width: 977px;
     position: relative;
@@ -82,7 +83,7 @@ a:hover {
     position: relative;
     left: 0;
     top: 0;
-    background: #52144B url('../graphics/2018-19/header18.jpg') no-repeat center;
+    background: #51134a url('../graphics/2018-19/header18.jpg') no-repeat center;
     background-origin: content-box;
     width: 977px;
     min-width: 977px;
@@ -117,7 +118,7 @@ a:hover {
 }
 
 #contacts > .left {
-    background-color: #D4A752;
+    background-color: #d2a550;
     margin-right: 12px;
 }
 
@@ -134,7 +135,7 @@ div.contactname {
     font-weight: normal;
     text-indent: 4px;
     /*background-color: black;*/
-    background-color: #52144B;
+    background-color: #51134a;
     color: white;
 }
 
@@ -161,7 +162,7 @@ div.banner {
     clear: both;
     text-align: center;
     font-size: 24pt;
-    font-weight: bold;
+    font-weight: 900;
     /*text-shadow: 2px 1px 1px rgba(253, 187, 49, 0.75);*/
     text-shadow: 2px 1px 1px rgba(212, 167, 82, 0.75);
 }
@@ -235,6 +236,6 @@ div.c1-4 {
 }
 
 .topBorder {
-    border-top: thin solid #52144B;
+    border-top: thin solid #51134a;
 }
 
