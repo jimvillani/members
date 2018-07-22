@@ -3,7 +3,7 @@
     <div id="schedule1" class="l">
         <div class="item" ng-repeat="x in scheduleData | slice:0:colLength">
             <div class="date">
-                {{x.date}} ({{x.location}})<br/>
+                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
                 {{x.time}}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">
@@ -20,7 +20,7 @@
     <div id="schedule2" class="m">
         <div class="item" ng-repeat="x in scheduleData | slice:colLength:2*colLength">
             <div class="date">
-                {{x.date}} ({{x.location}})<br/>
+                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
                 {{x.time}}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">
@@ -37,7 +37,7 @@
     <div id="schedule3" class="r">
         <div class="item" ng-repeat="x in scheduleData | slice:2*colLength:scheduleData.length">
             <div class="date">
-                {{x.date}} ({{x.location}})<br/>
+                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
                 {{x.time}}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">

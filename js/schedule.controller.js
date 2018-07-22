@@ -4,5 +4,6 @@ app.controller('scheduleCtrl', function ($scope, $http) {
         .then(function (response) {
             $scope.scheduleData = response.data.schedule;
             $scope.colLength = (response.data.schedule.length + (3 - response.data.schedule.length % 3))/3;
+            // $scope.colLength = response.data.schedule.length / 3;
         });
 });
