@@ -1,1 +1,31 @@
-{"parts":{"ftp":"http://members.manassassymphony.org/parts/2018-19","links":[{"composer":"Tchaikovsky","title":"Orchestral Suite No.1, Op.43","url":"https://mso.me/2y6DeRy","linkText":"All Parts"},{"composer":"Rossini","title":"William Tell Overture","url":"https://mso.me/2taVRy2","linkText":"All Parts"},{"composer":"Beethoven","title":"Symphony No.9, Op.125","url":"https://mso.me/2t3whuE","linkText":"All Parts"}]}}
+{
+  "parts": {
+    "ftp": "https://members.manassassymphony.org/parts/2018-19",
+    "links": [
+      {
+        "composer": "Tchaikovsky",
+        "title": "Orchestral Suite No.1, Op.43",
+        "url": "https://mso.me/2y6DeRy",
+        "linkText": "All Parts"
+      },
+      {
+        "composer": "Rossini",
+        "title": "William Tell Overture",
+        "url": "https://mso.me/2taVRy2",
+        "linkText": "All Parts"
+      },
+      {
+        "composer": "Bruch",
+        "title": "Double Concerto, Op. 88",
+        "url": "https://mso.me/2BfoIIM",
+        "linkText": "All Parts"
+      },
+      {
+        "composer": "Beethoven",
+        "title": "Symphony No.6, Op. 68",
+        "url": "https://mso.me/2MTasXo",
+        "linkText": "All Parts (Choose 3rd option - Breitkopf 1863)"
+      }
+    ]
+  }
+}

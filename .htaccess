@@ -8,4 +8,7 @@ AuthType basic
 ErrorDocument 401 http://www.manassassymphony.org/
 ErrorDocument 403 http://www.manassassymphony.org/
 
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 

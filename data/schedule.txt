@@ -1,50 +1,6 @@
 {
   "schedule": [
     {
-      "date": "July 25, 2018",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 1, 2018",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 8, 2018",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 15, 2018",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
       "date": "August 18, 2018",
       "time": "9:30 - 11:30AM (Dress Rehearsal)",
       "location": "Hylton PAC",
@@ -58,7 +14,7 @@
     {
       "date": "August 19, 2018",
       "time": "3:00PM (Concert)",
-      "location": "Hylton PAC",
+      "location": "Harris Pavilion",
       "scheduleItem": [
         {
           "time": "2:00",
@@ -67,38 +23,84 @@
         {
           "time": "2:30",
           "piece": "Orchestra Call"
+        },
+        {
+          "time": "1",
+          "piece": "Ricketts, Ted – A Tribute to the King (The Music of Elvis Presley)"
+        },
+        {
+          "time": "2",
+          "piece": "Moss, John – A Salute to Rodgers and Hammerstein"
+        },
+        {
+          "time": "3",
+          "piece": "Ford, Ralph – Indiana Jones: Kingdom of the Crystal Skull"
+        },
+        {
+          "time": "4",
+          "piece": "Robert Wendel – The Flintstones Meet the Jetsons"
+        },
+        {
+          "time": "5",
+          "piece": "Ricketts, Ted – Highlights from Wicked"
+        },
+        {
+          "time": "6",
+          "piece": "Brubaker, Jerry – What's Up at The Symphony?"
+        },
+        {
+          "time": "7",
+          "piece": "Howard, James Newton – Concert Selections from Fantastic Beasts and Where to Find Them"
+        },
+        {
+          "time": "8",
+          "piece": "Ricketts, Ted – Satchmo!"
+        },
+        {
+          "time": "9",
+          "piece": "Sousa, J. P. – The Stars and Stripes Forever"
         }
       ]
     },
     {
-      "date": "Program Order",
+      "date": "September 5, 2018",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
       "scheduleItem": [
         {
-          "piece": "1. Ricketts, Ted – A Tribute to the King (The Music of Elvis Presley)"
+          "time": "7:30",
+          "piece": "TBD"
         },
         {
-          "piece": "2. Moss, John – A Salute to Rodgers and Hammerstein"
+          "time": "8:25",
+          "piece": "break"
         },
         {
-          "piece": "3. Ford, Ralph – Indiana Jones: Kingdom of the Crystal Skull"
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 27",
+      "time": "7:30 PM (Concert)",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "time": "1",
+          "piece": "Rossini - William Tell Overture"
         },
         {
-          "piece": "4. Robert Wendel – The Flintstones Meet the Jetsons"
+          "time": "2",
+          "piece": "Mascagni - Intermezzo from Cavalleria Rusticana"
         },
         {
-          "piece": "5. Ricketts, Ted – Highlights from Wicked"
+          "time": "3",
+          "piece": "Bruch - Double Concerto in E, Op. 88"
         },
         {
-          "piece": "6. Brubaker, Jerry – What's Up at The Symphony?"
-        },
-        {
-          "piece": "7. Howard, James Newton – Concert Selections from Fantastic Beasts and Where to Find Them"
-        },
-        {
-          "piece": "8. Ricketts, Ted – Satchmo!"
-        },
-        {
-          "piece": "9. Sousa, J. P. – The Stars and Stripes Forever"
+          "time": "4",
+          "piece": "Tchaikovsky - Suite No. 1 in D minor, Op. 43"
         }
       ]
     }
