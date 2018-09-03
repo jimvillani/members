@@ -8,19 +8,19 @@
     ],
     "key": [
       {
-        "url": "http://mso.me/absent13",
+        "url": "https://mso.me/absent1819",
         "linkText": "Report Rehearsal Absence"
       },
       {
-        "url": "http://mso.me/setup1819",
+        "url": "https://mso.me/setup1819",
         "linkText": "Help Setup for Rehearsal"
       },
       {
-        "url": "http://remind.com/join/mso1819",
+        "url": "https://remind.com/join/mso1819",
         "linkText": "Sign-up for text messages (or text @mso1819 to 81010)"
       },
       {
-        "url": "http://manassassymphony.org",
+        "url": "https://manassassymphony.org",
         "linkText": "Main MSO Website"
       },
       {
@@ -28,34 +28,18 @@
         "url": "https://www.facebook.com/manassassymphony/"
       },
       {
-        "url": "http://manassassymphony.org/youtube",
+        "url": "https://manassassymphony.org/youtube",
         "linkText": "MSO YouTube Page"
       }
     ],
     "interesting": [
       {
-        "url": "https://www.theviolinchannel.com/15-things-know-youre-string-player/",
-        "linkText": "You Know You're a String Player, When..."
-      },
-      {
         "url": "https://youtu.be/ASQ054Mj36E",
         "linkText": "How to Mark Your Part without Making Your Stand Partner Hate You"
       },
       {
-        "url": "http://www.amazon.com/dp/1423488466/?tag=novamanassass-20",
+        "url": "https://www.amazon.com/dp/1423488466/?tag=novamanassass-20",
         "linkText": "Playing Less Hurt: An Injury Prevention Guide for Musicians"
-      },
-      {
-        "url": "http://www.nytimes.com/2005/02/13/arts/music/13waki.html?pagewanted=1&amp;n=Top/Reference/Times%20Topics/People/B/Berlioz,%20Hector&amp;_r=1",
-        "linkText": "Cracking the Secret Orchestral Codes"
-      },
-      {
-        "url": "http://www.youtube.com/watch?v=G8Z1y7E7_04",
-        "linkText": "Clarinet Warm-up Routine"
-      },
-      {
-        "url": "http://violinmasterclass.com/home.php?site_language=english",
-        "linkText": "Sassmannshaus Violin Masterclass"
       }
     ]
   }
