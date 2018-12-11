@@ -3,22 +3,22 @@
     "ftp": "https://members.manassassymphony.org/parts/2018-19",
     "links": [
       {
-        "composer": "Tchaikovsky",
-        "title": "Orchestral Suite No.1, Op.43",
-        "url": "https://mso.me/2y6DeRy",
-        "linkText": "All Parts"
+        "composer": "Moncayo",
+        "title": "Huapango",
+        "url": "https://youtu.be/2iIOyReJ1os",
+        "linkText": "YouTube Recording"
       },
       {
-        "composer": "Rossini",
-        "title": "William Tell Overture",
-        "url": "https://mso.me/2taVRy2",
-        "linkText": "All Parts"
+        "composer": "Revueltas",
+        "title": "La noche de los Mayas",
+        "url": "https://youtu.be/tilj0iNz1_g",
+        "linkText": "YouTube Recording"
       },
       {
-        "composer": "Bruch",
-        "title": "Double Concerto, Op. 88",
-        "url": "https://mso.me/2BfoIIM",
-        "linkText": "All Parts"
+        "composer": "Oviedo",
+        "title": "Volcanic Suite",
+        "url": "/music/oviedo/volcanicsuite.mp3",
+        "linkText": "Recording"
       },
       {
         "composer": "Beethoven",
