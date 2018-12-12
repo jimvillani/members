@@ -6,20 +6,26 @@
         "composer": "Moncayo",
         "title": "Huapango",
         "url": "https://youtu.be/2iIOyReJ1os",
-        "linkText": "YouTube Recording"
+        "linkText": "YouTube"
       },
       {
-        "composer": "Revueltas",
-        "title": "La noche de los Mayas",
-        "url": "https://youtu.be/tilj0iNz1_g",
-        "linkText": "YouTube Recording"
+        "composer": "Turina",
+        "title": "Danzas Fantásticas",
+        "url": "https://youtu.be/gLzU3-YvzPc",
+        "linkText": "YouTube"
       },
       {
         "composer": "Oviedo",
         "title": "Volcanic Suite",
         "url": "/music/oviedo/volcanicsuite.mp3",
         "linkText": "Recording"
-      },
+      },      {
+              "composer": "Márquez",
+              "title": "La Conga del Fuego Nuevo",
+              "url": "https://youtu.be/HT0QeD_mP1w",
+              "linkText": "YouTube"
+            },
+
       {
         "composer": "Beethoven",
         "title": "Symphony No.6, Op. 68",
