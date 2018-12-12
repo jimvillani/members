@@ -1,1 +1,130 @@
-{"schedule":[{"date":"Tuesday, October 30, 2018","time":"7:30 - 9:30PM","location":"Hylton PAC","scheduleItem":[{"time":"7:30","piece":"TBD"}]},{"date":"November 7, 2018","time":"7:30 - 9:30PM","location":"Metz MS","scheduleItem":[{"time":"7:30","piece":"Saint-Saens"},{"time":"7:50","piece":"Beckel"},{"time":"8:10","piece":"TBD"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"TBD"}]},{"date":"November 14, 2018","time":"7:30 - 9:30PM","location":"Hylton PAC","scheduleItem":[{"time":"7:30","piece":"Chicken Reel"},{"time":"7:40","piece":"Old MacDonald"},{"time":"7:50","piece":"Saint-Saens - Lion"},{"time":"8:00","piece":"Beckel"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Saint-Saens - Elephant & Swan"},{"time":"8:50","piece":"Christmas Blast"}]},{"date":"November 28, 2018","time":"7:30 - 9:30PM","location":"Metz MS","scheduleItem":[{"time":"7:30","piece":"Beckel w/Molly"},{"time":"8:00","piece":"Chicken Reel"},{"time":"8:15","piece":"Fantastic Beasts"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Elephant & Swan"},{"time":"8:45","piece":"Christmas Blast"},{"time":"9:05","piece":"Old MacDonald"}]},{"date":"December 5, 2018","time":"7:30 - 9:30PM","location":"Hylton PAC","scheduleItem":[{"time":"7:30","piece":"TBD"}]},{"date":"December 8, 2018","time":"3:30 PM (Concert)","location":"Hylton PAC","scheduleItem":[{"time":"1:45","piece":"Orchestra Call"},{"time":"2:00","piece":"Selected Run-through (incl. lights)"},{"time":"2:50","piece":"Clear stage"}]}]}
+{
+  "schedule": [
+    {
+      "date": "January 9, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "January 16, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "January 23, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "January 30, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 6, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 13, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 20, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 27, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton - Merchant",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 1, 2019",
+      "time": "7:30 - 9:30PM (Dress Rehearsal)",
+      "location": "Hylton - Gregory",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 2, 2019",
+      "time": "7:30 (Concert)",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "José Pablo Moncayo",
+          "piece": "Huapango"
+        },
+        {
+          "composer": "Jorge Oviedo",
+          "piece": "Volcanic Suite"
+        },
+        {
+          "composer": "Joaquin Rodrigo",
+          "piece": "Concierto de Aranjuez"
+        },
+        {
+          "composer": "Conga del Fuego Nuevo",
+          "piece": "Arturo Márquez"
+        },
+        {
+          "composer": "Danzas Fantásticas",
+          "piece": "Joaquin Turina"
+        }
+      ]
+    }
+  ]
+}
