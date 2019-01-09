@@ -44,12 +44,12 @@
     },
     {
       "date": "January 23, 2019",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:30PM Sectional Rehearsal",
       "location": "Metz MS",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Sectional Rehearsal"
         }
       ]
     },
