@@ -37,8 +37,24 @@
           "piece": "Rodrigo"
         },
         {
-          "time": "8:00",
-          "piece": "TBD"
+          "time": "7:55",
+          "piece": "Márquez"
+        },
+        {
+          "time": "8:10",
+          "piece": "Moncayo"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Oviedo"
+        },
+        {
+          "time": "9:00",
+          "piece": "Turina"
         }
       ]
     },
@@ -55,14 +71,7 @@
     },
     {
       "date": "January 30, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
+      "time": "Canceled - weather"
     },
     {
       "date": "February 6, 2019",
@@ -71,7 +80,23 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Oviedo"
+        },
+        {
+          "time": "8:00",
+          "piece": "Turina II"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Turina III"
+        },
+        {
+          "time": "9:00",
+          "piece": "Rodrigo II, III, I"
         }
       ]
     },
@@ -82,6 +107,14 @@
       "scheduleItem": [
         {
           "time": "7:30",
+          "piece": "Rodrigo (w/soloist)"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
           "piece": "TBD"
         }
       ]
@@ -104,6 +137,10 @@
       "scheduleItem": [
         {
           "time": "7:30",
+          "piece": "Rodrigo"
+        },
+        {
+          "time": "8:15",
           "piece": "TBD"
         }
       ]
@@ -125,23 +162,23 @@
       "location": "Hylton PAC",
       "scheduleItem": [
         {
-          "composer": "José Pablo Moncayo",
-          "piece": "Huapango"
+          "piece": "Huapango",
+          "composer": "José Pablo Moncayo"
         },
         {
-          "composer": "Jorge Oviedo",
-          "piece": "Volcanic Suite"
+          "piece": "Volcanic Suite",
+          "composer": "Jorge Oviedo"
         },
         {
-          "composer": "Joaquin Rodrigo",
-          "piece": "Concierto de Aranjuez"
+          "piece": "Concierto de Aranjuez",
+          "composer": "Joaquin Rodrigo"
         },
         {
           "piece": "Conga del Fuego Nuevo",
           "composer": "Arturo Márquez"
         },
         {
-          "piece": "Danzas Fantásticas",
+          "piece": "Danzas Fantásticas, Op. 22",
           "composer": "Joaquin Turina"
         }
       ]
