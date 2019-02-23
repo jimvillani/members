@@ -115,24 +115,48 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Oviedo"
+        },
+        {
+          "time": "8:55",
+          "piece": "Turina I"
+        },
+        {
+          "time": "9:15",
+          "piece": "Moncayo"
         }
       ]
     },
     {
-      "date": "February 20, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
+      "date": "February 23, 2019",
+      "time": "10:00AM - noon",
+      "location": "Hylton - Gregory",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "time": "10:00",
+          "piece": "Turina"
+        },
+        {
+          "time": "10:35",
+          "piece": "Moncayo"
+        },
+        {
+          "time": "10:55",
+          "piece": "break"
+        },
+        {
+          "time": "11:05",
+          "piece": "Oviedo"
+        },
+        {
+          "time": "11:40",
+          "piece": "Márquez"
         }
       ]
     },
     {
       "date": "February 27, 2019",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:45PM",
       "location": "Hylton - Merchant",
       "scheduleItem": [
         {
@@ -141,7 +165,23 @@
         },
         {
           "time": "8:15",
-          "piece": "TBD"
+          "piece": "Márquez"
+        },
+        {
+          "time": "8:30",
+          "piece": "break"
+        },
+        {
+          "time": "8:40",
+          "piece": "Turina"
+        },
+        {
+          "time": "9:00",
+          "piece": "Oviedo"
+        },
+        {
+          "time": "9:20",
+          "piece": "Moncayo"
         }
       ]
     },
@@ -152,7 +192,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
