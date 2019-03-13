@@ -1,48 +1,13 @@
 {
   "schedule": [
     {
-      "date": "January 9, 2019",
+      "date": "March 13, 2019",
       "time": "7:30 - 9:30PM",
       "location": "Metz MS",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Moncayo"
-        },
-        {
-          "time": "7:50",
-          "piece": "Márquez"
-        },
-        {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Turina"
-        },
-        {
-          "time": "9:10",
-          "piece": "Oviedo"
-        }
-      ]
-    },
-    {
-      "date": "January 16, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Rodrigo"
-        },
-        {
-          "time": "7:55",
-          "piece": "Márquez"
-        },
-        {
-          "time": "8:10",
-          "piece": "Moncayo"
+          "piece": "Symphony"
         },
         {
           "time": "8:25",
@@ -50,145 +15,103 @@
         },
         {
           "time": "8:35",
-          "piece": "Oviedo"
-        },
-        {
-          "time": "9:00",
-          "piece": "Turina"
-        }
-      ]
-    },
-    {
-      "date": "January 23, 2019",
-      "time": "7:30 - 9:30PM Sectional Rehearsal",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Sectional Rehearsal"
-        }
-      ]
-    },
-    {
-      "date": "January 30, 2019",
-      "time": "Canceled - weather"
-    },
-    {
-      "date": "February 6, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Oviedo"
-        },
-        {
-          "time": "8:00",
-          "piece": "Turina II"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Turina III"
-        },
-        {
-          "time": "9:00",
-          "piece": "Rodrigo II, III, I"
-        }
-      ]
-    },
-    {
-      "date": "February 13, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Rodrigo (w/soloist)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Oviedo"
+          "piece": "Hallelujah"
         },
         {
           "time": "8:55",
-          "piece": "Turina I"
+          "piece": "Kyrie"
         },
         {
-          "time": "9:15",
-          "piece": "Moncayo"
+          "time": "9:10",
+          "piece": "Gloria"
         }
       ]
     },
     {
-      "date": "February 23, 2019",
-      "time": "10:00AM - noon",
-      "location": "Hylton - Gregory",
-      "scheduleItem": [
-        {
-          "time": "10:00",
-          "piece": "Turina"
-        },
-        {
-          "time": "10:35",
-          "piece": "Moncayo"
-        },
-        {
-          "time": "10:55",
-          "piece": "break"
-        },
-        {
-          "time": "11:05",
-          "piece": "Oviedo"
-        },
-        {
-          "time": "11:40",
-          "piece": "Márquez"
-        }
-      ]
-    },
-    {
-      "date": "February 27, 2019",
-      "time": "7:30 - 9:45PM",
-      "location": "Hylton - Merchant",
+      "date": "March 20, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Rodrigo"
-        },
-        {
-          "time": "8:15",
-          "piece": "Márquez"
-        },
-        {
-          "time": "8:30",
-          "piece": "break"
-        },
-        {
-          "time": "8:40",
-          "piece": "Turina"
-        },
-        {
-          "time": "9:00",
-          "piece": "Oviedo"
-        },
-        {
-          "time": "9:20",
-          "piece": "Moncayo"
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "March 1, 2019",
-      "time": "7:30 - 9:30PM (Dress Rehearsal)",
-      "location": "Hylton - Gregory",
+      "date": "March 27, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 3, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 10, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 17, 2019",
+      "time": "No Rehearsal - Spring Break"
+    },
+    {
+      "date": "April 24, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 24",
+      "time": "7:30 - 9:30PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 1, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Performing Arts Center",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 3, 2019",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Performing Arts Center",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -197,29 +120,21 @@
       ]
     },
     {
-      "date": "March 2, 2019",
-      "time": "7:30 (Concert)",
-      "location": "Hylton PAC",
+      "date": "May 4, 2019",
+      "time": "7:30 PM",
+      "location": "Hylton Performing Arts Center",
       "scheduleItem": [
         {
-          "piece": "Huapango",
-          "composer": "José Pablo Moncayo"
+          "piece": "Symphony No. 6 in F Major"
         },
         {
-          "piece": "Volcanic Suite",
-          "composer": "Jorge Oviedo"
+          "piece": "King Stephen Overture"
         },
         {
-          "piece": "Concierto de Aranjuez",
-          "composer": "Joaquin Rodrigo"
+          "piece": "Mass in C Major (Kyrie, Gloria)"
         },
         {
-          "piece": "Conga del Fuego Nuevo",
-          "composer": "Arturo Márquez"
-        },
-        {
-          "piece": "Danzas Fantásticas, Op. 22",
-          "composer": "Joaquin Turina"
+          "piece": "'Hallelujah' from 'Christ on the Mount of Olives'"
         }
       ]
     }
