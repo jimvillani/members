@@ -34,7 +34,31 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Symphony V"
+        },
+        {
+          "time": "7:50",
+          "piece": "Symphony IV"
+        },
+        {
+          "time": "8:10",
+          "piece": "Overture"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Symphony III"
+        },
+        {
+          "time": "8:55",
+          "piece": "Symphony II"
+        },
+        {
+          "time": "9:15",
+          "piece": "Symphony I"
         }
       ]
     },
