@@ -104,7 +104,23 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Symphony I"
+        },
+        {
+          "time": "8:00",
+          "piece": "Symphony II"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Symphony III/IV"
+        },
+        {
+          "time": "9:00",
+          "piece": "Gloria"
         }
       ]
     },
@@ -122,17 +138,6 @@
     {
       "date": "April 17, 2019",
       "time": "No Rehearsal - Spring Break"
-    },
-    {
-      "date": "April 24, 2019",
-      "time": "7:30 - 9:30PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
     },
     {
       "date": "April 24",
