@@ -1,12 +1,15 @@
 {
   "links": {
-    "inactive": [
-      {
-        "url": "http://mso.me/regsept17",
-        "linkText": "Fall 2017 Registrations"
-      }
-    ],
+    "inactive": [],
     "key": [
+      {
+        "url": "https://forms.gle/UDKJ1sgCippFCZAR9",
+        "linkText": "2019-20 Season Survey"
+      },
+      {
+        "url": "https://mso.me/polos19",
+        "linkText": "Order MSO Polo Shirt"
+      },
       {
         "url": "https://mso.me/absent1819",
         "linkText": "Report Rehearsal Absence"
@@ -16,8 +19,12 @@
         "linkText": "Help Setup for Rehearsal"
       },
       {
-        "url": "https://remind.com/join/mso1819",
-        "linkText": "Sign-up for text messages (or text @mso1819 to 81010)"
+        "url": "https://remind.com/join/mso1920",
+        "linkText": "Sign-up for text messages (or text @mso1920 to 81010)"
+      },
+      {
+        "url": "https://www.nvcc.edu/admissions/register.html",
+        "linkText": "Register for credit (Fall 2019 - MUS 148-080M (31401))"
       },
       {
         "url": "https://manassassymphony.org",

@@ -1,1 +1,154 @@
-{"schedule":[{"date":"July 20, 2019","time":"6:30 - 10:00 PM","location":"MSO Night at Potomac Nationals"},{"date":"August 18, 2019","time":"3:00 PM","location":"Harris Pavilion","scheduleItem":[{"composer":"Scott Shelsta","piece":"Trombone Soloist"}]},{"date":"October 26, 2019","time":"7:30 PM","location":"Hylton Performing Arts Center","scheduleItem":[{"composer":"Gioachino Rossini","piece":"Overture to La Gazza Ladra"},{"composer":"William Walton","piece":"Concerto for Viola and Orchestra"},{"composer":"Florence Price","piece":"Symphony No. 1 in E minor"}]},{"date":"December 7, 2019","time":"3:30 PM","location":"Hylton Performing Arts Center","scheduleItem":[{"composer":"J. Scott McKenzie","piece":"Jack and the Beanstalk"},{"composer":"Pablo de Sarasate","piece":"Carmen Fantasy, Op. 25"},{"composer":"Bill Holcombe","piece":"'Twas the Night Before Christmas"},{"composer":"Sergei Prokofiev","piece":"Peter and the Wolf, Op. 67"}]},{"date":"March 7, 2020","time":"7:30 PM","location":"Hylton Performing Arts Center","scheduleItem":[{"composer":"Aaron Copland","piece":"Quiet City"},{"composer":"Leonard Bernstein","piece":"Symphonic Dances from West Side Story"},{"composer":"Howard Hanson","piece":"Symphony No. 2 in D-flat major, Op. 30 (\"Romantic\")"}]},{"date":"May 9, 2020","time":"7:30 PM","location":"Hylton Performing Arts Center","scheduleItem":[{"composer":"Samuel Adler","piece":"Elegy for String Orchestra"},{"composer":"Ludwig van Beethoven","piece":"Concerto No. 3 in C minor for Piano and Orchestra, Op. 37"},{"composer":"Antonín Dvořák","piece":"Symphony No. 9 in E minor, Op. 95 (\"From the New World\")"}]}]}
+{
+  "schedule": [
+    {
+      "date": "July 31, 2019",
+      "time": "7:30 - 10:00 PM",
+      "location": "Hylton PAC - Merchant",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 7, 2019",
+      "time": "7:30 - 10:00 PM",
+      "location": "Hylton PAC - Merchant",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 14, 2019",
+      "time": "7:30 - 10:00 PM",
+      "location": "Hylton PAC - Merchant",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 17, 2019 (Dress Rehearsal)",
+      "time": "9:30 - 11:30 AM",
+      "location": "Hylton PAC - Merchant",
+      "scheduleItem": [
+        {
+          "piece": "TBD",
+          "time": "9:30"
+        },
+        {
+          "piece": "Picnic (outside)",
+          "time": "11:30"
+        }
+      ]
+    },
+    {
+      "date": "August 18, 2019",
+      "time": "3:00 PM",
+      "location": "Harris Pavilion",
+      "scheduleItem": [
+        {
+          "composer": "Scott Shelsta",
+          "piece": "Trombone Soloist"
+        }
+      ]
+    },
+    {
+      "date": "September 15, 2019",
+      "time": "TBD",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "Arts Alive",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 26, 2019",
+      "time": "7:30 PM",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "Gioachino Rossini",
+          "piece": "Overture to La Gazza Ladra"
+        },
+        {
+          "composer": "William Walton",
+          "piece": "Concerto for Viola and Orchestra"
+        },
+        {
+          "composer": "Florence Price",
+          "piece": "Symphony No. 1 in E minor"
+        }
+      ]
+    },
+    {
+      "date": "December 7, 2019",
+      "time": "3:30 PM",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "J. Scott McKenzie",
+          "piece": "Jack and the Beanstalk"
+        },
+        {
+          "composer": "Pablo de Sarasate",
+          "piece": "Carmen Fantasy, Op. 25"
+        },
+        {
+          "composer": "Bill Holcombe",
+          "piece": "'Twas the Night Before Christmas"
+        },
+        {
+          "composer": "Sergei Prokofiev",
+          "piece": "Peter and the Wolf, Op. 67"
+        }
+      ]
+    },
+    {
+      "date": "March 7, 2020",
+      "time": "7:30 PM",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "Aaron Copland",
+          "piece": "Quiet City"
+        },
+        {
+          "composer": "Leonard Bernstein",
+          "piece": "Symphonic Dances from West Side Story"
+        },
+        {
+          "composer": "Howard Hanson",
+          "piece": "Symphony No. 2 in D-flat major, Op. 30 (\"Romantic\")"
+        }
+      ]
+    },
+    {
+      "date": "May 9, 2020",
+      "time": "7:30 PM",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "Samuel Adler",
+          "piece": "Elegy for String Orchestra"
+        },
+        {
+          "composer": "Ludwig van Beethoven",
+          "piece": "Concerto No. 3 in C minor for Piano and Orchestra, Op. 37"
+        },
+        {
+          "composer": "Antonín Dvořák",
+          "piece": "Symphony No. 9 in E minor, Op. 95 (\"From the New World\")"
+        }
+      ]
+    }
+  ]
+}
