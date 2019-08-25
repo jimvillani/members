@@ -3,18 +3,6 @@
     "ftp": "https://members.manassassymphony.org/parts/2019-20",
     "links": [
       {
-        "composer": "Gioacchino Rossini",
-        "title": "Overture to \"La Gazza Ladra\"",
-        "url": "https://imslp.org/wiki/La_gazza_ladra_(Rossini%2C_Gioacchino)#tabScore2",
-        "linkText": "Practice Parts"
-      },
-      {
-        "composer": "Florence Price",
-        "title": "Symphony No 1 in E minor",
-        "url": "https://youtu.be/8pM-YDEpy_g",
-        "linkText": "YouTube"
-      },
-      {
         "composer": "Howard Hanson",
         "title": "Symphony No. 2, Op. 30 (\"Romantic\")",
         "url": "https://youtu.be/mPqyx1XjEtM",
