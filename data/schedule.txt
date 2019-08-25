@@ -71,6 +71,74 @@
       "location": "Metz MS",
       "scheduleItem": [
         {
+          "piece": "Sectional Rehearsal",
+          "time": "7:30"
+        }
+      ]
+    },
+    {
+      "date": "September 25, 2019",
+      "time": "7:30-9:30 PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "piece": "TBD",
+          "time": "7:30"
+        },
+        {
+          "piece": "break",
+          "time": "8:25"
+        },
+        {
+          "piece": "TBD",
+          "time": "8:35"
+        }
+      ]
+    },
+    {
+      "date": "October 2, 2019",
+      "time": "7:30-9:30 PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "piece": "TBD",
+          "time": "7:30"
+        },
+        {
+          "piece": "break",
+          "time": "8:25"
+        },
+        {
+          "piece": "TBD",
+          "time": "8:35"
+        }
+      ]
+    },
+    {
+      "date": "October 9, 2019",
+      "time": "7:30-9:30 PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "piece": "TBD",
+          "time": "7:30"
+        },
+        {
+          "piece": "break",
+          "time": "8:25"
+        },
+        {
+          "piece": "TBD",
+          "time": "8:35"
+        }
+      ]
+    },
+    {
+      "date": "October 16, 2019",
+      "time": "7:30-9:30 PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
           "piece": "TBD",
           "time": "7:30"
         },
