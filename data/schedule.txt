@@ -91,15 +91,18 @@
       "scheduleItem": [
         {
           "composer": "Gioachino Rossini",
-          "piece": "Overture to La Gazza Ladra"
+          "piece": "Overture to La Gazza Ladra",
+          "instrumentation": "1+1,2,2,2/4,2,3,1 TIMPANI SD BD TRI STRINGS"
         },
         {
           "composer": "William Walton",
-          "piece": "Concerto for Viola and Orchestra"
+          "piece": "Concerto for Viola and Orchestra",
+          "instrumentation": "2D1,1+1,2D1,2/4,2,3,0 TIMPANI HARP STRINGS + SOLO VIOLA"
         },
         {
           "composer": "Florence Price",
-          "piece": "Symphony No. 1 in E minor"
+          "piece": "Symphony No. 1 in E minor",
+          "instrumentation": "2+2,2,2,2/4,2,3,1 TIMPANI 4PERC STRINGS"
         }
       ]
     },
@@ -110,19 +113,23 @@
       "scheduleItem": [
         {
           "composer": "J. Scott McKenzie",
-          "piece": "Jack and the Beanstalk"
+          "piece": "Jack and the Beanstalk",
+          "instrumentation": "2+1,2,2,2/4,3,3,1 TIMPANI PERC HARP STRINGS + NARRATOR"
         },
         {
           "composer": "Pablo de Sarasate",
-          "piece": "Carmen Fantasy, Op. 25"
+          "piece": "Carmen Fantasy, Op. 25",
+          "instrumentation": "1+1,2,2,2/4,2,3,0 TIMPANI PERC HARP STRINGS + VIOLIN SOLO"
         },
         {
           "composer": "Bill Holcombe",
-          "piece": "'Twas the Night Before Christmas"
+          "piece": "'Twas the Night Before Christmas",
+          "instrumentation": "3D1, 2+1,2+1,2/4,4,3,1 TIMPANI DRUM SET MALLETS PERC PIANO HARP STRINGS + NARRATOR"
         },
         {
           "composer": "Sergei Prokofiev",
-          "piece": "Peter and the Wolf, Op. 67"
+          "piece": "Peter and the Wolf, Op. 67",
+          "instrumentation": "1,1,1,1/3,1,1,0 2PERC STRINGS + NARRATOR"
         }
       ]
     },
@@ -133,15 +140,18 @@
       "scheduleItem": [
         {
           "composer": "Aaron Copland",
-          "piece": "Quiet City"
+          "piece": "Quiet City",
+          "instrumentation": "STRINGS + EH & TRUMPET SOLO"
         },
         {
           "composer": "Leonard Bernstein",
-          "piece": "Symphonic Dances from West Side Story"
+          "piece": "Symphonic Dances from West Side Story",
+          "instrumentation": "2+1,2+1,2+2(Eb, BCL),AS,2+1/4,3,3,1 TIMP 4PERC HARP PIANO STRINGS"
         },
         {
           "composer": "Howard Hanson",
-          "piece": "Symphony No. 2 in D-flat major, Op. 30 (\"Romantic\")"
+          "piece": "Symphony No. 2 in D-flat major, Op. 30 (\"Romantic\")",
+          "instrumentation": "2+1,2+1,2,3D1/4,3,3,1 TIMPANI 3PERC HARP STRINGS"
         }
       ]
     },
@@ -152,15 +162,18 @@
       "scheduleItem": [
         {
           "composer": "Samuel Adler",
-          "piece": "Elegy for String Orchestra"
+          "piece": "Elegy for String Orchestra",
+          "instrumentation": "STRINGS"
         },
         {
           "composer": "Ludwig van Beethoven",
-          "piece": "Concerto No. 3 in C minor for Piano and Orchestra, Op. 37"
+          "piece": "Concerto No. 3 in C minor for Piano and Orchestra, Op. 37",
+          "instrumentation": "2,2,2,2/2,2,0,0 TIMPANI STRINGS + PIANO SOLO"
         },
         {
           "composer": "Antonín Dvořák",
-          "piece": "Symphony No. 9 in E minor, Op. 95 (\"From the New World\")"
+          "piece": "Symphony No. 9 in E minor, Op. 95 (\"From the New World\")",
+          "instrumentation": "2D1,2+1,2,2/4,2,3,1 TIMPANI PERC STRINGS"
         }
       ]
     }
