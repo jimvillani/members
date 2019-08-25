@@ -34,9 +34,9 @@
         "email": "wes.ballard@manassassymphony.org"
       },
       {
-        "name": "Vacant",
+        "name": "Kim Simons",
         "title": "Treasurer",
-        "email": "treasurer@manassassymphony.org"
+        "email": "kim.simons@manassassymphony.org"
       }
     ],
     "directors": [
@@ -79,6 +79,10 @@
       {
         "name": "Steven Thompson",
         "email": "steven.thompson@manassassymphony.org"
+      },
+      {
+        "name": "Andrew Wassum",
+        "email": "andrew.wassum@manassassymphony.org"
       }
     ]
   }

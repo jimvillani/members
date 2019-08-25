@@ -1,7 +1,6 @@
 {
   "links": {
-    "inactive": [],
-    "key": [
+    "inactive": [
       {
         "url": "https://forms.gle/UDKJ1sgCippFCZAR9",
         "linkText": "2019-20 Season Survey"
@@ -9,13 +8,15 @@
       {
         "url": "https://mso.me/polos19",
         "linkText": "Order MSO Polo Shirt"
-      },
+      }
+    ],
+    "key": [
       {
-        "url": "https://mso.me/absent1819",
+        "url": "https://mso.me/absent1920",
         "linkText": "Report Rehearsal Absence"
       },
       {
-        "url": "https://mso.me/setup1819",
+        "url": "https://mso.me/setup1920",
         "linkText": "Help Setup for Rehearsal"
       },
       {
@@ -29,6 +30,10 @@
       {
         "url": "https://manassassymphony.org",
         "linkText": "Main MSO Website"
+      },
+      {
+        "linkText": "Shop Amazon and Support MSO",
+        "url": "https://smile.amazon.com/ch/27-5400376"
       },
       {
         "linkText": "MSO Facebook Page",

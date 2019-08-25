@@ -1,72 +1,86 @@
 {
   "schedule": [
     {
-      "date": "July 31, 2019",
-      "time": "7:30 - 10:00 PM",
-      "location": "Hylton PAC - Merchant",
+      "date": "September 4, 2019",
+      "time": "7:30 PM",
+      "location": "Metz MS",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 7, 2019",
-      "time": "7:30 - 10:00 PM",
-      "location": "Hylton PAC - Merchant",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 14, 2019",
-      "time": "7:30 - 10:00 PM",
-      "location": "Hylton PAC - Merchant",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 17, 2019 (Dress Rehearsal)",
-      "time": "9:30 - 11:30 AM",
-      "location": "Hylton PAC - Merchant",
-      "scheduleItem": [
-        {
-          "piece": "TBD",
-          "time": "9:30"
+          "piece": "Price"
         },
         {
-          "piece": "Picnic (outside)",
-          "time": "11:30"
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Walton"
         }
       ]
     },
     {
-      "date": "August 18, 2019",
-      "time": "3:00 PM",
-      "location": "Harris Pavilion",
+      "date": "September 11, 2019",
+      "time": "7:30 PM",
+      "location": "Hylton - Stage",
       "scheduleItem": [
         {
-          "composer": "Scott Shelsta",
-          "piece": "Trombone Soloist"
+          "piece": "Rossini",
+          "time": "7:30"
+        },
+        {
+          "piece": "Walton",
+          "time": "7:50"
+        },
+        {
+          "piece": "break",
+          "time": "8:25"
+        },
+        {
+          "piece": "Arts Alive Music",
+          "time": "8:35"
         }
       ]
     },
     {
       "date": "September 15, 2019",
-      "time": "TBD",
-      "location": "Hylton PAC",
+      "time": "4:35 PM",
+      "location": "Arts Alive - Hylton PAC",
       "scheduleItem": [
         {
-          "composer": "Arts Alive",
-          "piece": "TBD"
+          "composer": "Clare Grundman",
+          "piece": "American Folk Rhapsody No. 1"
+        },
+        {
+          "composer": "Frederick Lowe, arr. John Whitney",
+          "piece": "My Fair Lady"
+        },
+        {
+          "composer": "Duke Ellington, arr. C. Custer",
+          "piece": "Duke Ellington!"
+        },
+        {
+          "piece": "Washington Post March",
+          "composer": "John Philip Sousa"
+        }
+      ]
+    },
+    {
+      "date": "September 18, 2019",
+      "time": "7:30 PM",
+      "location": "Metz MS",
+      "scheduleItem": [
+        {
+          "piece": "TBD",
+          "time": "7:30"
+        },
+        {
+          "piece": "break",
+          "time": "8:25"
+        },
+        {
+          "piece": "TBD",
+          "time": "8:35"
         }
       ]
     },
