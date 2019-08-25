@@ -2,7 +2,7 @@
   "schedule": [
     {
       "date": "September 4, 2019",
-      "time": "7:30 PM",
+      "time": "7:30-9:30 PM",
       "location": "Metz MS",
       "scheduleItem": [
         {
@@ -21,7 +21,7 @@
     },
     {
       "date": "September 11, 2019",
-      "time": "7:30 PM",
+      "time": "7:30-9:30 PM",
       "location": "Hylton - Stage",
       "scheduleItem": [
         {
@@ -44,7 +44,7 @@
     },
     {
       "date": "September 15, 2019",
-      "time": "4:35 PM",
+      "time": "4:35-5:00 PM (Call - 4:00 PM)",
       "location": "Arts Alive - Hylton PAC",
       "scheduleItem": [
         {
@@ -67,7 +67,7 @@
     },
     {
       "date": "September 18, 2019",
-      "time": "7:30 PM",
+      "time": "7:30-9:30 PM",
       "location": "Metz MS",
       "scheduleItem": [
         {
@@ -85,8 +85,34 @@
       ]
     },
     {
+      "date": "October 23, 2019",
+      "time": "7:30 - 9:45PM",
+      "location": "Hylton PAC - Gregory Theater",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Walton (w/soloist)"
+        },
+        {
+          "time": "9:15",
+          "piece": "Price"
+        }
+      ]
+    },
+    {
+      "date": "October 25, 2019",
+      "time": "7:30 - 10:00PM (Dress Rehearsal)",
+      "location": "Hylton PAC - Merchant Stage",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Concert Order"
+        }
+      ]
+    },
+    {
       "date": "October 26, 2019",
-      "time": "7:30 PM",
+      "time": "7:30 PM (Concert)",
       "location": "Hylton PAC",
       "scheduleItem": [
         {
