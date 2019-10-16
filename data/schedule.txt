@@ -1,116 +1,72 @@
 {
   "schedule": [
     {
-      "date": "September 4, 2019",
-      "time": "7:30-9:30 PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Price"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Walton"
-        }
-      ]
-    },
-    {
-      "date": "September 11, 2019",
-      "time": "7:30-9:30 PM",
-      "location": "Hylton - Stage",
-      "scheduleItem": [
-        {
-          "piece": "Rossini",
-          "time": "7:30"
-        },
-        {
-          "piece": "Walton",
-          "time": "7:50"
-        },
-        {
-          "piece": "break",
-          "time": "8:25"
-        },
-        {
-          "piece": "Arts Alive Music",
-          "time": "8:35"
-        }
-      ]
-    },
-    {
-      "date": "September 15, 2019",
-      "time": "4:35-5:00 PM (Call - 4:00 PM)",
-      "location": "Arts Alive - Hylton PAC",
-      "scheduleItem": [
-        {
-          "composer": "Clare Grundman",
-          "piece": "American Folk Rhapsody No. 1"
-        },
-        {
-          "composer": "Frederick Lowe, arr. John Whitney",
-          "piece": "My Fair Lady"
-        },
-        {
-          "composer": "Duke Ellington, arr. C. Custer",
-          "piece": "Duke Ellington!"
-        },
-        {
-          "piece": "Washington Post March",
-          "composer": "John Philip Sousa"
-        }
-      ]
-    },
-    {
-      "date": "September 18, 2019",
-      "time": "7:30-9:30 PM",
-      "location": "Metz MS",
-      "scheduleItem": [
-        {
-          "piece": "Sectional Rehearsal",
-          "time": "7:30"
-        }
-      ]
-    },
-    {
       "date": "September 25, 2019",
       "time": "7:30-9:30 PM",
       "location": "Metz MS",
       "scheduleItem": [
         {
-          "piece": "TBD",
+          "piece": "Price I",
           "time": "7:30"
+        },
+        {
+          "piece": "Price IV",
+          "time": "7:50"
+        },
+        {
+          "piece": "Price II",
+          "time": "8:10"
         },
         {
           "piece": "break",
           "time": "8:25"
         },
         {
-          "piece": "TBD",
+          "piece": "Walton I",
           "time": "8:35"
+        },
+        {
+          "piece": "Walton II",
+          "time": "9:05"
         }
       ]
     },
     {
       "date": "October 2, 2019",
       "time": "7:30-9:30 PM",
-      "location": "Metz MS",
+      "location": "Hylton PAC - Merchant Stage",
       "scheduleItem": [
         {
-          "piece": "TBD",
+          "piece": "Rossini",
           "time": "7:30"
+        },
+        {
+          "piece": "Price IV",
+          "time": "7:45"
+        },
+        {
+          "piece": "Price III",
+          "time": "8:00"
+        },
+        {
+          "piece": "Price II",
+          "time": "8:15"
         },
         {
           "piece": "break",
           "time": "8:25"
         },
         {
-          "piece": "TBD",
+          "piece": "Walton III",
           "time": "8:35"
+        },
+        {
+          "piece": "Walton I",
+          "time": "9:00"
+        },
+        {
+          "piece": "Walton II",
+          "time": "9:20"
         }
       ]
     },
@@ -120,16 +76,28 @@
       "location": "Metz MS",
       "scheduleItem": [
         {
-          "piece": "TBD",
+          "piece": "Price I",
           "time": "7:30"
+        },
+        {
+          "piece": "Price II",
+          "time": "8:00"
         },
         {
           "piece": "break",
           "time": "8:25"
         },
         {
-          "piece": "TBD",
+          "piece": "Walton I",
           "time": "8:35"
+        },
+        {
+          "piece": "Walton III",
+          "time": "8:55"
+        },
+        {
+          "piece": "Walton II",
+          "time": "9:15"
         }
       ]
     },
@@ -139,16 +107,24 @@
       "location": "Metz MS",
       "scheduleItem": [
         {
-          "piece": "TBD",
+          "piece": "Rossini",
           "time": "7:30"
+        },
+        {
+          "piece": "Price II, III",
+          "time": "7:50"
         },
         {
           "piece": "break",
           "time": "8:25"
         },
         {
-          "piece": "TBD",
+          "piece": "Price IV, I",
           "time": "8:35"
+        },
+        {
+          "time": "9:05",
+          "piece": "Walton II"
         }
       ]
     },
