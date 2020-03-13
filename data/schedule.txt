@@ -1,1 +1,45 @@
-{"schedule":[{"date":"January 8, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"piece":"Hanson (read-through)","time":"7:30"},{"piece":"break","time":"8:20"},{"piece":"Bernstein (read-through)","time":"8:30"},{"piece":"Copland (read-through)","time":"9:10"}]},{"date":"January 15, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"piece":"Hanson I","time":"7:30"},{"piece":"Hanson II","time":"7:55"},{"piece":"Hanson III","time":"8:10"},{"piece":"break","time":"8:25"},{"piece":"Prologue, Somewhere","time":"8:35"},{"piece":"Scherzo, Mambo, Rumble","time":"9:05"}]},{"date":"January 22, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"Sectional Rehearsals"}]},{"date":"January 29, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"Copland"},{"time":"7:50","piece":"Hanson 1"},{"time":"8:10","piece":"Hanson 2"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Prologue"},{"time":"8:50","piece":"Scherzo, Mambo, Cha-Cha"},{"time":"9:10","piece":"Cool/Fugue, Rumble, Finale"}]},{"date":"February 5, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"Hanson III"},{"time":"7:50","piece":"Hanson II"},{"time":"8:10","piece":"Hanson I"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Somewhere, Scherzo, Mambo"},{"time":"9:00","piece":"Cool, Fugue, Rumble"}]},{"date":"February 12, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"Copland"},{"time":"8:00","piece":"Hanson I"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Prologue, Scherzo, Mambo"},{"time":"9:00","piece":"Cha Cha through Finale"}]},{"date":"February 19, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"Hanson II, III, I"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"Bernstein"}]},{"date":"February 26, 2020","time":"7:30 - 9:30PM","location":"Hylton Recital Hall","scheduleItem":[{"time":"7:30","piece":"TBD"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"TBD"}]},{"date":"March 4, 2020","time":"7:30 - 9:45PM","location":"Hylton Merchant Hall","scheduleItem":[{"time":"7:30","piece":"TBD"},{"time":"8:25","piece":"break"},{"time":"8:35","piece":"TBD"}]},{"date":"March 6, 2020","time":"7:30 - 10:00PM","location":"Hylton Recital Hall","scheduleItem":[]},{"date":"March 7, 2020","time":"7:30 PM","location":"Hylton PAC","scheduleItem":[{"composer":"Aaron Copland","piece":"Quiet City","instrumentation":"STRINGS + EH & TRUMPET SOLO"},{"composer":"Leonard Bernstein","piece":"Symphonic Dances from West Side Story","instrumentation":"2+1,2+1,2+2(Eb, BCL),AS,2+1/4,3,3,1 TIMP 4PERC HARP PIANO STRINGS"},{"composer":"Howard Hanson","piece":"Symphony No. 2 in D-flat major, Op. 30 (\"Romantic\")","instrumentation":"2+1,2+1,2,3D1/4,3,3,1 TIMPANI 3PERC HARP STRINGS"}]},{"date":"May 9, 2020","time":"7:30 PM","location":"Hylton PAC","scheduleItem":[{"composer":"Samuel Adler","piece":"Elegy for String Orchestra","instrumentation":"STRINGS"},{"composer":"Ludwig van Beethoven","piece":"Concerto No. 3 in C minor for Piano and Orchestra, Op. 37","instrumentation":"2,2,2,2/2,2,0,0 TIMPANI STRINGS + PIANO SOLO"},{"composer":"Antonín Dvořák","piece":"Symphony No. 9 in E minor, Op. 95 (\"From the New World\")","instrumentation":"2D1,2+1,2,2/4,2,3,1 TIMPANI PERC STRINGS"}]}]}
+{
+  "schedule": [
+    {
+      "date": "March 11, 2020",
+      "time": "7:30 - 9:45PM",
+      "location": "Hylton Postma Studio - next to recital hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 9, 2020",
+      "time": "7:30 PM",
+      "location": "Hylton PAC",
+      "scheduleItem": [
+        {
+          "composer": "Samuel Adler",
+          "piece": "Elegy for String Orchestra",
+          "instrumentation": "STRINGS"
+        },
+        {
+          "composer": "Ludwig van Beethoven",
+          "piece": "Concerto No. 3 in C minor for Piano and Orchestra, Op. 37",
+          "instrumentation": "2,2,2,2/2,2,0,0 TIMPANI STRINGS + PIANO SOLO"
+        },
+        {
+          "composer": "Antonín Dvořák",
+          "piece": "Symphony No. 9 in E minor, Op. 95 (\"From the New World\")",
+          "instrumentation": "2D1,2+1,2,2/4,2,3,1 TIMPANI PERC STRINGS"
+        }
+      ]
+    }
+  ]
+}

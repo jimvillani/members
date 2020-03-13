@@ -1,18 +1,13 @@
 {
   "parts": {
     "ftp": "https://members.manassassymphony.org/parts/2019-20",
-    "links": [
+    "links": [],
+    "videos": [
       {
-        "composer": "Howard Hanson",
-        "title": "Symphony No. 2, Op. 30 (\"Romantic\")",
-        "url": "https://youtu.be/mPqyx1XjEtM",
+        "composer": "Samuel Adler",
+        "title": "Elegy",
+        "url": "https://youtu.be/u6TWHph3n74",
         "linkText": "YouTube"
-      },
-      {
-        "composer": "Antonín Dvořák",
-        "title": "Symphony No.9 in E minor, Op.95",
-        "url": "https://imslp.org/wiki/Symphony_No.9%2C_Op.95_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)#tabScore2",
-        "linkText": "Practice Parts"
       }
     ]
   }

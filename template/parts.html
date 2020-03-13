@@ -5,11 +5,21 @@
                 height="350" width="977"></iframe>
         <br/>
     </div>
-    <div class="topBorder" style="margin-top: 18px;">
+    <div class="topBorder" style="margin-top: 18px;"></div>
+    <div ng-show="partsData.links.length">
         Practice parts for these pieces are available from IMSLP.
     </div>
     <ol class="normal" style="padding-top: 6px; padding-left: 18px;" >
         <li ng-repeat="x in partsData.links">
+            {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
+            (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
+        </li>
+    </ol>
+    <div style="margin-top: 6px;">
+        Recordings or videos for these pieces are available as linked.
+    </div>
+    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" >
+        <li ng-repeat="x in partsData.videos">
             {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
             (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
         </li>
