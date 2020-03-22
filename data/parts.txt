@@ -33,6 +33,12 @@
         "linkText": "All parts"
       },
       {
+        "composer": "Weber",
+        "title": "Oberon Overture",
+        "url": "https://imslp.org/wiki/Oberon%2C_J.306_(Weber%2C_Carl_Maria_von)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
         "composer": "Brahms",
         "title": "Symphony No. 1, Op. 68",
         "url": "https://imslp.org/wiki/Symphony_No.1%2C_Op.68_(Brahms%2C_Johannes)#tabScore2",
