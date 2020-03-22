@@ -1,7 +1,44 @@
 {
   "parts": {
     "ftp": "https://members.manassassymphony.org/parts/2020-21",
-    "links": [],
+    "links": [
+      {
+        "composer": "Beethoven",
+        "title": "Violin Concerto",
+        "url": "https://imslp.org/wiki/Violin_Concerto_in_D_major%2C_Op.61_(Beethoven%2C_Ludwig_van)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
+        "composer": "Dvořák",
+        "title": "Symphony No. 9 in D minor (\"From the New World\")",
+        "url": "https://imslp.org/wiki/Symphony_No.9%2C_Op.95_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
+        "composer": "Tchaikovsky",
+        "title": "Suite No.4, Op.61 (\"Mozartiana\")",
+        "url": "https://imslp.org/wiki/Suite_No.4%2C_Op.61_(Tchaikovsky%2C_Pyotr)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
+        "composer": "Mozart",
+        "title": "Piano Concerto No. 23 in A major, K. 488",
+        "url": "https://imslp.org/wiki/Piano_Concerto_No.23_in_A_major%2C_K.488_(Mozart%2C_Wolfgang_Amadeus)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
+        "composer": "Mozart",
+        "title": "Symphony No. 38 in D major, K.504",
+        "url": "https://imslp.org/wiki/Symphony_No.38_in_D_major%2C_K.504_(Mozart%2C_Wolfgang_Amadeus)#tabScore2",
+        "linkText": "All parts"
+      },
+      {
+        "composer": "Brahms",
+        "title": "Symphony No. 1, Op. 68",
+        "url": "https://imslp.org/wiki/Symphony_No.1%2C_Op.68_(Brahms%2C_Johannes)#tabScore2",
+        "linkText": "All parts"
+      }
+    ],
     "videos": []
   }
 }
