@@ -1,14 +1,7 @@
 {
   "parts": {
-    "ftp": "https://members.manassassymphony.org/parts/2019-20",
+    "ftp": "https://members.manassassymphony.org/parts/2020-21",
     "links": [],
-    "videos": [
-      {
-        "composer": "Samuel Adler",
-        "title": "Elegy",
-        "url": "https://youtu.be/u6TWHph3n74",
-        "linkText": "YouTube"
-      }
-    ]
+    "videos": []
   }
 }
