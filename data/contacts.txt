@@ -19,9 +19,9 @@
     ],
     "officers": [
       {
-        "name": "Gail Kettlewell",
+        "name": "Diane Bennett",
         "title": "President",
-        "email": "gail.kettlewell@manassassymphony.org"
+        "email": "diane.bennett@manassassymphony.org"
       },
       {
         "name": "J. Timothy Mauk",
@@ -40,10 +40,6 @@
       }
     ],
     "directors": [
-      {
-        "name": "Diane Bennett",
-        "email": "diane.bennett@manassassymphony.org"
-      },
       {
         "name": "Andrea Brothers",
         "email": "andrea.brothers@manassassymphony.org"
