@@ -1,1 +1,24 @@
-{"seasons":[{"season":"2019-20","dates":["Sunday, August 18, 2019 - 3:00 (Harris Pavilion)","Saturday, October 26, 2019 - 7:30 ","Saturday, December 7, 2019 - 3:30","Saturday, March 7, 2020 - 7:30","Saturday, May 9, 2020 - 7:30"]},{"season":"2020-21","dates":["Sunday, August 30, 2020 - 3:00 (Harris Pavilion)","Saturday, October 17, 2020 - 7:30 ","Saturday, December 12, 2020 - 3:30","Saturday, March 6, 2021 - 7:30","Saturday, May 8, 2021 - 7:30"]},{"season":"2021-22","dates":["Sunday, August 29, 2021 - 3:00 (Harris Pavilion)","Saturday, October 23, 2021 - 7:30 ","Saturday, December 4, 2021 - 3:30","Saturday, March 5, 2022 - 7:30","Saturday, May 7, 2022 - 7:30"]}]}
+{
+  "seasons": [
+    {
+      "season": "2020-21",
+      "dates": [
+        "Sunday, August 30, 2020 - 3:00 (Harris Pavilion)",
+        "Saturday, October 17, 2020 - 7:30 ",
+        "Saturday, December 12, 2020 - 3:30",
+        "Saturday, March 6, 2021 - 7:30",
+        "Saturday, May 8, 2021 - 7:30"
+      ]
+    },
+    {
+      "season": "2021-22",
+      "dates": [
+        "Sunday, August 29, 2021 - 3:00 (Harris Pavilion)",
+        "Saturday, October 23, 2021 - 7:30 ",
+        "Saturday, December 4, 2021 - 3:30",
+        "Saturday, March 5, 2022 - 7:30",
+        "Saturday, May 7, 2022 - 7:30"
+      ]
+    }
+  ]
+}
