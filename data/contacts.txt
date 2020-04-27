@@ -45,10 +45,6 @@
         "email": "andrea.brothers@manassassymphony.org"
       },
       {
-        "name": "Matt Davis",
-        "email": "matt.davis@manassassymphony.org"
-      },
-      {
         "name": "Larry Hughes",
         "email": "lawrence.hughes@manassassymphony.org"
       },
