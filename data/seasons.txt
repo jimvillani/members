@@ -3,8 +3,8 @@
     {
       "season": "2020-21",
       "dates": [
-        "Sunday, August 30, 2020 - 3:00 (Harris Pavilion)",
-        "Saturday, October 17, 2020 - 7:30 ",
+        "Sunday, August 30, 2020 - CANCELED",
+        "Saturday, October 17, 2020 - 7:30",
         "Saturday, December 12, 2020 - 3:30",
         "Saturday, March 6, 2021 - 7:30",
         "Saturday, May 8, 2021 - 7:30"
