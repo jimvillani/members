@@ -34,9 +34,9 @@
         "email": "wes.ballard@manassassymphony.org"
       },
       {
-        "name": "Kim Simons",
+        "name": "Allen Howe",
         "title": "Treasurer",
-        "email": "kim.simons@manassassymphony.org"
+        "email": "allen.howe@manassassymphony.org"
       }
     ],
     "directors": [
@@ -53,16 +53,16 @@
         "email": "andy.loerch@manassassymphony.org"
       },
       {
-        "name": "Bob Marsh",
-        "email": "bob.marsh@manassassymphony.org"
-      },
-      {
         "name": "Shirley Rice",
         "email": "shirley.rice@manassassymphony.org"
       },
       {
         "name": "C. Milton Rodgers",
         "email": "milton.rodgers@manassassymphony.org"
+      },
+      {
+        "name": "Beth Sharpe",
+        "email": "beth.sharpe@manassassymphony.org"
       },
       {
         "name": "Ed Stephenson",
