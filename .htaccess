@@ -5,8 +5,14 @@ AuthUserFile /home/users/web/b2190/pow.jimvillani/members/htdocs/.htpasswd
 AuthType basic
 # End password protection #
 
-ErrorDocument 401 http://www.manassassymphony.org/
-ErrorDocument 403 http://www.manassassymphony.org/
+ErrorDocument 401 https://www.manassassymphony.org/
+ErrorDocument 403 https://members.manassassymphony.org/
+
+<FilesMatch "\.txt$">
+  ExpiresActive On
+  ExpiresDefault A1
+  Header append Cache-Control must-revalidate
+</FilesMatch>
 
 RewriteEngine On
 RewriteCond %{HTTPS} off
