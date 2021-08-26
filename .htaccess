@@ -8,7 +8,7 @@ AuthType basic
 ErrorDocument 401 https://www.manassassymphony.org/
 ErrorDocument 403 https://members.manassassymphony.org/
 
-<FilesMatch "\.txt$">
+<FilesMatch "\.json$">
   ExpiresActive On
   ExpiresDefault A1
   Header append Cache-Control must-revalidate

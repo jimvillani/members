@@ -1,6 +1,6 @@
 var app = angular.module('app');
 app.controller('scheduleCtrl', function ($scope, $http) {
-    $http.get("data/schedule.txt")
+    $http.get("data/schedule.min.json")
         .then(function (response) {
             $scope.scheduleData = response.data.schedule;
             $scope.schedLength = $scope.scheduleData.length;
