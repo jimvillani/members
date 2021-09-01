@@ -18,6 +18,10 @@
           "piece": "Irish Tune from County Derry"
         },
         {
+          "composer": "Sousa",
+          "piece": "Simpre Fidelis"
+        },
+        {
           "composer": "Grundman",
           "piece": "American Folk Rhapsody No. 2"
         },
@@ -62,6 +66,11 @@
           "composer": "Grainger",
           "piece": "Irish Tune from County Derry",
           "instrumentation": "0.0.0.0/2.0.0.0 str"
+        },
+        {
+          "composer": "Sousa",
+          "piece": "Simpre Fidelis",
+          "instrumentation": "2+1.2.2.2/4.4.3.1 str timp perc"
         },
         {
           "composer": "Grundman",
@@ -140,7 +149,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Haydn"
         },
         {
           "time": "8:25",
@@ -148,7 +157,7 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beethoven"
         }
       ]
     },
@@ -159,7 +168,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beethoven (w/soloist)"
         },
         {
           "time": "8:25",
