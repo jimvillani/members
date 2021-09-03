@@ -1,9 +1,9 @@
 {
   "schedule": [
     {
-      "date": "September 1, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
+      "date": "September 5, 2021",
+      "time": "3:00PM Concert (Call 2:15)",
+      "location": "Harris Pavilion, Manassas",
       "scheduleItem": [
         {
           "composer": "Gould",
@@ -44,63 +44,6 @@
         {
           "composer": "Sousa",
           "piece": "Stars and Stripes Forever"
-        }
-      ]
-    },
-    {
-      "date": "September 5, 2021",
-      "time": "3:00PM Concert (Call 2:15)",
-      "location": "Harris Pavilion, Manassas",
-      "scheduleItem": [
-        {
-          "composer": "Gould",
-          "piece": "American Salute",
-          "instrumentation": "2+1.2+1.2+1.2/4.3.3.1 str timp perc po"
-        },
-        {
-          "composer": "Rodgers/Moss",
-          "piece": "A Salute to Rodgers and Hammerstein",
-          "instrumentation": "2d1.1.2+1.1/4.3.3.1 str timp perc po"
-        },
-        {
-          "composer": "Grainger",
-          "piece": "Irish Tune from County Derry",
-          "instrumentation": "0.0.0.0/2.0.0.0 str"
-        },
-        {
-          "composer": "Sousa",
-          "piece": "Simpre Fidelis",
-          "instrumentation": "2+1.2.2.2/4.4.3.1 str timp perc"
-        },
-        {
-          "composer": "Grundman",
-          "piece": "American Folk Rhapsody No. 2",
-          "instrumentation": "2+1.2.2+1.2/4.3.3.1 str timp perc"
-        },
-        {
-          "composer": "Gershwin/Brubaker",
-          "piece": "Rhapsody in Blue",
-          "instrumentation": "2.1.2+1.2/4.3.3.1 str timp perc po"
-        },
-        {
-          "composer": "Joplin/Lawson",
-          "piece": "Joplin Ragtime (Maple Leaf Rag only)",
-          "instrumentation": "2d1.2.2.2/2.2.3.1 str timp perc"
-        },
-        {
-          "composer": "Meacham",
-          "piece": "America Patrol",
-          "instrumentation": "2+1.2.2.2/4.2.2.1 str timp perc"
-        },
-        {
-          "composer": "Strommen",
-          "piece": "Salute to the Cinema",
-          "instrumentation": "2.1.2+1.2/4.3.3.1 str timp perc"
-        },
-        {
-          "composer": "Sousa",
-          "piece": "Stars and Stripes Forever",
-          "instrumentation": "2+1.2.2.2/4.4.3.1 str timp perc"
         }
       ]
     },
