@@ -29,7 +29,7 @@
             </div>
         </div>
         <div ng-repeat="x in contactsData.directors |
-             slice:0:((contactsData.directors.length/2 + 1) - (contactsData.officers.length/2))">
+             slice:0:((contactsData.directors.length/2) - (contactsData.officers.length/2))">
             <div class="contactname">
                 {{x.name}}
             </div>
@@ -41,7 +41,7 @@
     <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="right">
         <div class="headline">&nbsp;</div>
         <div ng-repeat="x in contactsData.directors |
-             slice:((contactsData.directors.length/2 + 1) - (contactsData.officers.length/2)):contactsData.directors.length">
+             slice:((contactsData.directors.length/2) - (contactsData.officers.length/2)):contactsData.directors.length">
             <div class="contactname">
                 {{x.name}}
             </div>
