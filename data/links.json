@@ -2,6 +2,10 @@
   "links": {
     "inactive": [
       {
+        "url": "https://mso.me/absent20-21",
+        "linkText": "Report Rehearsal Absence"
+      },
+      {
         "url": "http://mso.me/absent20-21",
         "linkText": "Report Rehearsal Absence"
       },
@@ -35,10 +39,6 @@
       }
     ],
     "key": [
-      {
-        "url": "https://mso.me/absent20-21",
-        "linkText": "Report Rehearsal Absence"
-      },
       {
         "url": "https://manassassymphony.org",
         "linkText": "Main MSO Website"
