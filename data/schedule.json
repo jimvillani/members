@@ -1,75 +1,6 @@
 {
   "schedule": [
     {
-      "date": "September 15, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Weber"
-        },
-        {
-          "time": "7:50",
-          "piece": "Beethoven (read-through)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Haydn (read-through)"
-        },
-        {
-          "time": "9:10",
-          "piece": "Elgar"
-        }
-      ]
-    },
-    {
-      "date": "September 22, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Weber"
-        },
-        {
-          "time": "8:00",
-          "piece": "Haydn"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Beethoven"
-        }
-      ]
-    },
-    {
-      "date": "September 29, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Beethoven (w/soloist)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
       "date": "October 6, 2021",
       "time": "7:30 - 9:30PM",
       "location": "Hylton Recital Hall",
@@ -128,20 +59,20 @@
     },
     {
       "date": "October 22, 2021",
-      "time": "7:30 - 9:30PM - Final Rehearsal",
-      "location": "Hylton Recital Hall",
+      "time": "7:30 - 10:00PM - Dress Rehearsal",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Weber"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Beethoven"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Elgar"
+        },
+        {
+          "piece": "Haydn"
         }
       ]
     },
@@ -151,29 +82,20 @@
       "location": "Hylton PAC",
       "scheduleItem": [
         {
-          "composer": "Edward Elgar",
-          "piece": "Elegy",
-          "instrumentation": "strings"
-        },
-        {
           "composer": "Carl Maria Von Weber",
-          "piece": "Oberon Overture",
-          "instrumentation": "2.2.2.2/4.2.3.0 timp strings"
+          "piece": "Oberon Overture"
         },
         {
           "composer": "Ludwig van Beethoven",
-          "piece": "Concerto for Violin in D",
-          "instrumentation": "1.2.2.2/2.2.0.0 timp strings"
+          "piece": "Concerto for Violin in D"
+        },
+        {
+          "composer": "Edward Elgar",
+          "piece": "Elegy"
         },
         {
           "composer": "Franz Josef Haydn",
-          "piece": "Symphony in G major (Oxford)",
-          "instrumentation": "1.2.0.2/2.2.0.0 timp perc strings"
-        },
-        {
-          "composer": "Peter Schickele",
-          "piece": "Unbegun Symphony, mvmt. IV (encore)",
-          "instrumentation": "2.2.2.2/2.2.0.0 strings"
+          "piece": "Symphony #92 in G major (Oxford)"
         }
       ]
     },
