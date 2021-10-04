@@ -7,7 +7,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Weber"
+        },
+        {
+          "time": "8:10",
+          "piece": "Elgar"
         },
         {
           "time": "8:25",
@@ -15,7 +19,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Haydn"
+        },
+        {
+          "time": "9:10",
+          "piece": "Beethoven"
         }
       ]
     },
@@ -40,12 +48,12 @@
     },
     {
       "date": "October 20, 2021",
-      "time": "7:30 - 9:30PM - Dress for Photos",
+      "time": "7:30 - 9:40PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beethoven w/soloist"
         },
         {
           "time": "8:25",
@@ -53,13 +61,21 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Weber"
+        },
+        {
+          "time": "8:55",
+          "piece": "Haydn"
+        },
+        {
+          "time": "9:20",
+          "piece": "Elgar"
         }
       ]
     },
     {
       "date": "October 22, 2021",
-      "time": "7:30 - 10:00PM - Dress Rehearsal",
+      "time": "7:30 - 10:00PM - Dress for Photos",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
