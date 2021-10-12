@@ -34,7 +34,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Weber"
+        },
+        {
+          "time": "7:55",
+          "piece": "Beethoven"
         },
         {
           "time": "8:25",
@@ -42,7 +46,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Haydn"
+        },
+        {
+          "time": "9:15",
+          "piece": "Elgar"
         }
       ]
     },
