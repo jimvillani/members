@@ -129,9 +129,9 @@
       "location": "Hylton PAC",
       "scheduleItem": [
         {
-          "composer": "Percy Grainger",
+          "composer": "Anthony Giamanco",
           "piece": "Early One Morning ",
-          "instrumentation": "2.2.2.2/2.1.1+1(euph).1 strings"
+          "instrumentation": "2.2.2+1.2/4.3.3.1 perc hp strings"
         },
         {
           "composer": "James M. Stephenson",
@@ -145,7 +145,7 @@
         },
         {
           "composer": "Charles Griffes",
-          "piece": "Poem ",
+          "piece": "Poem",
           "instrumentation": "0.0.0.0/2.0.0.0 perc hp strings"
         },
         {
@@ -160,7 +160,7 @@
         },
         {
           "composer": "Jonathan Romeo",
-          "piece": "Light ",
+          "piece": "Light",
           "instrumentation": "2.2.2.2/4.2.3.1 timp perc strings"
         },
         {
