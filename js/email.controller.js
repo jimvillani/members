@@ -1,7 +1,8 @@
 var app = angular.module('app');
-app.controller('emailCtrl', function ($scope, $http) {
+app.controller('emailCtrl', function ($scope, $http, $sce) {
     $http.get("data/email.min.json")
         .then(function (response) {
             $scope.emailData = response.data.email;
+            $scope.emailData.url = $sce.trustAsResourceUrl($scope.emailData.url);
         });
 });
