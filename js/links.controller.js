@@ -4,4 +4,4 @@ app.controller('linksCtrl', function ($scope, $http) {
         .then(function (response) {
             $scope.linksData = response.data.links;
         });
-});
+}); 

@@ -1,9 +1,9 @@
 var app = angular.module('app');
-app.directive('seasons', function () {
+app.directive('email', function () {
     return {
         restrict: 'E',
         transclude: true,
         scope: {},
-        templateUrl: 'template/seasons.html'
+        templateUrl: 'template/email.html'
     }
 });
