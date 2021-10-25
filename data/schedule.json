@@ -1,29 +1,6 @@
 {
   "schedule": [
     {
-      "date": "October 23, 2021",
-      "time": "7:30 PM Concert",
-      "location": "Hylton PAC",
-      "scheduleItem": [
-        {
-          "composer": "Carl Maria Von Weber",
-          "piece": "Oberon Overture"
-        },
-        {
-          "composer": "Ludwig van Beethoven",
-          "piece": "Concerto for Violin in D"
-        },
-        {
-          "composer": "Edward Elgar",
-          "piece": "Elegy"
-        },
-        {
-          "composer": "Franz Josef Haydn",
-          "piece": "Symphony #92 in G major (Oxford)"
-        }
-      ]
-    },
-    {
       "date": "October 27, 2021",
       "time": "7:30 - 9:30PM",
       "location": "Hylton Recital Hall",
