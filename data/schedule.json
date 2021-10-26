@@ -6,16 +6,25 @@
       "location": "Hylton Recital Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Romeo"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Holst"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Strauss"
+        },
+        {
+          "piece": "Giamanco"
+        },
+        {
+          "piece": "Stephenson"
+        },
+        {
+          "piece": "Vaughan Williams"
+        },
+        {
+          "piece": "Griffes"
         }
       ]
     },
