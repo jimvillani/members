@@ -35,7 +35,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Griffes w/ soloist"
+        },
+        {
+          "time": "8:00",
+          "piece": "Holst"
         },
         {
           "time": "8:25",
@@ -43,7 +47,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Romeo"
+        },
+        {
+          "time": "9:00",
+          "piece": "Stephenson"
         }
       ]
     },
@@ -151,11 +159,6 @@
           "composer": "Charles Griffes",
           "piece": "Poem",
           "instrumentation": "0.0.0.0/2.0.0.0 perc hp strings"
-        },
-        {
-          "composer": "Ralph Vaughan Williams",
-          "piece": "Fantasia on Greensleeves ",
-          "instrumentation": "2.0.0.0/0.0.0.0 hp strings"
         },
         {
           "composer": "Gustav Holst",
