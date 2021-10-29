@@ -1,7 +1,25 @@
 {
   "parts": {
-    "ftp": "https://members.manassassymphony.org/parts/2021-22",
+    "ftp": "https://members.manassassymphony.org/parts/2021-22/december",
     "links": [
+      {
+        "composer": "Giamanco",
+        "title": "Early One Morning",
+        "url": "https://www.sheetmusicplus.com/look_inside?R=22030858",
+        "linkText": "Audio recording"
+      },
+      {
+        "composer": "Stephenson",
+        "title": "Colors",
+        "url": "https://composerjim.com/works/colors/",
+        "linkText": "Audio recording"
+      },
+      {
+        "composer": "Romeo",
+        "title": "Light",
+        "url": "https://mso.me/romeo-light",
+        "linkText": "Audio recording"
+      },
       {
         "composer": "Strauss",
         "title": "On the Beautiful Blue Danube",
