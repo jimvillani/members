@@ -62,7 +62,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Griffes"
+        },
+        {
+          "time": "7:50",
+          "piece": "Strauss"
+        },
+        {
+          "time": "8:05",
+          "piece": "Holst"
         },
         {
           "time": "8:25",
@@ -70,7 +78,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Giamanco"
+        },
+        {
+          "time": "8:45",
+          "piece": "Romeo"
+        },
+        {
+          "time": "9:00",
+          "piece": "Stephenson (Blue, Green, White)"
         }
       ]
     },
@@ -99,7 +115,7 @@
     },
     {
       "date": "December 1, 2021",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:45PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
@@ -118,7 +134,7 @@
     },
     {
       "date": "December 3, 2021",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 10:00PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
