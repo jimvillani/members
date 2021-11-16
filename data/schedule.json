@@ -97,15 +97,35 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Griffes"
         },
         {
-          "time": "8:25",
+          "time": "7:50",
+          "piece": "Strauss"
+        },
+        {
+          "time": "8:00",
+          "piece": "Romeo"
+        },
+        {
+          "time": "8:15",
+          "piece": "Holst"
+        },
+        {
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:40",
+          "piece": "Christmas Blast"
+        },
+        {
+          "time": "8:55",
+          "piece": "Sleigh Ride & JBF"
+        },
+        {
+          "time": "9:05",
+          "piece": "Stephenson"
         }
       ]
     },
