@@ -1,115 +1,25 @@
 {
   "schedule": [
     {
-      "date": "October 27, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
+      "date": "December 1, 2021",
+      "time": "7:30 - 9:45PM",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Romeo"
-        },
-        {
-          "piece": "Holst"
-        },
-        {
-          "piece": "Strauss"
-        },
-        {
+          "time": "7:30",
           "piece": "Giamanco"
         },
         {
+          "time": "7:40",
           "piece": "Stephenson"
         },
         {
-          "piece": "Vaughan Williams"
+          "time": "7:55",
+          "piece": "Strauss, Jr."
         },
         {
+          "time": "8:10",
           "piece": "Griffes"
-        }
-      ]
-    },
-    {
-      "date": "November 3, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Griffes w/ soloist"
-        },
-        {
-          "time": "8:00",
-          "piece": "Holst"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Romeo"
-        },
-        {
-          "time": "9:00",
-          "piece": "Stephenson"
-        }
-      ]
-    },
-    {
-      "date": "November 10, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Griffes"
-        },
-        {
-          "time": "7:50",
-          "piece": "Strauss"
-        },
-        {
-          "time": "8:05",
-          "piece": "Holst"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Giamanco"
-        },
-        {
-          "time": "8:45",
-          "piece": "Romeo"
-        },
-        {
-          "time": "9:00",
-          "piece": "Stephenson (Blue, Green, White)"
-        }
-      ]
-    },
-    {
-      "date": "November 17, 2021",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Griffes"
-        },
-        {
-          "time": "7:50",
-          "piece": "Strauss"
-        },
-        {
-          "time": "8:00",
-          "piece": "Romeo"
-        },
-        {
-          "time": "8:15",
-          "piece": "Holst"
         },
         {
           "time": "8:30",
@@ -117,38 +27,23 @@
         },
         {
           "time": "8:40",
-          "piece": "Christmas Blast"
+          "piece": "Holst"
         },
         {
-          "time": "8:55",
-          "piece": "Sleigh Ride & JBF"
+          "time": "9:00",
+          "piece": "Romeo"
         },
         {
-          "time": "9:05",
-          "piece": "Stephenson"
-        }
-      ]
-    },
-    {
-      "date": "November 24, 2021",
-      "time": "No Rehearsal"
-    },
-    {
-      "date": "December 1, 2021",
-      "time": "7:30 - 9:45PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
+          "time": "9:15",
+          "piece": "Anderson"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "time": "9:20",
+          "piece": "DiLorenzo"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "9:30",
+          "piece": "Pierpont/Sousa/Smith"
         }
       ]
     },
@@ -158,16 +53,31 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Giamanco"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Stephenson"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Strauss, Jr."
+        },
+        {
+          "piece": "Griffes"
+        },
+        {
+          "piece": "Holst"
+        },
+        {
+          "piece": "Romeo"
+        },
+        {
+          "piece": "Anderson"
+        },
+        {
+          "piece": "DiLorenzo"
+        },
+        {
+          "piece": "Pierpont/Sousa/Smith"
         }
       ]
     },
