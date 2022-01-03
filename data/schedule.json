@@ -2,6 +2,10 @@
   "schedule": [
     {
       "date": "January 5, 2022",
+      "time": "REHEARSAL CANCELED"
+    },
+    {
+      "date": "January 12, 2022",
       "time": "7:30 - 9:30PM",
       "location": "Hylton Recital Hall",
       "scheduleItem": [
@@ -24,25 +28,6 @@
         {
           "time": "8:55",
           "piece": "Concerto"
-        }
-      ]
-    },
-    {
-      "date": "January 12, 2022",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
         }
       ]
     },
