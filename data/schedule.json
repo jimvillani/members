@@ -77,7 +77,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Tchaikovsky II"
+        },
+        {
+          "time": "7:45",
+          "piece": "Tchaikovsky IV: Var. 5-8"
+        },
+        {
+          "time": "8:05",
+          "piece": "Tchaikovsky IV: Var. 9"
         },
         {
           "time": "8:25",
@@ -85,7 +93,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Symphony I"
+        },
+        {
+          "time": "9:00",
+          "piece": "Concerto I"
+        },
+        {
+          "time": "9:15",
+          "piece": "Concerto III"
         }
       ]
     },
