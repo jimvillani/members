@@ -1,71 +1,13 @@
 {
   "schedule": [
     {
-      "date": "February 9, 2022",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Tchaikovsky I"
-        },
-        {
-          "time": "7:45",
-          "piece": "Tchaikovsky III (no harp)"
-        },
-        {
-          "time": "8:00",
-          "piece": "Tchaikovsky IV"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Symphony I (m. 143 - end)"
-        },
-        {
-          "time": "9:05",
-          "piece": "Symphony III"
-        }
-      ]
-    },
-    {
-      "date": "February 16, 2022",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Tchaikovsky (harp, please)"
-        },
-        {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Symphony II"
-        },
-        {
-          "time": "8:50",
-          "piece": "Concerto II"
-        },
-        {
-          "time": "9:00",
-          "piece": "Concerto III"
-        }
-      ]
-    },
-    {
       "date": "February 23, 2022",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:30 PM",
       "location": "Hylton Recital Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Tchaikovsky (harp please)"
         },
         {
           "time": "8:25",
@@ -73,13 +15,13 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Symphony"
         }
       ]
     },
     {
       "date": "March 2, 2022",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:30 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
@@ -98,42 +40,31 @@
     },
     {
       "date": "March 4, 2022",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 10:00 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
     {
       "date": "March 5, 2020",
-      "time": "7:30 PM Concert",
+      "time": "7:30 PM Concert (7 PM Call)",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "piece": "Suite No. 4, Op. 61 (\"Mozartiana\")",
-          "composer": "Pytor Ilych Tchaikovsky",
-          "instrumentation": "2.2.2.2/4.2.0.0 timp perc harp strings"
+          "composer": "Pytor Ilych Tchaikovsky"
         },
         {
           "piece": "Piano Concerto in A Major, K. 488",
-          "composer": "W. A. Mozart",
-          "instrumentation": "1.0.2.2/2.0.0.0 strings"
+          "composer": "W. A. Mozart"
         },
         {
           "piece": "Symphony No. 38 in D Major, K. 504 (\"Prague\")",
-          "composer": "W. A. Mozart",
-          "instrumentation": "2.2.0.2/2.2.0.0 timp strings"
+          "composer": "W. A. Mozart"
         }
       ]
     },
