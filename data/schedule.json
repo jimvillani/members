@@ -1,44 +1,6 @@
 {
   "schedule": [
     {
-      "date": "February 23, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "Hylton Recital Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Tchaikovsky (harp please)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Symphony"
-        }
-      ]
-    },
-    {
-      "date": "March 2, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Concerto w/soloist"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Concerto cont'd"
-        }
-      ]
-    },
-    {
       "date": "March 4, 2022",
       "time": "7:30 - 10:00 PM",
       "location": "Merchant Hall",
@@ -50,7 +12,7 @@
       ]
     },
     {
-      "date": "March 5, 2020",
+      "date": "March 5, 2022",
       "time": "7:30 PM Concert (7 PM Call)",
       "location": "Merchant Hall",
       "scheduleItem": [
@@ -67,6 +29,14 @@
           "composer": "W. A. Mozart"
         }
       ]
+    },
+    {
+      "date": "March 9, 2022",
+      "time": "No Rehearsal"
+    },
+    {
+      "date": "April 13, 2022",
+      "time": "No Rehearsal"
     },
     {
       "date": "May 7, 2020",
