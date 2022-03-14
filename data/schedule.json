@@ -1,45 +1,163 @@
 {
   "schedule": [
     {
-      "date": "March 4, 2022",
-      "time": "7:30 - 10:00 PM",
-      "location": "Merchant Hall",
+      "date": "March 16, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Concert Order"
+          "piece": "String Sectional - Rehearsal Room"
+        },
+        {
+          "time": "7:30",
+          "piece": "Wind Sectional - Postma Room (next to regular room)"
+        },
+        {
+          "time": "9:00",
+          "piece": "Full Orchestra - Benedetti (no percussion)"
         }
       ]
     },
     {
-      "date": "March 5, 2022",
-      "time": "7:30 PM Concert (7 PM Call)",
-      "location": "Merchant Hall",
+      "date": "March 23, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
       "scheduleItem": [
         {
-          "piece": "Suite No. 4, Op. 61 (\"Mozartiana\")",
-          "composer": "Pytor Ilych Tchaikovsky"
+          "time": "7:30",
+          "piece": "TBD"
         },
         {
-          "piece": "Piano Concerto in A Major, K. 488",
-          "composer": "W. A. Mozart"
+          "time": "8:25",
+          "piece": "break"
         },
         {
-          "piece": "Symphony No. 38 in D Major, K. 504 (\"Prague\")",
-          "composer": "W. A. Mozart"
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "March 9, 2022",
-      "time": "No Rehearsal"
+      "date": "March 30, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 6, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
     },
     {
       "date": "April 13, 2022",
       "time": "No Rehearsal"
     },
     {
-      "date": "May 7, 2020",
+      "date": "April 20, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 27, 2022",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton Recital Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 4, 2022",
+      "time": "7:30 - 9:45PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 6, 2022",
+      "time": "Dress Rehearsal 7:30 - 10:00PM",
+      "location": "Hylton Recital Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 7, 2022",
       "time": "7:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
