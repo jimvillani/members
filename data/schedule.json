@@ -45,7 +45,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Benedetti"
+        },
+        {
+          "time": "8:05",
+          "piece": "Beethoven III"
         },
         {
           "time": "8:25",
@@ -53,7 +57,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beethoven I"
+        },
+        {
+          "time": "9:00",
+          "piece": "Beethoven IV"
         }
       ]
     },
@@ -64,15 +72,23 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Benedetti"
         },
         {
-          "time": "8:25",
+          "time": "8:00",
+          "piece": "Haydn I"
+        },
+        {
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:40",
+          "piece": "Beethoven II"
+        },
+        {
+          "time": "9:05",
+          "piece": "Beethoven I"
         }
       ]
     },
