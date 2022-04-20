@@ -103,7 +103,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Copland"
+        },
+        {
+          "time": "7:50",
+          "piece": "Benedetti"
         },
         {
           "time": "8:25",
@@ -111,7 +115,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beethoven IV"
+        },
+        {
+          "time": "9:00",
+          "piece": "Beethoven III"
+        },
+        {
+          "time": "9:15",
+          "piece": "Beethoven II"
         }
       ]
     },
@@ -122,6 +134,10 @@
       "scheduleItem": [
         {
           "time": "7:30",
+          "piece": "Haydn w/Soloist"
+        },
+        {
+          "time": "8:00",
           "piece": "TBD"
         },
         {
