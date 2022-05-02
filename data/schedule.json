@@ -153,7 +153,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Haydn"
+          "piece": "Copland"
+        },
+        {
+          "time": "7:40",
+          "piece": "Benedetti"
+        },
+        {
+          "time": "8:00",
+          "piece": "Beethoven I"
         },
         {
           "time": "8:25",
@@ -161,7 +169,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beethoven II, IV"
+        },
+        {
+          "time": "9:05",
+          "piece": "Haydn"
         }
       ]
     },
@@ -171,16 +183,16 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Benedetti"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Haydn"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Copland"
+        },
+        {
+          "piece": "Beethoven"
         }
       ]
     },
@@ -190,11 +202,6 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Fanfare for the Common Man",
-          "composer": "Aaron Copland",
-          "instrumentation": "0.0.0.0/4.3.3.1 timp perc"
-        },
-        {
           "piece": "Citas Inocentes",
           "composer": "Josefina Benedetti",
           "instrumentation": "2+1.2+1.2.2/4.3.3.1 timp perc piano strings"
@@ -203,6 +210,11 @@
           "piece": "Cello Concerto No. 1 in C Major, Hob. VIIb/1",
           "composer": "Franz Josef Haydn",
           "instrumentation": "0.2.0.0/2.0.0.0 strings"
+        },
+        {
+          "piece": "Fanfare for the Common Man",
+          "composer": "Aaron Copland",
+          "instrumentation": "0.0.0.0/4.3.3.1 timp perc"
         },
         {
           "piece": "Symphony No. 8 in F major, Op. 93",
