@@ -6,10 +6,6 @@
         "linkText": "Report Rehearsal Absence"
       },
       {
-        "url": "http://mso.me/absent20-21",
-        "linkText": "Report Rehearsal Absence"
-      },
-      {
         "url": "https://mso.me/setup1920",
         "linkText": "Help Setup for Rehearsal"
       },
@@ -18,34 +14,14 @@
         "linkText": "Order MSO Polo Shirt"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer030720.pdf",
-        "linkText": "March Concert Flyer PDF"
-      },
-      {
-        "url": "https://www.manassassymphony.org/pr/flyer030720.png",
-        "linkText": "March Concert Flyer Graphic"
-      },
-      {
         "url": "https://remind.com/join/mso1920",
         "linkText": "Sign-up for text messages (or text @mso1920 to 81010)"
-      },
-      {
-        "url": "https://forms.gle/nLAxRfuJTE62Hyfs9",
-        "linkText": "2021-22 Season Survey"
-      },
-      {
-        "url": "https://www.nvcc.edu/admissions/register.html",
-        "linkText": "Register for credit (Spring 2020 - MUS 148-080M\n(52775))"
       }
     ],
     "key": [
       {
-        "url": "https://www.manassassymphony.org/pr/flyer050722.pdf",
-        "linkText": "May Concert Flyer PDF"
-      },
-      {
-        "url": "https://www.manassassymphony.org/pr/flyer050722.png",
-        "linkText": "May Concert Flyer Graphic"
+        "url": "https://www.manassassymphony.org/pr/MSO_SeasonBrochure_2022-23.pdf",
+        "linkText": "2022-23 Season Brochure"
       },
       {
         "url": "https://manassassymphony.org",
