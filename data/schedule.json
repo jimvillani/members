@@ -1,52 +1,21 @@
 {
   "schedule": [
     {
-      "date": "August 17, 2022",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Elvis"
-        },
-        {
-          "time": "7:45",
-          "piece": "Doors"
-        },
-        {
-          "time": "8:00",
-          "piece": "Beatles"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Eagles"
-        },
-        {
-          "time": "8:50",
-          "piece": "Beach Boys"
-        },
-        {
-          "time": "9:05",
-          "piece": "Led Zeppelin"
-        },
-        {
-          "time": "9:20",
-          "piece": "Journey"
-        }
-      ]
-    },
-    {
       "date": "August 24, 2022",
       "time": "7:30 - 9:30PM",
       "location": "Hylton Rehearsal Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beatles"
+        },
+        {
+          "time": "8:00",
+          "piece": "Elvis"
+        },
+        {
+          "time": "8:15",
+          "piece": "Led Zeppelin [86]"
         },
         {
           "time": "8:25",
@@ -54,49 +23,54 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Eagles [78]"
+        },
+        {
+          "time": "8:50",
+          "piece": "Doors"
+        },
+        {
+          "time": "9:00",
+          "piece": "Journey"
+        },
+        {
+          "time": "9:10",
+          "piece": "Lux Aeterna (Raleigh Ringers Quintet only)"
         }
       ]
     },
     {
       "date": "Sunday, August 28, 2022",
-      "time": "3:00 PM Concert",
+      "time": "1:00 Setup; 1:15 Sound check; 2:00 Picnic; 3:00 PM Concert",
       "location": "Locust Shade Park",
       "scheduleItem": [
         {
-          "piece": "Beach Boys Medley",
-          "composer": "arr. Calvin Custer",
-          "instrumentation": "2+1.2.2.1/4.3.3.1,timp,2 perc,pf,str"
-        },
-        {
-          "piece": "The Doors on Tour",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.1.2+1.1/2.3.3.1,timp,5 perc,drumset,str"
-        },
-        {
           "piece": "Led Zeppelin Reunion",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.2.2+1.2/4.2.3.1,timp,3 perc,drumset,str"
+          "composer": "arr. Patrick Roszell"
         },
         {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "arr. Healey",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,6 perc,hp,pf/cel,penny whistle,str"
-        },
-        {
-          "piece": "Journey's Greatest Hits",
-          "composer": "arr. Victor Lopez",
-          "instrumentation": "2.2.2+1.2/4.3.3.1,timp,5 perc,drumset,pf,str"
+          "piece": "Beach Boys Medley",
+          "composer": "arr. Calvin Custer"
         },
         {
           "piece": "The Eagles on Tour",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.1.2+1.1/2.3.3.1,timp,4 perc,drumset,str"
+          "composer": "arr. Patrick Roszell"
+        },
+        {
+          "piece": "Love is All You Need (A Tribute to the Beatles)",
+          "composer": "arr. Healey"
+        },
+        {
+          "piece": "The Doors on Tour",
+          "composer": "arr. Patrick Roszell"
+        },
+        {
+          "piece": "Journey's Greatest Hits",
+          "composer": "arr. Victor Lopez"
         },
         {
           "piece": "A Tribute to the King (The Music of Elvis Presley)",
-          "composer": "arr. Ted Ricketts",
-          "instrumentation": "2.2.2.2/4.3.3.1,timp,4 perc,pf,hp,str(/el bass)"
+          "composer": "arr. Ted Ricketts"
         }
       ]
     },
@@ -121,43 +95,36 @@
     },
     {
       "date": "Sunday, September 4, 2022",
-      "time": "3:00 PM Concert",
+      "time": "1:30 Setup; 2:15 Soundcheck; 3:00 PM Concert",
       "location": "Harris Pavilion",
       "scheduleItem": [
         {
-          "piece": "Beach Boys Medley",
-          "composer": "arr. Calvin Custer",
-          "instrumentation": "2+1.2.2.1/4.3.3.1,timp,2 perc,pf,str"
-        },
-        {
-          "piece": "The Doors on Tour",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.1.2+1.1/2.3.3.1,timp,5 perc,drumset,str"
-        },
-        {
           "piece": "Led Zeppelin Reunion",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.2.2+1.2/4.2.3.1,timp,3 perc,drumset,str"
+          "composer": "arr. Patrick Roszell"
         },
         {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "arr. Healey",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,6 perc,hp,pf/cel,penny whistle,str"
-        },
-        {
-          "piece": "Journey's Greatest Hits",
-          "composer": "arr. Victor Lopez",
-          "instrumentation": "2.2.2+1.2/4.3.3.1,timp,5 perc,drumset,pf,str"
+          "piece": "Beach Boys Medley",
+          "composer": "arr. Calvin Custer"
         },
         {
           "piece": "The Eagles on Tour",
-          "composer": "arr. Patrick Roszell",
-          "instrumentation": "2.1.2+1.1/2.3.3.1,timp,4 perc,drumset,str"
+          "composer": "arr. Patrick Roszell"
+        },
+        {
+          "piece": "Love is All You Need (A Tribute to the Beatles)",
+          "composer": "arr. Healey"
+        },
+        {
+          "piece": "The Doors on Tour",
+          "composer": "arr. Patrick Roszell"
+        },
+        {
+          "piece": "Journey's Greatest Hits",
+          "composer": "arr. Victor Lopez"
         },
         {
           "piece": "A Tribute to the King (The Music of Elvis Presley)",
-          "composer": "arr. Ted Ricketts",
-          "instrumentation": "2.2.2.2/4.3.3.1,timp,4 perc,pf,hp,str(/el bass)"
+          "composer": "arr. Ted Ricketts"
         }
       ]
     },
@@ -190,19 +157,20 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
+          "piece": "Led Zeppelin Reunion",
+          "composer": "arr. Patrick Roszell"
+        },
+        {
           "piece": "Beach Boys Medley",
-          "composer": "arr. Calvin Custer",
-          "instrumentation": "2+1.2.2.1/4.3.3.1,timp,2 perc,pf,str"
+          "composer": "arr. Calvin Custer"
         },
         {
           "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "arr. Healey",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,6 perc,hp,pf/cel,penny whistle,str"
+          "composer": "arr. Healey"
         },
         {
           "piece": "A Tribute to the King (The Music of Elvis Presley)",
-          "composer": "arr. Ted Ricketts",
-          "instrumentation": "2.2.2.2/4.3.3.1,timp,4 perc,pf,hp,str(/el bass)"
+          "composer": "arr. Ted Ricketts"
         }
       ]
     },

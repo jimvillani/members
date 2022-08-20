@@ -198,6 +198,7 @@ div.schedule > div.instr {
 div.date {
     font-weight: bold;
     margin-bottom: 0;
+    text-indent: -1em;
 }
 
 div.l, div.r, div.m {
