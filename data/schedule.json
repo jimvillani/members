@@ -1,60 +1,6 @@
 {
   "schedule": [
     {
-      "date": "August 31, 2022",
-      "time": "7:30 - 8:45 PM",
-      "location": "Hylton (JFF) Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "piece": "Zeppelin"
-        },
-        {
-          "piece": "Beach Boys"
-        },
-        {
-          "piece": "Beatles"
-        }
-      ]
-    },
-    {
-      "date": "Sunday, September 4, 2022",
-      "time": "1:30 Setup; 2:15 Soundcheck; 3:00 PM Concert",
-      "location": "Harris Pavilion",
-      "scheduleItem": [
-        {
-          "piece": "Dress - Black pants or shorts, purple polo"
-        },
-        {
-          "piece": "Led Zeppelin Reunion",
-          "composer": "arr. Patrick Roszell"
-        },
-        {
-          "piece": "Beach Boys Medley",
-          "composer": "arr. Calvin Custer"
-        },
-        {
-          "piece": "The Eagles on Tour",
-          "composer": "arr. Patrick Roszell"
-        },
-        {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "arr. Healey"
-        },
-        {
-          "piece": "The Doors on Tour",
-          "composer": "arr. Patrick Roszell"
-        },
-        {
-          "piece": "Journey's Greatest Hits",
-          "composer": "arr. Victor Lopez"
-        },
-        {
-          "piece": "A Tribute to the King (The Music of Elvis Presley)",
-          "composer": "arr. Ted Ricketts"
-        }
-      ]
-    },
-    {
       "date": "September 7, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "Hylton (JFF) Rehearsal Hall",
