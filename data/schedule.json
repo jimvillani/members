@@ -52,7 +52,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Liszt"
+        },
+        {
+          "time": "8:05",
+          "piece": "Wagner"
         },
         {
           "time": "8:25",
@@ -60,7 +64,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Borodin II"
+        },
+        {
+          "time": "9:00",
+          "piece": "Borodin IV"
         }
       ]
     },
@@ -71,15 +79,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Sectionals TBD"
         }
       ]
     },
