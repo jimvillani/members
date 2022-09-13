@@ -1,51 +1,6 @@
 {
   "schedule": [
     {
-      "date": "September 7, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "Hylton (JFF) Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Borodin"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Wagner"
-        },
-        {
-          "time": "9:05",
-          "piece": "Strauss"
-        }
-      ]
-    },
-    {
-      "date": "Sunday, September 11, 2022",
-      "time": "2:00 Call; 2:20 Setup; 2:35-3:15 Performance",
-      "location": "Hylton Performing Arts Center - Merchant Hall Stage",
-      "scheduleItem": [
-        {
-          "piece": "Dress - Black pants, purple polo"
-        },
-        {
-          "piece": "Led Zeppelin Reunion",
-          "composer": "arr. Patrick Roszell"
-        },
-        {
-          "piece": "Beach Boys Medley",
-          "composer": "arr. Calvin Custer"
-        },
-        {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "arr. Healey"
-        }
-      ]
-    },
-    {
       "date": "September 14, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFF Rehearsal Hall",
