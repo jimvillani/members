@@ -1,26 +1,7 @@
 {
   "parts": {
-    "ftp": "https://members.manassassymphony.org/parts/2022-23",
-    "links": [
-      {
-        "composer": "Wagner",
-        "title": "Tannhäuser Overture",
-        "url": "https://imslp.org/wiki/Tannh%C3%A4user,_WWV_70_(Wagner,_Richard)#tabScore2",
-        "linkText": "All parts - Dresden version"
-      },
-      {
-        "composer": "Liszt",
-        "title": "Piano Concerto No. 2",
-        "url": "https://imslp.org/wiki/Piano_Concerto_No.2,_S.125_(Liszt,_Franz)#tabScore2",
-        "linkText": "All parts"
-      },
-      {
-        "composer": "Borodin",
-        "title": "Symphony No. 2",
-        "url": "https://imslp.org/wiki/Symphony_No.2_(Borodin%2C_Aleksandr)#tabScore2",
-        "linkText": "All parts"
-      }
-    ],
+    "ftp": "https://members.manassassymphony.org/parts/2022-23/october",
+    "links": [],
     "videos": []
   }
 }
