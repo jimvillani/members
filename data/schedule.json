@@ -45,7 +45,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Borodin I"
+        },
+        {
+          "time": "7:50",
+          "piece": "Borodin III"
+        },
+        {
+          "time": "8:10",
+          "piece": "Borodin II"
         },
         {
           "time": "8:25",
@@ -53,7 +61,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Wagner (Allegro [A'] - [G])"
+        },
+        {
+          "time": "8:55",
+          "piece": "Liszt "
         }
       ]
     },
