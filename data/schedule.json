@@ -1,44 +1,6 @@
 {
   "schedule": [
     {
-      "date": "September 14, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Liszt"
-        },
-        {
-          "time": "8:05",
-          "piece": "Wagner"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Borodin II"
-        },
-        {
-          "time": "9:00",
-          "piece": "Borodin IV"
-        }
-      ]
-    },
-    {
-      "date": "September 21, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "String Sectionals"
-        }
-      ]
-    },
-    {
       "date": "September 28, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFF Rehearsal Hall",
@@ -76,7 +38,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Wagner (beginning to [A]; [G] - end)"
+        },
+        {
+          "time": "7:55",
+          "piece": "Strauss"
         },
         {
           "time": "8:25",
@@ -84,7 +50,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Borodin IV"
+        },
+        {
+          "time": "8:55",
+          "piece": "Borodin II"
+        },
+        {
+          "time": "9:15",
+          "piece": "Borodin I"
         }
       ]
     },
@@ -95,7 +69,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Liszt"
+        },
+        {
+          "time": "8:00",
+          "piece": "Wagner"
         },
         {
           "time": "8:25",
@@ -103,14 +81,18 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Borodin III, I, II, IV"
+        },
+        {
+          "time": "9:20",
+          "piece": "Strauss"
         }
       ]
     },
     {
       "date": "October 19, 2022",
       "time": "7:30 - 9:45 PM",
-      "location": "Merchant Hall",
+      "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -122,7 +104,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Wagner"
+        },
+        {
+          "time": "9:00",
+          "piece": "Borodin III, II, IV"
         }
       ]
     },
@@ -152,23 +138,133 @@
       "scheduleItem": [
         {
           "piece": "Overture to Tannhäuser",
-          "composer": "Richard Wagner",
-          "instrumentation": "2+1.2.2.2/4.3.3.1,timp,perc,str"
+          "composer": "Richard Wagner"
         },
         {
           "piece": "Piano Concerto No. 2 in A major",
-          "composer": "Franz Liszt",
-          "instrumentation": "3D1.2.2.2/2.2.3.1,timp,perc,str,pf solo"
+          "composer": "Franz Liszt"
         },
         {
           "piece": "Wine, Women, and Song, Op. 333",
-          "composer": "Johann Strauss, Jr.",
-          "instrumentation": "2d1.2.2d Eb.2/4.2.3.0,timp,perc,hp,str"
+          "composer": "Johann Strauss, Jr."
         },
         {
           "piece": "Symphony No. 2 in B minor",
-          "composer": "Alexander Borodin",
-          "instrumentation": "3D1.2D1.2.2./4.2.3.1,timp,perc,hp,str"
+          "composer": "Alexander Borodin"
+        }
+      ]
+    },
+    {
+      "date": "October 26, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "November 02, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "November 09, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "November 16, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "November 30, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "December 07, 2022",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
