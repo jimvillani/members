@@ -114,17 +114,17 @@
     },
     {
       "date": "Friday, October 21, 2022",
-      "time": "7:30 - 10:00 PM",
-      "location": "JFF Rehearsal Hall",
+      "time": "7:30 - 10:00 PM (Dress Rehearsal)",
+      "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
           "piece": "Wagner"
         },
         {
-          "piece": "Liszt"
+          "piece": "Strauss"
         },
         {
-          "piece": "Strauss"
+          "piece": "Liszt"
         },
         {
           "piece": "Borodin"
@@ -141,12 +141,12 @@
           "composer": "Richard Wagner"
         },
         {
-          "piece": "Piano Concerto No. 2 in A major",
-          "composer": "Franz Liszt"
-        },
-        {
           "piece": "Wine, Women, and Song, Op. 333",
           "composer": "Johann Strauss, Jr."
+        },
+        {
+          "piece": "Piano Concerto No. 2 in A major",
+          "composer": "Franz Liszt"
         },
         {
           "piece": "Symphony No. 2 in B minor",
