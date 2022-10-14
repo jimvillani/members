@@ -174,7 +174,7 @@
       ]
     },
     {
-      "date": "November 02, 2022",
+      "date": "November 2, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "date": "November 09, 2022",
+      "date": "November 9, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "date": "December 07, 2022",
+      "date": "December 7, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -311,7 +311,7 @@
         {
           "piece": "The Path",
           "composer": "Ben Bernstein",
-          "instrumentation": "TBD"
+          "instrumentation": "2+1.2+1.2+1.2/4.3.3.1,timp,perc,hp,str"
         }
       ]
     },
