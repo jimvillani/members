@@ -1,31 +1,36 @@
 {
   "schedule": [
     {
-      "date": "October 26, 2022",
-      "time": "7:30 - 9:00 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "piece": "No-instruments rehearsal and social"
-        }
-      ]
-    },
-    {
       "date": "November 2, 2022",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Weber"
         },
         {
-          "time": "8:25",
+          "piece": "Grainger"
+        },
+        {
+          "piece": "Deussen"
+        },
+        {
+          "piece": "Holcombe"
+        },
+        {
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Bernstein"
+        },
+        {
+          "piece": "Chance"
+        },
+        {
+          "piece": "Tchaikovsky"
+        },
+        {
+          "piece": "Puccini (both)"
         }
       ]
     },
