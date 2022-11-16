@@ -84,7 +84,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Weber w/ soloist"
+        },
+        {
+          "time": "7:50",
+          "piece": "Holcombe"
+        },
+        {
+          "time": "8:10",
+          "piece": "Bernstein"
         },
         {
           "time": "8:25",
@@ -92,7 +100,19 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Puccini - Si, mi chiamano Mimi"
+        },
+        {
+          "time": "8:50",
+          "piece": "Deussen"
+        },
+        {
+          "time": "9:05",
+          "piece": "Chance"
+        },
+        {
+          "time": "9:20",
+          "piece": "Grainger"
         }
       ]
     },
@@ -121,7 +141,7 @@
     },
     {
       "date": "December 7, 2022",
-      "time": "7:30 - 9:45 PM",
+      "time": "7:30 - 10:00 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
@@ -226,4 +246,3 @@
     }
   ]
 }
-
