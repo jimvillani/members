@@ -213,14 +213,14 @@
           "instrumentation": "2.2+1.2+1.2/4.3.0.0,hp,str"
         },
         {
-          "piece": "Variations on a Korean Folk Song",
-          "composer": "John Barnes Chance",
-          "instrumentation": "1+1.1.2.1/2.3.3.1,timp,8 perc,str"
-        },
-        {
           "piece": "The Path",
           "composer": "Ben Bernstein",
           "instrumentation": "2+1.2+1.2+1.2/4.3.3.1,timp,perc,hp,str"
+        },
+        {
+          "piece": "Variations on a Korean Folk Song",
+          "composer": "John Barnes Chance",
+          "instrumentation": "1+1.1.2.1/2.3.3.1,timp,8 perc,str"
         },
         {
           "piece": "Sleigh Ride",
