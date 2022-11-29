@@ -1,59 +1,25 @@
 {
   "schedule": [
     {
-      "date": "November 2, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "Weber"
-        },
-        {
-          "piece": "Grainger"
-        },
-        {
-          "piece": "Deussen"
-        },
-        {
-          "piece": "Holcombe"
-        },
-        {
-          "piece": "break"
-        },
-        {
-          "piece": "Bernstein"
-        },
-        {
-          "piece": "Chance"
-        },
-        {
-          "piece": "Tchaikovsky"
-        },
-        {
-          "piece": "Puccini (both)"
-        }
-      ]
-    },
-    {
-      "date": "November 9, 2022",
+      "date": "November 30, 2022",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Weber w/soloist"
+          "piece": "Weber"
         },
         {
-          "time": "7:50",
-          "piece": "Deussen"
-        },
-        {
-          "time": "8:05",
+          "time": "7:45",
           "piece": "Grainger"
         },
         {
+          "time": "7:55",
+          "piece": "Bernstein w/narrator"
+        },
+        {
           "time": "8:15",
-          "piece": "Holcombe"
+          "piece": "Tchaikovsky"
         },
         {
           "time": "8:25",
@@ -61,11 +27,15 @@
         },
         {
           "time": "8:35",
-          "piece": "Puccini w/soloist"
+          "piece": "Puccini – Si, mi chiamano Mimi"
+        },
+        {
+          "time": "8:50",
+          "piece": "Puccini – O mio babbino caro"
         },
         {
           "time": "8:55",
-          "piece": "Bernstein"
+          "piece": "Deussen"
         },
         {
           "time": "9:05",
@@ -73,75 +43,7 @@
         },
         {
           "time": "9:20",
-          "piece": "Tchaikovsky"
-        }
-      ]
-    },
-    {
-      "date": "November 16, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Weber w/ soloist"
-        },
-        {
-          "time": "7:50",
           "piece": "Holcombe"
-        },
-        {
-          "time": "8:10",
-          "piece": "Bernstein"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Deussen"
-        },
-        {
-          "piece": "Grainger"
-        },
-        {
-          "piece": "Chance"
-        },
-        {
-          "piece": "Tchaikovsky"
-        },
-        {
-          "piece": "DiLorenzo"
-        },
-        {
-          "piece": "Anderson"
-        },
-        {
-          "piece": "Smith"
-        }
-      ]
-    },
-    {
-      "date": "November 23, 2022",
-      "location": "No rehearsal - Thanksgiving break"
-    },
-    {
-      "date": "November 30, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
         }
       ]
     },
@@ -151,34 +53,53 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Grainger"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Bloomer"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Weber"
+        },
+        {
+          "piece": "Holcombe"
+        },
+        {
+          "time": "8:15",
+          "piece": "Puccini (both)"
+        },
+        {
+          "piece": "Chance"
+        },
+        {
+          "piece": "Light Show: Anderson"
+        },
+        {
+          "piece": "Light Show: Tchaikovsky"
+        },
+        {
+          "piece": "Light Show: DiLorenzo"
+        },
+        {
+          "piece": "Light Show: Smith"
+        },
+        {
+          "time": "9:00 or later",
+          "piece": "Bernstein"
         }
       ]
     },
     {
       "date": "December 9, 2022",
-      "time": "7:30 - 10:00 PM",
-      "location": "JFFRH",
+      "time": "Rehearsal Canceled",
+      "scheduleItem": []
+    },
+    {
+      "date": "Saturday, December 10, 2022",
+      "time": "1:30 - 2:30 PM (if needed)",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
           "piece": "TBD"
         }
       ]
@@ -190,63 +111,70 @@
       "scheduleItem": [
         {
           "piece": "Molly on the Shore",
-          "composer": "Percy Grainger",
-          "instrumentation": "2.2.2.2/4.2.3.1,timp,2 perc,cel,str"
+          "composer": "Percy Grainger"
         },
         {
           "piece": "Regalos",
-          "composer": "Nancy Bloomer Deussen",
-          "instrumentation": "2d1.2d1.2.2/4.3.3.1,timp,3-4 perc,hp,str"
+          "composer": "Nancy Bloomer Deussen"
         },
         {
           "piece": "Andante and Rondo Ungarese, Op. 35",
-          "composer": "Carl Maria von Weber",
-          "instrumentation": "2.2.0.2/2.2.0.0,timp,str,va solo"
+          "composer": "Carl Maria von Weber"
         },
         {
           "piece": "Cowboy Fantasy",
-          "composer": "Bill Holcombe",
-          "instrumentation": "2+1.2+1.3+1.2/4.3.3.1,timp,perc,4 sax,hp,str"
+          "composer": "Bill Holcombe"
         },
         {
           "piece": "Si, mi chiamano Mimi",
-          "composer": "Giacomo Puccini",
-          "instrumentation": "2.2D1.2+1.2/4.2.2.0,timp,perc,hp,str"
+          "composer": "Giacomo Puccini"
         },
         {
           "piece": "O mio babbino caro",
-          "composer": "Giacomo Puccini",
-          "instrumentation": "2.2+1.2+1.2/4.3.0.0,hp,str"
+          "composer": "Giacomo Puccini"
         },
         {
           "piece": "The Path",
-          "composer": "Ben Bernstein",
-          "instrumentation": "2+1.2+1.2+1.2/4.3.3.1,timp,perc,hp,str"
+          "composer": "Ben Bernstein"
         },
         {
           "piece": "Variations on a Korean Folk Song",
-          "composer": "John Barnes Chance",
-          "instrumentation": "1+1.1.2.1/2.3.3.1,timp,8 perc,str"
+          "composer": "John Barnes Chance"
         },
         {
           "piece": "Sleigh Ride",
-          "composer": "Leroy Anderson",
-          "instrumentation": "2+1.2.2.2/4.3.3.1,perc,str"
+          "composer": "Leroy Anderson"
         },
         {
           "composer": "Tchaikovsky/Phillips",
-          "piece": "A Mad Russian's Christmas",
-          "instrumentation": "2.2.2.2/2.3.3.1,timp,drumset,str,el bass"
+          "piece": "A Mad Russian's Christmas"
         },
         {
           "composer": "Anthony DiLorenzo",
-          "piece": "Christmas Blast",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,perc,hp,str"
+          "piece": "Christmas Blast"
         },
         {
           "composer": "Robert W. Smith",
-          "piece": "Jingle Bells Forever",
-          "instrumentation": "2.1.3+1.1/3.3.3.1,timp,perc,str"
+          "piece": "Jingle Bells Forever"
+        }
+      ]
+    },
+    {
+      "date": "January 4, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     }
