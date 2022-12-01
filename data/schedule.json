@@ -1,53 +1,6 @@
 {
   "schedule": [
     {
-      "date": "November 30, 2022",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Weber"
-        },
-        {
-          "time": "7:45",
-          "piece": "Grainger"
-        },
-        {
-          "time": "7:55",
-          "piece": "Bernstein w/narrator"
-        },
-        {
-          "time": "8:15",
-          "piece": "Tchaikovsky"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Puccini – Si, mi chiamano Mimi"
-        },
-        {
-          "time": "8:50",
-          "piece": "Puccini – O mio babbino caro"
-        },
-        {
-          "time": "8:55",
-          "piece": "Deussen"
-        },
-        {
-          "time": "9:05",
-          "piece": "Chance"
-        },
-        {
-          "time": "9:20",
-          "piece": "Holcombe"
-        }
-      ]
-    },
-    {
       "date": "December 7, 2022",
       "time": "7:30 - 10:00 PM",
       "location": "Merchant Hall",
