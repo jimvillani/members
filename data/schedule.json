@@ -1,121 +1,36 @@
 {
   "schedule": [
     {
-      "date": "December 7, 2022",
-      "time": "7:30 - 10:00 PM",
-      "location": "Merchant Hall",
+      "date": "January 04, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
-          "piece": "Grainger"
+          "time": "7:30",
+          "piece": "Chadwick"
         },
         {
-          "piece": "Bloomer"
+          "time": "8:00",
+          "piece": "Coleridge-Taylor"
         },
         {
-          "piece": "Weber"
+          "time": "8:25",
+          "piece": "break"
         },
         {
-          "piece": "Holcombe"
+          "time": "8:35",
+          "piece": "Beethoven"
         },
         {
-          "time": "8:15",
-          "piece": "Puccini (both)"
-        },
-        {
-          "piece": "Chance"
-        },
-        {
-          "piece": "Light Show: Anderson"
-        },
-        {
-          "piece": "Light Show: Tchaikovsky"
-        },
-        {
-          "piece": "Light Show: DiLorenzo"
-        },
-        {
-          "piece": "Light Show: Smith"
-        },
-        {
-          "time": "9:00 or later",
-          "piece": "Bernstein"
+          "time": "9:10",
+          "piece": "Rutter"
         }
       ]
     },
     {
-      "date": "December 9, 2022",
-      "time": "Rehearsal Canceled",
-      "scheduleItem": []
-    },
-    {
-      "date": "Saturday, December 10, 2022",
-      "time": "1:30 - 2:30 PM (if needed)",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "Saturday, December 10, 2022",
-      "time": "3:30 PM Concert",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "Molly on the Shore",
-          "composer": "Percy Grainger"
-        },
-        {
-          "piece": "Regalos",
-          "composer": "Nancy Bloomer Deussen"
-        },
-        {
-          "piece": "Andante and Rondo Ungarese, Op. 35",
-          "composer": "Carl Maria von Weber"
-        },
-        {
-          "piece": "Cowboy Fantasy",
-          "composer": "Bill Holcombe"
-        },
-        {
-          "piece": "Si, mi chiamano Mimi",
-          "composer": "Giacomo Puccini"
-        },
-        {
-          "piece": "O mio babbino caro",
-          "composer": "Giacomo Puccini"
-        },
-        {
-          "piece": "The Path",
-          "composer": "Ben Bernstein"
-        },
-        {
-          "piece": "Variations on a Korean Folk Song",
-          "composer": "John Barnes Chance"
-        },
-        {
-          "piece": "Sleigh Ride",
-          "composer": "Leroy Anderson"
-        },
-        {
-          "composer": "Tchaikovsky/Phillips",
-          "piece": "A Mad Russian's Christmas"
-        },
-        {
-          "composer": "Anthony DiLorenzo",
-          "piece": "Christmas Blast"
-        },
-        {
-          "composer": "Robert W. Smith",
-          "piece": "Jingle Bells Forever"
-        }
-      ]
-    },
-    {
-      "date": "January 4, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "January 11, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -128,6 +43,158 @@
         {
           "time": "8:35",
           "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "January 18, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Sectional Rehearsals"
+        }
+      ]
+    },
+    {
+      "date": "January 25, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 01, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 08, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 15, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 22, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 01, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Saturday, March 4, 2023",
+      "time": "7:30 PM Concert",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "piece": "Idyll (1901)",
+          "composer": "Samuel Coleridge-Taylor",
+          "instrumentation": "2.2.2.2/4.2.3.1,timp,hp,str"
+        },
+        {
+          "piece": "Piano Concerto No. 3 in C minor, Op. 37",
+          "composer": "Ludwig van Beethoven",
+          "instrumentation": "2.2.2.2/2.2.0.0,timp,str"
+        },
+        {
+          "piece": "Suite Lyrique",
+          "composer": "John Rutter",
+          "instrumentation": "str,hp solo"
+        },
+        {
+          "piece": "Symphonic Sketches",
+          "composer": "George Whitefield Chadwick",
+          "instrumentation": "2D1.1+1.2+1.2/4.2.3.0,timp,perc,hp,str"
         }
       ]
     }
