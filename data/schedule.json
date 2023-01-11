@@ -34,7 +34,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Chadwick I"
+        },
+        {
+          "time": "8:00",
+          "piece": "Chadwick III"
         },
         {
           "time": "8:25",
@@ -42,7 +46,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Coleridge-Taylor"
+        },
+        {
+          "time": "9:05",
+          "piece": "Smith I, II, III (str, timp, perc)"
         }
       ]
     },
@@ -177,9 +185,9 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Idyll (1901)",
-          "composer": "Samuel Coleridge-Taylor",
-          "instrumentation": "2.2.2.2/4.2.3.1,timp,hp,str"
+          "piece": "Incidental Suite",
+          "composer": "Claude T. Smith",
+          "instrumentation": "str,timp,perc (SD, BD, Cym, Tamb)"
         },
         {
           "piece": "Piano Concerto No. 3 in C minor, Op. 37",
@@ -187,9 +195,9 @@
           "instrumentation": "2.2.2.2/2.2.0.0,timp,str"
         },
         {
-          "piece": "Suite Lyrique",
-          "composer": "John Rutter",
-          "instrumentation": "str,hp solo"
+          "piece": "Idyll (1901)",
+          "composer": "Samuel Coleridge-Taylor",
+          "instrumentation": "2.2.2.2/4.2.3.1,timp,hp,str"
         },
         {
           "piece": "Symphonic Sketches",
