@@ -20,23 +20,23 @@
     "officers": [
       {
         "name": "Diane Bennett",
-        "title": "President",
-        "email": "diane.bennett@manassassymphony.org"
+        "email": "diane.bennett@manassassymphony.org",
+        "title": "President"
       },
       {
-        "name": "J. Timothy Mauk",
-        "title": "Vice President",
-        "email": "tim.mauk@manassassymphony.org"
+        "name": "Jess Green",
+        "email": "jessica.green@manassassymphony.org",
+        "title": "Vice President"
       },
       {
-        "name": "Shirley Rice",
-        "title": "Secretary",
-        "email": "shirley.rice@manassassymphony.org"
+        "name": "Patty Parker",
+        "email": "patty.parker@manassassymphony.org",
+        "title": "Secretary"
       },
       {
         "name": "Allen Howe",
-        "title": "Treasurer",
-        "email": "allen.howe@manassassymphony.org"
+        "email": "allen.howe@manassassymphony.org",
+        "title": "Treasurer"
       }
     ],
     "directors": [
@@ -49,12 +49,16 @@
         "email": "andrea.brothers@manassassymphony.org"
       },
       {
-        "name": "Andrew Loerch",
-        "email": "andy.loerch@manassassymphony.org"
+        "name": "Carol Hall",
+        "email": "carol.hall@manassassymphony.org"
       },
       {
-        "name": "C. Milton Rodgers",
-        "email": "milton.rodgers@manassassymphony.org"
+        "name": "J. Timothy Mauk",
+        "email": "tim.mauk@manassassymphony.org"
+      },
+      {
+        "name": "Shirley Rice",
+        "email": "shirley.rice@manassassymphony.org"
       },
       {
         "name": "Beth Sharpe",
@@ -63,10 +67,6 @@
       {
         "name": "Steven Thompson",
         "email": "steven.thompson@manassassymphony.org"
-      },
-      {
-        "name": "Andrew Wassum",
-        "email": "andrew.wassum@manassassymphony.org"
       }
     ]
   }
