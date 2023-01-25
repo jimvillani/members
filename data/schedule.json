@@ -72,7 +72,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Chadwick IV"
+        },
+        {
+          "time": "7:50",
+          "piece": "Chadwick III"
+        },
+        {
+          "time": "8:10",
+          "piece": "Chadwick II"
         },
         {
           "time": "8:25",
@@ -80,7 +88,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Coleridge-Taylor"
+        },
+        {
+          "time": "8:55",
+          "piece": "Beethoven III"
+        },
+        {
+          "time": "9:15",
+          "piece": "Smith III"
         }
       ]
     },
