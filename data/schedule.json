@@ -1,141 +1,6 @@
 {
   "schedule": [
     {
-      "date": "January 04, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Chadwick"
-        },
-        {
-          "time": "8:00",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Beethoven"
-        },
-        {
-          "time": "9:10",
-          "piece": "Rutter"
-        }
-      ]
-    },
-    {
-      "date": "January 11, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Chadwick I"
-        },
-        {
-          "time": "8:00",
-          "piece": "Chadwick III"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "9:05",
-          "piece": "Smith I, II, III (str, timp, perc)"
-        }
-      ]
-    },
-    {
-      "date": "January 18, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Sectional Rehearsals"
-        }
-      ]
-    },
-    {
-      "date": "January 25, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Chadwick IV"
-        },
-        {
-          "time": "7:50",
-          "piece": "Chadwick III"
-        },
-        {
-          "time": "8:10",
-          "piece": "Chadwick II"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "8:55",
-          "piece": "Beethoven III"
-        },
-        {
-          "time": "9:15",
-          "piece": "Smith III"
-        }
-      ]
-    },
-    {
-      "date": "February 01, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "7:45",
-          "piece": "Chadwick I"
-        },
-        {
-          "time": "8:05",
-          "piece": "Chadwick IV"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Chadwick II"
-        },
-        {
-          "time": "8:50",
-          "piece": "Chadwick III"
-        },
-        {
-          "time": "9:10",
-          "piece": "Smith I (Tarantella)"
-        }
-      ]
-    },
-    {
       "date": "February 08, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
@@ -157,12 +22,16 @@
           "piece": "Chadwick IV"
         },
         {
-          "time": "9:00",
+          "time": "8:50",
           "piece": "Coleridge-Taylor"
         },
         {
+          "time": "9:05",
+          "piece": "Beethoven II"
+        },
+        {
           "time": "9:15",
-          "piece": "Smith II (Nocturne)"
+          "piece": "Smith II"
         }
       ]
     },
@@ -213,21 +82,17 @@
         {
           "time": "8:45",
           "piece": "Beethoven"
-        },
-        {
-          "time": "9:15",
-          "piece": "Smith"
         }
       ]
     },
     {
       "date": "March 01, 2023",
       "time": "7:30 - 9:45 PM",
-      "location": "Merchant Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Beethoven w/soloist"
+          "piece": "Beethoven w/ soloist"
         },
         {
           "time": "8:30",
@@ -235,7 +100,15 @@
         },
         {
           "time": "8:40",
+          "piece": "Coleridge-Taylor"
+        },
+        {
+          "time": "8:55",
           "piece": "Chadwick"
+        },
+        {
+          "time": "9:30",
+          "piece": "Smith"
         }
       ]
     },
@@ -282,6 +155,63 @@
         {
           "piece": "Symphonic Sketches",
           "composer": "George Whitefield Chadwick"
+        }
+      ]
+    },
+    {
+      "date": "March 8, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 15, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 23, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     }
