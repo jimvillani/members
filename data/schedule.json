@@ -1,52 +1,13 @@
 {
   "schedule": [
     {
-      "date": "February 08, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Chadwick III"
-        },
-        {
-          "time": "7:55",
-          "piece": "Chadwick I"
-        },
-        {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Chadwick IV"
-        },
-        {
-          "time": "8:50",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "9:05",
-          "piece": "Beethoven II"
-        },
-        {
-          "time": "9:15",
-          "piece": "Smith II"
-        }
-      ]
-    },
-    {
       "date": "February 15, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Chadwick I"
-        },
-        {
-          "time": "8:05",
-          "piece": "Chadwick II"
+          "piece": "Chadwick"
         },
         {
           "time": "8:25",
@@ -54,11 +15,11 @@
         },
         {
           "time": "8:35",
-          "piece": "Chadwick III"
+          "piece": "Chadwick"
         },
         {
           "time": "9:00",
-          "piece": "Chadwick IV"
+          "piece": "Smith"
         }
       ]
     },
@@ -82,13 +43,17 @@
         {
           "time": "8:45",
           "piece": "Beethoven"
+        },
+        {
+          "time": "9:10",
+          "piece": "Smith"
         }
       ]
     },
     {
       "date": "March 01, 2023",
       "time": "7:30 - 9:45 PM",
-      "location": "JFFRH",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
