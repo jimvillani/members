@@ -57,6 +57,14 @@
       "scheduleItem": [
         {
           "time": "7:30",
+          "piece": "Chadwick IV"
+        },
+        {
+        "time": "7:50",
+        "piece": "Coleridge-Taylor"
+        },
+        {
+          "time": "8:00",
           "piece": "Beethoven w/ soloist"
         },
         {
@@ -65,15 +73,7 @@
         },
         {
           "time": "8:40",
-          "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "8:55",
-          "piece": "Chadwick"
-        },
-        {
-          "time": "9:30",
-          "piece": "Smith"
+          "piece": "Beethoven (cont'd)"
         }
       ]
     },
