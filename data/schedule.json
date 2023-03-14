@@ -1,13 +1,17 @@
 {
   "schedule": [
     {
-      "date": "February 15, 2023",
+      "date": "March 15, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Chadwick"
+          "piece": "Bernstein"
+        },
+        {
+          "time": "7:55",
+          "piece": "Still"
         },
         {
           "time": "8:25",
@@ -15,168 +19,174 @@
         },
         {
           "time": "8:35",
-          "piece": "Chadwick"
+          "piece": "Still"
         },
         {
-          "time": "9:00",
-          "piece": "Smith"
+          "time": "8:55",
+          "piece": "MacDowell"
         }
       ]
     },
     {
-      "date": "February 22, 2023",
+      "date": "March 22, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Chadwick"
+          "piece": "Bernstein"
         },
         {
-          "time": "8:20",
+          "time": "7:55",
+          "piece": "Still"
+        },
+        {
+          "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:30",
-          "piece": "Coleridge-Taylor"
+          "time": "8:35",
+          "piece": "Still"
         },
         {
-          "time": "8:45",
-          "piece": "Beethoven"
-        },
-        {
-          "time": "9:10",
-          "piece": "Smith"
+          "time": "8:55",
+          "piece": "MacDowell"
         }
       ]
     },
     {
-      "date": "March 01, 2023",
-      "time": "7:30 - 9:45 PM",
+      "date": "March 29, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Sectional Rehearsals"
+        }
+      ]
+    },
+    {
+      "date": "April 5, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "No Rehearsal"
+        }
+      ]
+    },
+    {
+      "date": "April 12, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 19, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 26, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 3, 2023",
+      "time": "7:30 - 9:30 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Chadwick IV"
+          "piece": "MacDowell w/soloist"
         },
         {
-        "time": "7:50",
-        "piece": "Coleridge-Taylor"
-        },
-        {
-          "time": "8:00",
-          "piece": "Beethoven w/ soloist"
-        },
-        {
-          "time": "8:30",
+          "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:40",
-          "piece": "Beethoven (cont'd)"
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "Friday, March 3, 2023",
-      "time": "7:30 - 10:00 PM (Dress Rehearsal)",
+      "date": "May 5, 2023",
+      "time": "7:30 - 9:30PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Incidental Suite",
-          "composer": "Smith"
+          "piece": "Bernstein"
         },
         {
-          "piece": "Piano Concerto No. 3",
-          "composer": "Beethoven"
+          "piece": "MacDowell"
         },
         {
-          "piece": "Idyll",
-          "composer": "Coleridge-Taylor"
-        },
-        {
-          "piece": "Symphonic Sketches",
-          "composer": "Chadwick"
+          "piece": "Still"
         }
       ]
     },
     {
-      "date": "Saturday, March 4, 2023",
+      "date": "Saturday, May 6, 2023",
       "time": "7:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Incidental Suite",
-          "composer": "Claude T. Smith"
+          "piece": "Overture to Candide",
+          "composer": "Leonard Bernstein",
+          "instrumentation": "2+1.2.2+1+Eb.2+1/4.2.3.1,timp,perc,hp,str"
         },
         {
-          "piece": "Piano Concerto No. 3 in C minor, Op. 37",
-          "composer": "Ludwig van Beethoven"
+          "piece": "Piano Concerto No. 1 in A Major, Op. 15",
+          "composer": "Edward MacDowell",
+          "instrumentation": "2.2.2.2/4.2.0.0,timp,str"
         },
         {
-          "piece": "Idyll (1901)",
-          "composer": "Samuel Coleridge-Taylor"
-        },
-        {
-          "piece": "Symphonic Sketches",
-          "composer": "George Whitefield Chadwick"
-        }
-      ]
-    },
-    {
-      "date": "March 8, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "March 15, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "March 23, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Afro-American Symphony",
+          "composer": "William Grant Still",
+          "instrumentation": "3d1.2+1,3+1,2/4.3.3.1,timp,perc,cel,hp,banjo,str"
         }
       ]
     }
