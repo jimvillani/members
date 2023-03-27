@@ -1,64 +1,6 @@
 {
   "schedule": [
     {
-      "date": "March 15, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Bernstein"
-        },
-        {
-          "time": "7:55",
-          "piece": "Still"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Still"
-        },
-        {
-          "time": "8:55",
-          "piece": "MacDowell"
-        }
-      ]
-    },
-    {
-      "date": "March 22, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Bernstein"
-        },
-        {
-          "time": "8:00",
-          "piece": "Still IV"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Still I"
-        },
-        {
-          "time": "8:50",
-          "piece": "Still III"
-        },
-        {
-          "time": "9:05",
-          "piece": "MacDowell III"
-        }
-      ]
-    },
-    {
       "date": "March 29, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
@@ -106,7 +48,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "MacDowell w/soloist"
         },
         {
           "time": "8:25",
