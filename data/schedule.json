@@ -29,7 +29,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Still I"
+        },
+        {
+          "time": "7:50",
+          "piece": "Still II"
+        },
+        {
+          "time": "8:05",
+          "piece": "Still III"
         },
         {
           "time": "8:25",
@@ -37,7 +45,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Bernstein"
+        },
+        {
+          "time": "8:55",
+          "piece": "MacDowell I,II"
         }
       ]
     },
@@ -56,7 +68,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Bernstein"
+        },
+        {
+          "time": "9:00",
+          "piece": "Still"
         }
       ]
     },
@@ -80,9 +96,9 @@
       ]
     },
     {
-      "date": "May 3, 2023",
+      "date": "May 03, 2023",
       "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
