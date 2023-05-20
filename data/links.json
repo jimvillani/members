@@ -2,6 +2,18 @@
   "links": {
     "inactive": [
       {
+        "url": "/files/voucher-050623.png",
+        "linkText": "May 2023 Concert Voucher"
+      },
+      {
+        "url": "https://www.manassassymphony.org/pr/flyer050623.pdf",
+        "linkText": "May 2023 Concert Flyer (PDF)"
+      },
+      {
+        "url": "https://www.manassassymphony.org/pr/flyer050623.png",
+        "linkText": "May 2023 Concert Flyer (PNG)"
+      },
+      {
         "url": "https://mso.me/absent20-21",
         "linkText": "Report Rehearsal Absence"
       },
@@ -19,18 +31,6 @@
       }
     ],
     "key": [
-      {
-        "url": "/files/voucher-050623.png",
-        "linkText": "May 2023 Concert Voucher"
-      },
-      {
-        "url": "https://www.manassassymphony.org/pr/flyer050623.pdf",
-        "linkText": "May 2023 Concert Flyer (PDF)"
-      },
-      {
-        "url": "https://www.manassassymphony.org/pr/flyer050623.png",
-        "linkText": "May 2023 Concert Flyer (PNG)"
-      },
       {
         "url": "https://www.manassassymphony.org/pr/MSO_SeasonBrochure_2022-23.pdf",
         "linkText": "2022-23 Season Brochure"
