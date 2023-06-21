@@ -19,6 +19,10 @@
         {
           "time": "7:00",
           "piece": "Oliver"
+        },
+        {
+          "time": "8:30",
+          "piece": "Principals"
         }
       ]
     },
@@ -30,19 +34,137 @@
         {
           "time": "7:00",
           "piece": "Oliver"
+        },
+        {
+          "time": "8:30",
+          "piece": "Principals"
         }
       ]
     },
     {
       "date": "July 08, 2023",
-      "time": "7:00 - 9:30 PM",
+      "time": "9:00 AM - 1:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
-          "time": "7:00",
-          "piece": "Oliver (if needed)"
+          "time": "9:00",
+          "piece": "Sitzprobe"
+        },
+        {
+          "time": "11:30",
+          "piece": "Lunch"
+        },
+        {
+          "time": "12:00",
+          "piece": "Sitzprobe (cont'd)"
+        }
+      ]
+    },
+    {
+      "date": "July 11, 2023",
+      "time": "7:30 - 10:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Call"
+        },
+        {
+          "time": "8:00",
+          "piece": "Tech Rehearsal"
+        }
+      ]
+    },
+    {
+      "date": "July 12, 2023",
+      "time": "7:30 - 10:30PM (Full Dress for Photos)",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Call"
+        },
+        {
+          "time": "8:00",
+          "piece": "Tech Rehearsal"
+        }
+      ]
+    },
+    {
+      "date": "July 13, 2023",
+      "time": "7:30 - 10:30PM (Dress Rehearsal)",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Call"
+        },
+        {
+          "time": "8:00",
+          "piece": "Dress Rehearsal"
+        }
+      ]
+    },
+    {
+      "date": "July 14, 2023",
+      "time": "7:30 - 10:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Call"
+        },
+        {
+          "time": "8:00",
+          "piece": "Curtain"
+        }
+      ]
+    },
+    {
+      "date": "July 15, 2023",
+      "time": "1:30 - 4:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "1:30",
+          "piece": "Call"
+        },
+        {
+          "time": "2:00",
+          "piece": "Curtain"
+        }
+      ]
+    },
+    {
+      "date": "July 15, 2023",
+      "time": "7:30 - 10:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Call"
+        },
+        {
+          "time": "8:00",
+          "piece": "Curtain"
+        }
+      ]
+    },
+    {
+      "date": "July 16, 2023",
+      "time": "1:30 - 4:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "1:30",
+          "piece": "Call"
+        },
+        {
+          "time": "2:00",
+          "piece": "Curtain"
         }
       ]
     }
+
   ]
 }
