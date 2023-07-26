@@ -1,6 +1,97 @@
 {
   "schedule": [
     {
+      "date": "Wednesday, August 2, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, August 9, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, August 16, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, August 23, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Saturday, August 26, 2023",
+      "time": "9:30AM - 12:00PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "9:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "12:00",
+          "piece": "Picnic lunch, provided by Board of Directors"
+        }
+      ]
+    },
+    {
       "date": "Sunday, August 27, 2023",
       "time": "3:00 PM",
       "location": "Harris Pavilion",
