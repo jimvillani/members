@@ -20,21 +20,53 @@
       ]
     },
     {
-      "date": "Wednesday, August 9, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "August 09, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Curtain Up!"
+        },
+        {
+          "time": "7:40",
+          "piece": "Chicago"
+        },
+        {
+          "time": "7:50",
+          "piece": "Jesus Christ Superstar"
+        },
+        {
+          "time": "8:00",
+          "piece": "Give My Regards to George"
+        },
+        {
+          "time": "8:10",
+          "piece": "Those Were The Good Old Days"
+        },
+        {
+          "time": "8:15",
+          "piece": "Don't Cry For Me Argentina"
+        },
+        {
+          "time": "8:20",
+          "piece": "I Dreamed a Dream"
         },
         {
           "time": "8:25",
-          "piece": "break"
+          "piece": "Break"
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Mamma Mia! Medley"
+        },
+        {
+          "time": "9:00",
+          "piece": "You Can’t Stop the Beat"
+        },
+        {
+          "time": "9:20",
+          "piece": "Reviewing The Situation"
         }
       ]
     },
