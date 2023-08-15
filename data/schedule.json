@@ -54,7 +54,42 @@
         },
         {
           "time": "8:25",
-          "piece": "Break"
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Mamma Mia! Medley"
+        },
+        {
+          "time": "8:55",
+          "piece": "You Can’t Stop the Beat"
+        },
+        {
+          "time": "9:15",
+          "piece": "Reviewing The Situation"
+        }
+      ]
+    },
+    {
+      "date": "August 16, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Chicago"
+        },
+        {
+          "time": "7:50",
+          "piece": "Curtain Up!"
+        },
+        {
+          "time": "8:05",
+          "piece": "Jesus Christ Superstar"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
         },
         {
           "time": "8:35",
@@ -63,29 +98,6 @@
         {
           "time": "9:00",
           "piece": "You Can’t Stop the Beat"
-        },
-        {
-          "time": "9:20",
-          "piece": "Reviewing The Situation"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, August 16, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
         }
       ]
     },
