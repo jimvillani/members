@@ -102,13 +102,33 @@
       ]
     },
     {
-      "date": "Wednesday, August 23, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "August 23, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Reviewing The Situation"
+        },
+        {
+          "time": "7:35",
+          "piece": "Those Were The Good Old Days"
+        },
+        {
+          "time": "7:45",
+          "piece": "I Dreamed a Dream"
+        },
+        {
+          "time": "7:55",
+          "piece": "Give My Regards to George"
+        },
+        {
+          "time": "8:05",
+          "piece": "Chicago"
+        },
+        {
+          "time": "8:15",
+          "piece": "Curtain Up!"
         },
         {
           "time": "8:25",
@@ -116,22 +136,66 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "You Can’t Stop the Beat"
+        },
+        {
+          "time": "9:00",
+          "piece": "Mamma Mia! Medley"
         }
       ]
     },
     {
-      "date": "Saturday, August 26, 2023",
-      "time": "9:30AM - 12:00PM",
-      "location": "Hylton JFFRH",
+      "date": "August 26, 2023",
+      "time": "9:30 AM - 12:00 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "9:30",
-          "piece": "TBD"
+          "piece": "Don't Cry for Me, Argentina"
+        },
+        {
+          "time": "9:45",
+          "piece": "Curtain Up!"
+        },
+        {
+          "time": "9:55",
+          "piece": "You Can’t Stop the Beat"
+        },
+        {
+          "time": "10:20",
+          "piece": "Chicago"
+        },
+        {
+          "time": "10:30",
+          "piece": "I Dreamed a Dream"
+        },
+        {
+          "time": "10:45",
+          "piece": "break"
+        },
+        {
+          "time": "10:55",
+          "piece": "Reviewing The Situation"
+        },
+        {
+          "time": "11:05",
+          "piece": "Those Were The Good Old Days"
+        },
+        {
+          "time": "11:15",
+          "piece": "Jesus Christ Superstar Medley"
+        },
+        {
+          "time": "11:25",
+          "piece": "Mamma Mia! Medley"
+        },
+        {
+          "time": "11:50",
+          "piece": "Give My Regards to George"
         },
         {
           "time": "12:00",
-          "piece": "Picnic lunch, provided by Board of Directors"
+          "piece": "Lunch"
         }
       ]
     },
@@ -142,53 +206,43 @@
       "scheduleItem": [
         {
           "composer": "arr. Bob Krogstad",
-          "piece": "Curtain Up!",
-          "instrumentation": "2d1.1.2+1.1/4.3.3.1 alto sax,tenor sax,timp 4 perc,hp,po,el bass,str"
+          "piece": "Curtain Up!"
         },
         {
           "composer": "Mark Shaiman & Scott Whitman/arr. Daryl McKenzie",
-          "piece": "You Can’t Stop the Beat",
-          "instrumentation": "2+1.2.2.2/4.4.4.0 2 a.sax,2 t.sax,b.sax,timp,2 perc,po,2 guitar,el bass,str"
+          "piece": "You Can’t Stop the Beat"
         },
         {
           "composer": "Andrew Lloyd Webber",
-          "piece": "Don't Cry For Me Argentina",
-          "instrumentation": "2+1.2.2.2/4.3.3.1 timp,perc,drumkit,hp,po,guitar,el bass,str"
+          "piece": "Don't Cry For Me Argentina"
         },
         {
           "composer": "John Kander/arr. Ted Ricketts",
-          "piece": "Chicago",
-          "instrumentation": "2.1.2+1.1/4.3.3.1 timp,2perc,po,str"
+          "piece": "Chicago"
         },
         {
           "composer": "Alain Boublil/arr. Bob Krogstad",
-          "piece": "I Dreamed a Dream",
-          "instrumentation": "3.2.2+1.1/4.3.3.1,timp,perc,hp,po/cel,str"
-        },
-        {
-          "composer": "Richard Adler",
-          "piece": "Those Were The Good Old Days",
-          "instrumentation": "2+1.2.2.2/2.3.3.0 guitar,po,perc,str"
+          "piece": "I Dreamed a Dream"
         },
         {
           "composer": "Lionel Bart/arr. Daryl McKenzie",
-          "piece": "Reviewing The Situation",
-          "instrumentation": "2.2.2.2/4.3.3.1 timp,drum kit,2 perc,po,str"
+          "piece": "Reviewing The Situation"
+        },
+        {
+          "composer": "Richard Adler",
+          "piece": "Those Were The Good Old Days"
         },
         {
           "composer": "Andrew Lloyd Webber/arr. Henry Mancini",
-          "piece": "Jesus Christ Superstar Medley",
-          "instrumentation": "2d2.2.2+1.2/4.3.3.1 timp,3 perc,guit./ukelele,el bass,po,hp,str"
+          "piece": "Jesus Christ Superstar Medley"
         },
         {
           "composer": "arr. Gary Fry",
-          "piece": "Mamma Mia! Medley",
-          "instrumentation": "3d1.2+1.2+1.2/4.3.3.1 timp,2 perc,guitar,el bass,po,drum kit,hp,str"
+          "piece": "Mamma Mia! Medley"
         },
         {
           "composer": "George Cohan/arr. Mike Lewis",
-          "piece": "Give My Regards to George",
-          "instrumentation": "3d1.2.2+1.2/4.3.3.1 timp.,drum kit,str"
+          "piece": "Give My Regards to George"
         }
       ]
     }
