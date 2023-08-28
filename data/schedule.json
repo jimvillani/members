@@ -1,151 +1,7 @@
 {
   "schedule": [
     {
-      "date": "Wednesday, August 2, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "August 09, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Curtain Up!"
-        },
-        {
-          "time": "7:40",
-          "piece": "Chicago"
-        },
-        {
-          "time": "7:50",
-          "piece": "Jesus Christ Superstar"
-        },
-        {
-          "time": "8:00",
-          "piece": "Give My Regards to George"
-        },
-        {
-          "time": "8:10",
-          "piece": "Those Were The Good Old Days"
-        },
-        {
-          "time": "8:15",
-          "piece": "Don't Cry For Me Argentina"
-        },
-        {
-          "time": "8:20",
-          "piece": "I Dreamed a Dream"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Mamma Mia! Medley"
-        },
-        {
-          "time": "8:55",
-          "piece": "You Can’t Stop the Beat"
-        },
-        {
-          "time": "9:15",
-          "piece": "Reviewing The Situation"
-        }
-      ]
-    },
-    {
-      "date": "August 16, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Chicago"
-        },
-        {
-          "time": "7:50",
-          "piece": "Curtain Up!"
-        },
-        {
-          "time": "8:05",
-          "piece": "Jesus Christ Superstar"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Mamma Mia! Medley"
-        },
-        {
-          "time": "9:00",
-          "piece": "You Can’t Stop the Beat"
-        }
-      ]
-    },
-    {
-      "date": "August 23, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Reviewing The Situation"
-        },
-        {
-          "time": "7:35",
-          "piece": "Those Were The Good Old Days"
-        },
-        {
-          "time": "7:45",
-          "piece": "I Dreamed a Dream"
-        },
-        {
-          "time": "7:55",
-          "piece": "Give My Regards to George"
-        },
-        {
-          "time": "8:05",
-          "piece": "Chicago"
-        },
-        {
-          "time": "8:15",
-          "piece": "Curtain Up!"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "You Can’t Stop the Beat"
-        },
-        {
-          "time": "9:00",
-          "piece": "Mamma Mia! Medley"
-        }
-      ]
-    },
-    {
-      "date": "August 26, 2023",
+      "date": "Saturday, August 26, 2023",
       "time": "9:30 AM - 12:00 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -205,6 +61,18 @@
       "location": "Harris Pavilion",
       "scheduleItem": [
         {
+          "time": "2:15",
+          "piece": "Orchestra call time"
+        },
+        {
+          "time": "2:30",
+          "piece": "Sound check - ready to play"
+        },
+        {
+          "time": "3:00",
+          "piece": "Concert"
+        },
+        {
           "composer": "arr. Bob Krogstad",
           "piece": "Curtain Up!"
         },
@@ -243,6 +111,196 @@
         {
           "composer": "George Cohan/arr. Mike Lewis",
           "piece": "Give My Regards to George"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, August 30, 2023",
+      "time": "No Rehearsal",
+      "scheduleItem": [
+      ]
+    },
+    {
+      "date": "Wednesday, September 6, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, September 13, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, September 20, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, September 27, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, October 4, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, October 11, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, October 18, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Friday, October 20, 2023",
+      "time": "7:30 - 9:30PM Dress Rehearsal",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "Saturday, October 21, 2023",
+      "time": "7:30 Concert",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "piece": "Ritual Fire Dance",
+          "composer": "Manuel de Falla",
+          "instrumentation": "2D1.1.2.1/2.2.0.0,timp,pf,str"
+        },
+        {
+          "piece": "Rumanian Folk Dances",
+          "composer": "Béla Bartók",
+          "instrumentation": "2D1.0.2.2/2.0.0.0,str"
+        },
+        {
+          "piece": "Viola Concerto (1945)",
+          "composer": "Béla Bartók",
+          "instrumentation": "3.2.2.2/3.3.2.1,timp,perc,str,va solo"
+        },
+        {
+          "piece": "English Folk Song Suite",
+          "composer": "Ralph Vaughan Williams",
+          "instrumentation": "2D1.1.2.1/2.2.2.0,timp,1 perc,str"
+        },
+        {
+          "piece": "Polovetsian Dances",
+          "composer": "Alexander Borodin",
+          "instrumentation": "2+1.2D1.2.2/4.2.3.1,timp,perc,hp,str"
         }
       ]
     }
