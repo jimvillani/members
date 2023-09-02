@@ -6,24 +6,16 @@
         "linkText": "May 2023 Concert Voucher"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer050623.pdf",
-        "linkText": "May 2023 Concert Flyer (PDF)"
+        "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
+        "linkText": "October 2023 Concert Flyer (PDF)"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer050623.png",
-        "linkText": "May 2023 Concert Flyer (PNG)"
-      },
-      {
-        "url": "https://mso.me/absent20-21",
-        "linkText": "Report Rehearsal Absence"
+        "url": "https://www.manassassymphony.org/pr/flyer102123.png",
+        "linkText": "October 2023 Concert Flyer (PNG)"
       },
       {
         "url": "https://mso.me/setup1920",
         "linkText": "Help Setup for Rehearsal"
-      },
-      {
-        "url": "https://mso.me/polos19",
-        "linkText": "Order MSO Polo Shirt"
       },
       {
         "url": "https://remind.com/join/mso1920",
@@ -36,12 +28,24 @@
       {
         "url": "https://mso.me/polos23",
         "linkText": "Polo and Sweat Shirt Order Form"
+      },
+      {
+        "url": "https://forms.gle/aBa4d2D6GkhwX18S8",
+        "linkText": "23-24 Season Survey"
       }
     ],
     "key": [
       {
-        "url": "https://forms.gle/aBa4d2D6GkhwX18S8",
-        "linkText": "23-24 Season Survey"
+        "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
+        "linkText": "October 2023 Concert Flyer (PDF)"
+      },
+      {
+        "url": "https://www.manassassymphony.org/pr/flyer102123.png",
+        "linkText": "October 2023 Concert Flyer (PNG)"
+      },
+      {
+        "url": "https://forms.gle/dc3fKmyDanHHeMU19",
+        "linkText": "Report Absence"
       },
       {
         "url": "https://manassassymphony.org",
