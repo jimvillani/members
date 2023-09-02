@@ -1,19 +1,17 @@
 {
   "schedule": [
     {
-      "date": "Wednesday, August 30, 2023",
-      "time": "No Rehearsal",
-      "scheduleItem": [
-      ]
-    },
-    {
-      "date": "Wednesday, September 6, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "September 06, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Borodin"
+        },
+        {
+          "time": "8:00",
+          "piece": "de Falla"
         },
         {
           "time": "8:25",
@@ -21,13 +19,17 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Vaughan Williams"
+        },
+        {
+          "time": "9:05",
+          "piece": "Bartók Dances"
         }
       ]
     },
     {
       "date": "Sunday, September 10, 2023",
-      "time": "3:50 - 4:15 PM",
+      "time": "Arts Alive • 3:50 - 4:15 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
@@ -65,13 +67,13 @@
       ]
     },
     {
-      "date": "Wednesday, September 13, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "September 13, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Bartók Concerto"
         },
         {
           "time": "8:25",
@@ -79,7 +81,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "de Falla"
+        },
+        {
+          "time": "8:50",
+          "piece": "Vaughan Williams"
+        },
+        {
+          "time": "9:10",
+          "piece": "Bartók Dances"
         }
       ]
     },
