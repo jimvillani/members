@@ -1,79 +1,13 @@
 {
   "schedule": [
     {
-      "date": "September 06, 2023",
+      "date": "September 27, 2023",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "Hylton Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Borodin"
-        },
-        {
-          "time": "8:00",
-          "piece": "de Falla"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Vaughan Williams"
-        },
-        {
-          "time": "9:05",
-          "piece": "Bartók Dances"
-        }
-      ]
-    },
-    {
-      "date": "Sunday, September 10, 2023",
-      "time": "Arts Alive • 3:50 - 4:15 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "3:10",
-          "piece": "Arrive at Hylton, find parking, etc. ENTER LOADING DOCK"
-        },
-        {
-          "time": "3:40",
-          "piece": "Put cases in UVA Rehearsal Room (where we had lunch)"
-        },
-        {
-          "time": "3:50",
-          "piece": "Performance"
-        },
-        {
-          "time": "3:00",
-          "piece": "Concert"
-        },
-        {
-          "composer": "arr. Bob Krogstad",
-          "piece": "Curtain Up!"
-        },
-        {
-          "composer": "John Kander/arr. Ted Ricketts",
-          "piece": "Chicago"
-        },
-        {
-          "composer": "Andrew Lloyd Webber/arr. Henry Mancini",
-          "piece": "Jesus Christ Superstar Medley"
-        },
-        {
-          "composer": "George Cohan/arr. Mike Lewis",
-          "piece": "Give My Regards to George"
-        }
-      ]
-    },
-    {
-      "date": "September 13, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Bartók Concerto"
+          "piece": "Bartók Concerto (II, I, II)"
         },
         {
           "time": "8:25",
@@ -85,49 +19,7 @@
         },
         {
           "time": "8:50",
-          "piece": "Vaughan Williams"
-        },
-        {
-          "time": "9:10",
-          "piece": "Bartók Dances"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, September 20, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, September 27, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Borodin"
         }
       ]
     },
@@ -153,7 +45,7 @@
     {
       "date": "Wednesday, October 11, 2023",
       "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "location": "Hylton Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
