@@ -24,13 +24,17 @@
       ]
     },
     {
-      "date": "Wednesday, October 4, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "October 04, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Bartók Dances"
+        },
+        {
+          "time": "7:50",
+          "piece": "Borodin"
         },
         {
           "time": "8:25",
@@ -38,18 +42,18 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Bartók Concerto (II, I, III)"
         }
       ]
     },
     {
-      "date": "Wednesday, October 11, 2023",
-      "time": "7:30 - 9:30PM",
+      "date": "October 11, 2023",
+      "time": "7:30 - 9:30 PM",
       "location": "Hylton Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Bartók Concerto (I, III, II)"
         },
         {
           "time": "8:25",
@@ -57,7 +61,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Borodin"
+        },
+        {
+          "time": "9:05",
+          "piece": "de Falla"
+        },
+        {
+          "time": "9:15",
+          "piece": "Vaughan Williams"
         }
       ]
     },
