@@ -1,8 +1,8 @@
 # Begin password protection #
-AuthName "Password Protected"
-Require valid-user
-AuthUserFile .htpasswd
-AuthType basic
+#AuthName "Password Protected"
+#Require valid-user
+#AuthUserFile /home/manassa3/members.manassassymphony.org/.htpasswd
+#AuthType basic
 # End password protection #
 
 ErrorDocument 401 https://www.manassassymphony.org/
