@@ -53,7 +53,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Bartók Concerto (I, III, II)"
+          "piece": "Bartók Concerto (I, III)"
+        },
+        {
+          "time": "8:15",
+          "piece": "de Falla"
         },
         {
           "time": "8:25",
@@ -65,7 +69,7 @@
         },
         {
           "time": "9:05",
-          "piece": "de Falla"
+          "piece": "Bartók Dances"
         },
         {
           "time": "9:15",
