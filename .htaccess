@@ -1,7 +1,7 @@
 # Begin password protection #
 AuthName "Password Protected"
 Require valid-user
-AuthUserFile /home/manassa3/members.manassassymphony.org/.htpasswd
+AuthUserFile .htpasswd
 AuthType basic
 # End password protection #
 
