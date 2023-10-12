@@ -1,52 +1,6 @@
 {
   "schedule": [
     {
-      "date": "September 27, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "Hylton Merchant Hall Stage",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Bartók Concerto (III, I, II)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "de Falla"
-        },
-        {
-          "time": "8:50",
-          "piece": "Borodin"
-        }
-      ]
-    },
-    {
-      "date": "October 04, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Bartók Dances"
-        },
-        {
-          "time": "7:50",
-          "piece": "Borodin"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Bartók Concerto (II, I, III)"
-        }
-      ]
-    },
-    {
       "date": "October 11, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "Hylton Merchant Hall Stage",
@@ -79,39 +33,39 @@
     },
     {
       "date": "Wednesday, October 18, 2023",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:45 PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Bartók Concerto w/ David Pedraza"
         },
         {
           "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "9:00",
+          "piece": "Borodin"
+        },
+        {
+          "time": "9:25",
+          "piece": "Bartók Dances"
+        },
+        {
+          "time": "9:35",
+          "piece": "Vaughan Williams"
         }
       ]
     },
     {
       "date": "Friday, October 20, 2023",
-      "time": "7:30 - 9:30PM Dress Rehearsal",
-      "location": "Hylton JFFRH",
+      "time": "7:30 - 10:00 PM Dress Rehearsal",
+      "location": "Hylton Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
@@ -122,30 +76,61 @@
       "scheduleItem": [
         {
           "piece": "Ritual Fire Dance",
-          "composer": "Manuel de Falla",
-          "instrumentation": "2D1.1.2.1/2.2.0.0,timp,pf,str"
+          "composer": "Manuel de Falla"
         },
         {
           "piece": "Rumanian Folk Dances",
-          "composer": "Béla Bartók",
-          "instrumentation": "2D1.0.2.2/2.0.0.0,str"
+          "composer": "Béla Bartók"
         },
         {
           "piece": "Viola Concerto (1945)",
-          "composer": "Béla Bartók",
-          "instrumentation": "3.2.2.2/3.3.2.1,timp,perc,str,va solo"
+          "composer": "Béla Bartók"
         },
         {
           "piece": "English Folk Song Suite",
-          "composer": "Ralph Vaughan Williams",
-          "instrumentation": "2D1.1.2.1/2.2.2.0,timp,1 perc,str"
+          "composer": "Ralph Vaughan Williams"
         },
         {
           "piece": "Polovetsian Dances",
-          "composer": "Alexander Borodin",
-          "instrumentation": "2+1.2D1.2.2/4.2.3.1,timp,perc,hp,str"
+          "composer": "Alexander Borodin"
         }
       ]
+    },
+    {
+      "date": "Wednesday, October 25, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "Wednesday, November 1, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "Wednesday, November 8, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "Wednesday, November 15, 2023",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "Wednesday, November 29, 2023",
+      "time": "7:30 - 9:30 PM Dress Rehearsal",
+      "location": "Merchant Hall",
+      "scheduleItem": []
+    },
+    {
+      "date": "Saturday, December 2, 2023",
+      "time": "3:30 PM Concert",
+      "location": "Merchant Hall",
+      "scheduleItem": []
     }
   ]
 }
