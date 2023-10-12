@@ -2,10 +2,6 @@
   "links": {
     "inactive": [
       {
-        "url": "/files/voucher-050623.png",
-        "linkText": "May 2023 Concert Voucher"
-      },
-      {
         "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
         "linkText": "October 2023 Concert Flyer (PDF)"
       },
@@ -35,6 +31,10 @@
       }
     ],
     "key": [
+      {
+        "url": "/files/voucher102123.png",
+        "linkText": "October 2023 Concert Voucher"
+      },
       {
         "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
         "linkText": "October 2023 Concert Flyer (PDF)"
