@@ -12,9 +12,44 @@
       ]
     },
     {
-      "date": "Wednesday, November 1, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "date": "November 01, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "von Suppé"
+        },
+        {
+          "time": "7:45",
+          "piece": "Grofé"
+        },
+        {
+          "time": "8:05",
+          "piece": "MacDowell"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "McKenzie"
+        },
+        {
+          "time": "8:55",
+          "piece": "Pilsner"
+        },
+        {
+          "time": "9:15",
+          "piece": "Dvořák"
+        }
+      ]
+    },
+    {
+      "date": "November 08, 2023",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -22,18 +57,27 @@
         },
         {
           "time": "7:50",
-          "piece": "TBD"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, November 8, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
+          "piece": "Pilsner"
+        },
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "time": "8:05",
+          "piece": "McKenzie"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Grofé"
+        },
+        {
+          "time": "8:55",
+          "piece": "MacDowell"
+        },
+        {
+          "time": "9:15",
+          "piece": "von Suppé"
         }
       ]
     },
