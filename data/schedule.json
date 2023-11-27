@@ -1,53 +1,7 @@
 {
   "schedule": [
     {
-      "date": "Wednesday, October 25, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Read through music for the concert"
-        }
-      ]
-    },
-    {
-      "date": "November 01, 2023",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "von Suppé"
-        },
-        {
-          "time": "7:45",
-          "piece": "Grofé"
-        },
-        {
-          "time": "8:05",
-          "piece": "MacDowell"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "McKenzie"
-        },
-        {
-          "time": "8:55",
-          "piece": "Pilsner"
-        },
-        {
-          "time": "9:15",
-          "piece": "Dvořák"
-        }
-      ]
-    },
-    {
-      "date": "November 08, 2023",
+      "date": "November 15, 2023",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -57,49 +11,48 @@
         },
         {
           "time": "7:50",
-          "piece": "Pilsner"
+          "piece": "von Suppé"
         },
         {
           "time": "8:05",
-          "piece": "McKenzie"
+          "piece": "Pilsner"
         },
         {
-          "time": "8:25",
+          "time": "8:20",
           "piece": "break"
         },
         {
-          "time": "8:35",
+          "time": "8:30",
+          "piece": "McKenzie"
+        },
+        {
+          "time": "8:45",
           "piece": "Grofé"
         },
         {
-          "time": "8:55",
+          "time": "9:00",
           "piece": "MacDowell"
         },
         {
           "time": "9:15",
-          "piece": "von Suppé"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, November 15, 2023",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
+          "piece": "Christmas Blast"
+        },
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Sleigh Ride"
+        },
+        {
+          "piece": "Jingle Bells Forever"
         }
       ]
     },
     {
       "date": "Wednesday, November 29, 2023",
-      "time": "7:30 - 9:30 PM Dress Rehearsal",
+      "time": "7:30 - 10:00 PM Dress Rehearsal",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Concert Order"
+          "piece": "Concert Order (below)"
         }
       ]
     },
@@ -109,34 +62,28 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Cloudburst (from Grand Canyon Suite)",
-          "composer": "Ferde Grofé",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,3perc,pf/cel,hp,str"
-        },
-        {
           "piece": "Summer Night's Dream Overture",
-          "composer": "Franz von Suppé",
-          "instrumentation": "1.1.2.1/2.2.1.0,perc,pf,str"
-        },
-        {
-          "piece": "Waldesruhe (Silent Woods), Op. 68 No. 5",
-          "composer": "Antonín Dvořák",
-          "instrumentation": "1.0.2.2/1.0.0.0,str cello solo"
-        },
-        {
-          "piece": "A Light in the Ocean",
-          "composer": "Chris Pilsner",
-          "instrumentation": "2.2.2.2/4.3.3.1,perc,hp,str"
-        },
-        {
-          "piece": "Waldgeister (Forest Spirits) from Suite for Large Orchestra, Op. 42",
-          "composer": "Edward MacDowell",
-          "instrumentation": "2D1.2.2.2/4.2.3.1,timp,perc,str"
+          "composer": "Franz von Suppé"
         },
         {
           "piece": "Four Winter Scenes",
-          "composer": "J. Scott McKenzie",
-          "instrumentation": "2+1.2.2.2/4.3.3.1 timp perc mallets hp str"
+          "composer": "J. Scott McKenzie"
+        },
+        {
+          "piece": "Waldesruhe (Silent Woods), Op. 68 No. 5",
+          "composer": "Antonín Dvořák"
+        },
+        {
+          "piece": "Waldgeister (Forest Spirits) from Suite for Large Orchestra, Op. 42",
+          "composer": "Edward MacDowell"
+        },
+        {
+          "piece": "A Light in the Ocean",
+          "composer": "Chris Pilsner"
+        },
+        {
+          "piece": "Cloudburst (from Grand Canyon Suite)",
+          "composer": "Ferde Grofé"
         },
         {
           "piece": "Sleigh Ride",

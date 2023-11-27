@@ -3,11 +3,11 @@
     "inactive": [
       {
         "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
-        "linkText": "October 2023 Concert Flyer (PDF)"
+        "linkText": "December 2023 Concert Flyer (PDF)"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer102123.png",
-        "linkText": "October 2023 Concert Flyer (PNG)"
+        "url": "files/flyer102123.png",
+        "linkText": "December 2023 Concert Flyer (PNG)"
       },
       {
         "url": "https://mso.me/setup1920",
@@ -32,16 +32,16 @@
     ],
     "key": [
       {
-        "url": "/files/voucher102123.png",
-        "linkText": "October 2023 Concert Voucher"
+        "url": "/files/voucher-120223.pdf",
+        "linkText": "December 2023 Concert Voucher"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer102123.pdf",
-        "linkText": "October 2023 Concert Flyer (PDF)"
+        "url": "https://www.manassassymphony.org/pr/flyer120223.pdf",
+        "linkText": "December 2023 Concert Flyer (PDF)"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer102123.png",
-        "linkText": "October 2023 Concert Flyer (PNG)"
+        "url": "https://www.manassassymphony.org/pr/flyer120223.png",
+        "linkText": "December 2023 Concert Flyer (PNG)"
       },
       {
         "url": "https://forms.gle/dc3fKmyDanHHeMU19",
