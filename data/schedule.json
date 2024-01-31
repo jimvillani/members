@@ -12,7 +12,7 @@
       ]
     },
     {
-      "date": "January 10, 4024",
+      "date": "January 10, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "date": "January 17, 4024",
+      "date": "January 17, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "date": "January 24, 4024",
+      "date": "January 24, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -85,13 +85,17 @@
       ]
     },
     {
-      "date": "January 31, 2024",
+      "date": "January 31, 4024",
       "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Saint-Saëns 1,2,5,7,10,12,14"
+        },
+        {
+          "time": "8:00",
+          "piece": "Williams - Schindler"
         },
         {
           "time": "8:25",
@@ -99,7 +103,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Healey - Beatles"
+        },
+        {
+          "time": "9:00",
+          "piece": "Bock - Fiddler"
+        },
+        {
+          "time": "9:20",
+          "piece": "Williams - Tribute"
         }
       ]
     },
