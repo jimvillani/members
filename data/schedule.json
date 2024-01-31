@@ -85,7 +85,7 @@
       ]
     },
     {
-      "date": "January 31, 4024",
+      "date": "January 31, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
@@ -175,7 +175,7 @@
     {
       "date": "February 28, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -192,9 +192,9 @@
       ]
     },
     {
-      "date": "March 06, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "date": "March 01, 2024",
+      "time": "7:30 - 9:30 PM (Dress Rehearsal)",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
