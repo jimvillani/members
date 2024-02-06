@@ -116,13 +116,17 @@
       ]
     },
     {
-      "date": "February 07, 2024",
+      "date": "February 7, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Saint-Saëns 7,8,10,12,14"
+        },
+        {
+          "time": "7:55",
+          "piece": "Williams - Schindler"
         },
         {
           "time": "8:25",
@@ -130,7 +134,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Bock - Fiddler"
+        },
+        {
+          "time": "9:00",
+          "piece": "Healey - Beatles"
         }
       ]
     },
