@@ -145,19 +145,27 @@
     {
       "date": "February 14, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Saint-Saëns 9,10,11,12,14, 1,2,4,5,7"
         },
         {
-          "time": "8:25",
+          "time": "8:00",
+          "piece": "Williams - Schindler"
+        },
+        {
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:40",
+          "piece": "Healey - Beatles"
+        },
+        {
+          "time": "9:15",
+          "piece": "Williams - Tribute"
         }
       ]
     },
