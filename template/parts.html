@@ -8,20 +8,80 @@
     <div ng-show="partsData.links.length">
         Practice parts for these pieces are available from IMSLP.
     </div>
-    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" >
+    <ol class="normal" style="padding-top: 6px; padding-left: 18px;">
         <li ng-repeat="x in partsData.links">
             {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
-            (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
+            (<a target="_blank" ng-href="{{ x.url }}"> {{ x.linkText }} </a>)
         </li>
     </ol>
-    <div style="margin-top: 6px;" ng-show="partsData.videos.length">
-        Recordings or videos for these pieces are available as linked.
+    <div style="margin-top: 12px; font-size: 1.2em; font-weight: 800; color:#51134a">
+        <strong>Audio Examples</strong>
     </div>
-    <ol class="normal" style="padding-top: 6px; padding-left: 18px;" >
+    <ul class="normal" style="padding-top: 6px; padding-left: 0px; list-style-type: none;">
+        <li ng-repeat="x in partsData.audio">
+            <figure>
+                <figcaption class="title">{{ x.title }}</figcaption>
+                <audio controls>
+                    <source src="/audio/{{ x.url }}" type="audio/mpeg"/>
+                    Your browser does not support the <code>audio</code> element.
+                </audio>
+            </figure>
+        </li>
+    </ul>
+    <div style="margin-top: 12px; font-size: 1.2em; font-weight: 800; color:#51134a" ng-show="partsData.videos.length">
+        Videos
+    </div>
+    <ul class="normal" style="padding-top: 6px; padding-left: 18px; list-style-type: none;">
         <li ng-repeat="x in partsData.videos">
             {{ x.composer }} &mdash; <span ng-bind-html="x.title | unsafe"></span>
-            (<a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>)
+            (<a target="_blank" ng-href="{{ x.url }}"> {{ x.linkText }} </a>)
         </li>
-    </ol>
+    </ul>
+</div>
 
+<!--    hardcoded just because -->
+<div>
+    <div style="margin-top: 12px; font-size: 1.2em; font-weight: 800; color:#51134a">
+        Videos
+    </div>
+    <div class="video">
+        <div class="vheadline">
+            Doreen Ketchens &ldquo;When the Saints Go Marching In&rdquo;
+        </div>
+        <iframe width="375" height="211" src="https://www.youtube.com/embed/Z-x4dmeFcLQ"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+
+    </div>
+    <div class="video-right">
+        <div class="vheadline">
+            Doreen Ketchens &ldquo;Just a Closer Walk with Thee&rdquo;
+        </div>
+        <iframe width="375" height="211" src="https://www.youtube.com/embed/EC8_zcGEZjc"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+
+    </div>
+    <div class="video">
+        <div class="vheadline">
+            Doreen Ketchens &ldquo;Amazing Grace&rdquo;
+        </div>
+        <iframe width="375" height="211" src="https://www.youtube.com/embed/_NBSPJj00vA"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+
+    </div>
+    <div class="video-right">
+        <div class="vheadline">
+            Doreen Ketchens &ldquo;Basin Street Blues&rdquo;
+        </div>
+        <iframe width="375" height="211" src="https://www.youtube.com/embed/9O6b8RGbZ5I"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+
+    </div>
 </div>

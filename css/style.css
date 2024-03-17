@@ -241,3 +241,51 @@ div.c1-4 {
 .topBorder {
     border-top: thin solid #51134a;
 }
+
+.vheadline {
+    font-size: 1.1em;
+    font-style: normal;
+    font-weight: 600;
+    text-indent: 2px;
+    color: #51134a;
+    margin-bottom: 6px;
+    margin-top: 18px;
+    padding: 0;
+    width: 97%;
+}
+
+.video {
+    width: 48.5%;
+    clear: left;
+    float: left;
+}
+
+.video-right {
+    width: 48.5%;
+    clear: right;
+    float: right;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #d2a550;
+    color: #51134a;
+}
+
+audio {
+    width: 650px;
+    height: 30px;
+    padding-left: 2em;
+}
+
+figure > figcaption.title {
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-top: 6px;
+    padding-bottom: 3px;
+    padding-left: 2em;
+    margin-left: 0;
+    color: #51134a;
+}
+
+figure > figcaption.movement {
+}
