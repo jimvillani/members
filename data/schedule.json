@@ -1,159 +1,21 @@
 {
   "schedule": [
     {
-      "date": "January 03, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Cookies and Games"
-        }
-      ]
-    },
-    {
-      "date": "January 10, 2024",
+      "date": "March 20, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Saint-Saëns"
-        },
-        {
-          "time": "8:10",
-          "piece": "Williams - Salute"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Williams - Schindler"
-        },
-        {
-          "time": "9:00",
-          "piece": "Bock - Fiddler"
-        },
-        {
-          "time": "9:10",
-          "piece": "Healey - Beatles"
-        }
-      ]
-    },
-    {
-      "date": "January 17, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Healey - Beatles"
+          "piece": "Grofé - Mississippi Suite"
         },
         {
           "time": "8:00",
-          "piece": "Bock - Fiddler"
+          "piece": "Grofé - #3 Heliotrope"
         },
         {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Williams - Salute"
-        },
-        {
-          "time": "8:50",
-          "piece": "Williams - Schindler"
-        },
-        {
-          "time": "9:15",
-          "piece": "Saint-Saëns (no pianos)"
-        }
-      ]
-    },
-    {
-      "date": "January 24, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "String Sectionals"
-        }
-      ]
-    },
-    {
-      "date": "January 31, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Saint-Saëns 1,2,5,7,10,12,14"
-        },
-        {
-          "time": "8:00",
-          "piece": "Williams - Schindler"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Healey - Beatles"
-        },
-        {
-          "time": "9:00",
-          "piece": "Bock - Fiddler"
-        },
-        {
-          "time": "9:20",
-          "piece": "Williams - Tribute"
-        }
-      ]
-    },
-    {
-      "date": "February 7, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Saint-Saëns 7,8,10,12,14"
-        },
-        {
-          "time": "7:55",
-          "piece": "Williams - Schindler"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Bock - Fiddler"
-        },
-        {
-          "time": "9:00",
-          "piece": "Healey - Beatles"
-        }
-      ]
-    },
-    {
-      "date": "February 14, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Saint-Saëns 9,10,11,12,14, 1,2,4,5,7"
-        },
-        {
-          "time": "8:00",
-          "piece": "Williams - Schindler"
+          "time": "8:15",
+          "piece": "Grofé - #1 Indigo"
         },
         {
           "time": "8:30",
@@ -161,128 +23,149 @@
         },
         {
           "time": "8:40",
-          "piece": "Healey - Beatles"
+          "piece": "What a Wonderful World"
         },
         {
-          "time": "9:15",
-          "piece": "Williams - Tribute"
+          "piece": "Amazing Grace/Saints"
+        },
+        {
+          "piece": "Summertime"
+        },
+        {
+          "piece": "St. James Infirmary"
+        },
+        {
+          "piece": "House of New Orleans"
+        },
+        {
+          "piece": "Just a Closer Walk with Thee"
         }
       ]
     },
     {
-      "date": "February 21, 2024",
+      "date": "March 27, 2024",
+      "time": "No Rehearsal - Spring Break"
+    },
+    {
+      "date": "April 03, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "Rehearsal Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Williams - Schindler"
+          "piece": "TBD"
         },
         {
-          "time": "8:20",
+          "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:30",
-          "piece": "Healey - Beatles"
-        },
-        {
-          "time": "9:00",
-          "piece": "Bock - Fiddler"
-        },
-        {
-          "time": "9:20",
-          "piece": "Williams - Tribute"
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "February 28, 2024",
+      "date": "April 10, 2024",
+      "time": "7:30 - 9:30 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 17, 2024",
+      "time": "7:30 - 9:30 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 24, 2024",
+      "time": "7:30 - 9:30 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 01, 2024",
       "time": "7:30 - 9:45 PM",
+      "location": "Location TBD",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 3, 2024",
+      "time": "7:30 - 10:00 PM Dress Rehearsal",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Saint-Saëns (all)"
+          "piece": "TBD"
         },
         {
-          "time": "8:10",
-          "piece": "Williams - Schindler"
-        },
-        {
-          "time": "8:35",
+          "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:45",
-          "piece": "Williams - Tribute"
-        },
-        {
-          "time": "9:00",
-          "piece": "Bock - Fiddler"
-        },
-        {
-          "time": "9:20",
-          "piece": "Healey - Beatles"
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "March 01, 2024",
-      "time": "7:30 - 10:00 PM (Dress Rehearsal)",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "Tribute to the Film Composer",
-          "time": "7:30"
-        },
-        {
-          "piece": "Symphonic Dances from Fiddler on the Roof",
-          "time": "7:40"
-        },
-        {
-          "piece": "Carnival of the Animals",
-          "time": "8:00"
-        },
-        {
-          "time": "8:35",
-          "piece": "break"
-        },
-        {
-          "piece": "Three Pieces from Schindler's List",
-          "time": "8:45"
-        },
-        {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "time": "9:15"
-        }
-      ]
-    },
-    {
-      "date": "March 2, 2024",
+      "date": "May 4, 2024",
       "time": "7:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
-        {
-          "piece": "Tribute to the Film Composer",
-          "composer": "John Williams"
-        },
-        {
-          "piece": "Symphonic Dances from Fiddler on the Roof",
-          "composer": "Jerry Bock, arr. Ira Hearshen"
-        },
-        {
-          "piece": "Carnival of the Animals",
-          "composer": "Camille Saint-Saëns"
-        },
-        {
-          "piece": "Three Pieces from Schindler's List",
-          "composer": "John Williams"
-        },
-        {
-          "piece": "Love is All You Need (A Tribute to the Beatles)",
-          "composer": "Lennon & McCartney, arr. Bruce Healey"
-        }
+        {}
       ]
     }
   ]
