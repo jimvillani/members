@@ -1,168 +1,92 @@
 {
   "schedule": [
     {
-      "date": "March 20, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Grofé - Mississippi Suite"
-        },
-        {
-          "time": "8:00",
-          "piece": "Grofé - #3 Heliotrope"
-        },
-        {
-          "time": "8:15",
-          "piece": "Grofé - #1 Indigo"
-        },
-        {
-          "time": "8:30",
-          "piece": "break"
-        },
-        {
-          "time": "8:40",
-          "piece": "What a Wonderful World"
-        },
-        {
-          "piece": "Amazing Grace/Saints"
-        },
-        {
-          "piece": "Summertime"
-        },
-        {
-          "piece": "St. James Infirmary"
-        },
-        {
-          "piece": "House of New Orleans"
-        },
-        {
-          "piece": "Just a Closer Walk with Thee"
-        }
-      ]
-    },
-    {
-      "date": "March 27, 2024",
-      "time": "No Rehearsal - Spring Break"
-    },
-    {
-      "date": "April 3, 2024",
+      "date": "April 17, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Grofé - Mississippi Suite (I, II)"
-        },
-        {
-          "time": "8:05",
-          "piece": "Grofé - #1 Indigo"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Grofé - #2 Alice BLue"
-        },
-        {
-          "time": "8:50",
-          "piece": "St. Louis Blues"
-        },
-        {
-          "piece": "Basin St. Blues"
-        },
-        {
-          "piece": "House of Rising Sun"
-        },
-        {
-          "piece": "Just a Closer Walk with Thee"
-        }
-      ]
-    },
-    {
-      "date": "April 10, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Just a Closer Walk with Thee"
-        },
-        {
-          "time": "7:40",
-          "piece": "House of Rising Sun"
-        },
-        {
-          "time": "7:50",
-          "piece": "St. James Infirmary"
-        },
-        {
-          "time": "8:00",
-          "piece": "Wonderful World"
-        },
-        {
-          "time": "8:15",
           "piece": "Basin Street Blues"
         },
         {
+          "time": "7:40",
+          "piece": "House of the Rising Sun"
+        },
+        {
+          "time": "7:50",
+          "piece": "Wonderful World"
+        },
+        {
+          "time": "8:05",
+          "piece": "Summertime"
+        },
+        {
+          "time": "8:15",
+          "piece": "Grace/Saints"
+        },
+        {
           "time": "8:25",
           "piece": "break"
         },
         {
           "time": "8:35",
-          "piece": "Grofé - Three Shades (all)"
+          "piece": "Grofé - Three Shades II & III"
         },
         {
           "time": "9:00",
-          "piece": "Grofé - Mississippi Suite (III, IV)"
-        }
-      ]
-    },
-    {
-      "date": "April 17, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Grofé - Mississippi Suite (IV, I)"
         }
       ]
     },
     {
       "date": "April 24, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "Rehearsal Hall",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Grofé - Three Shades (all)"
         },
         {
-          "time": "8:25",
+          "time": "7:50",
+          "piece": "Grofé - Mississippi Suite (all)"
+        },
+        {
+          "time": "8:20",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:30",
+          "piece": "Basin Street Blues"
+        },
+        {
+          "piece": "Wonderful World"
+        },
+        {
+          "piece": "House of Rising Sun"
+        },
+        {
+          "piece": "St. Louis Blues"
+        },
+        {
+          "piece": "St. James Infirmary"
+        },
+        {
+          "piece": "Summertime"
+        },
+        {
+          "piece": "Just a Closer Walk with Thee"
+        },
+        {
+          "piece": "Grace/Saints"
         }
       ]
     },
     {
       "date": "May 01, 2024",
       "time": "7:30 - 9:45 PM",
-      "location": "Location TBD",
+      "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -185,15 +109,28 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Basin Street Blues"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "piece": "Wonderful World"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "House of Rising Sun"
+        },
+        {
+          "piece": "St. Louis Blues"
+        },
+        {
+          "piece": "St. James Infirmary"
+        },
+        {
+          "piece": "Summertime"
+        },
+        {
+          "piece": "Just a Closer Walk with Thee"
+        },
+        {
+          "piece": "Grace/Saints"
         }
       ]
     },
@@ -202,7 +139,38 @@
       "time": "7:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
-        {}
+        {
+          "composer": "Grofé",
+          "piece": "Three Shades of Blue"
+        },
+        {
+          "composer": "Grofé",
+          "piece": "Mississippi Suite"
+        },
+        {
+          "piece": "Basin Street Blues"
+        },
+        {
+          "piece": "Wonderful World"
+        },
+        {
+          "piece": "House of Rising Sun"
+        },
+        {
+          "piece": "St. Louis Blues"
+        },
+        {
+          "piece": "St. James Infirmary"
+        },
+        {
+          "piece": "Summertime"
+        },
+        {
+          "piece": "Just a Closer Walk with Thee"
+        },
+        {
+          "piece": "Grace/Saints"
+        }
       ]
     }
   ]
