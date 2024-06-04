@@ -1,29 +1,13 @@
 {
   "schedule": [
     {
-      "date": "April 17, 2024",
+      "date": "August 07, 2024",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "Rehearsal Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Basin Street Blues"
-        },
-        {
-          "time": "7:40",
-          "piece": "House of the Rising Sun"
-        },
-        {
-          "time": "7:50",
-          "piece": "Wonderful World"
-        },
-        {
-          "time": "8:05",
-          "piece": "Summertime"
-        },
-        {
-          "time": "8:15",
-          "piece": "Grace/Saints"
+          "piece": "TBD"
         },
         {
           "time": "8:25",
@@ -31,147 +15,71 @@
         },
         {
           "time": "8:35",
-          "piece": "Grofé - Three Shades II & III"
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 14, 2024",
+      "time": "7:30 - 9:30 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
         },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 21, 2024",
+      "time": "7:30 - 9:30 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "August 24, 2024",
+      "time": "9:00 AM - 12:00 PM",
+      "location": "Rehearsal Hall",
+      "scheduleItem": [
         {
           "time": "9:00",
-          "piece": "Grofé - Mississippi Suite (IV, I)"
-        }
-      ]
-    },
-    {
-      "date": "April 24, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Grofé - Three Shades (all)"
-        },
-        {
-          "time": "7:50",
-          "piece": "Grofé - Mississippi Suite (all)"
-        },
-        {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Basin Street Blues"
-        },
-        {
-          "piece": "Wonderful World"
-        },
-        {
-          "piece": "House of Rising Sun"
-        },
-        {
-          "piece": "St. Louis Blues"
-        },
-        {
-          "piece": "St. James Infirmary"
-        },
-        {
-          "piece": "Summertime"
-        },
-        {
-          "piece": "Just a Closer Walk with Thee"
-        },
-        {
-          "piece": "Grace/Saints"
-        }
-      ]
-    },
-    {
-      "date": "May 01, 2024",
-      "time": "7:30 - 9:45 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
           "piece": "TBD"
         },
         {
-          "time": "8:25",
+          "time": "10:15",
           "piece": "break"
         },
         {
-          "time": "8:35",
+          "time": "10:30",
           "piece": "TBD"
         }
       ]
     },
     {
-      "date": "May 3, 2024",
-      "time": "7:30 - 10:00 PM Dress Rehearsal",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Basin Street Blues"
-        },
-        {
-          "piece": "Wonderful World"
-        },
-        {
-          "piece": "House of Rising Sun"
-        },
-        {
-          "piece": "St. Louis Blues"
-        },
-        {
-          "piece": "St. James Infirmary"
-        },
-        {
-          "piece": "Summertime"
-        },
-        {
-          "piece": "Just a Closer Walk with Thee"
-        },
-        {
-          "piece": "Grace/Saints"
-        }
-      ]
-    },
-    {
-      "date": "May 4, 2024",
-      "time": "7:30 PM Concert",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "composer": "Grofé",
-          "piece": "Three Shades of Blue"
-        },
-        {
-          "composer": "Grofé",
-          "piece": "Mississippi Suite"
-        },
-        {
-          "piece": "Basin Street Blues"
-        },
-        {
-          "piece": "Wonderful World"
-        },
-        {
-          "piece": "House of Rising Sun"
-        },
-        {
-          "piece": "St. Louis Blues"
-        },
-        {
-          "piece": "St. James Infirmary"
-        },
-        {
-          "piece": "Summertime"
-        },
-        {
-          "piece": "Just a Closer Walk with Thee"
-        },
-        {
-          "piece": "Grace/Saints"
-        }
-      ]
+      "date": "August 25, 2024",
+      "time": "3:00 PM Concert",
+      "location": "Harris Pavilion"
     }
   ]
 }
