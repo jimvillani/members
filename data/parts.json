@@ -1,34 +1,8 @@
 {
   "parts": {
-    "ftp": "https://members.manassassymphony.org/parts/2023-24/05-may",
+    "ftp": "https://members.manassassymphony.org/parts/2024-25",
     "links": [],
-    "audio": [
-      {
-        "url": "may24/amazing-saints.mp3",
-        "title": "Amazing Grace / When the Saints Go Marching In"
-      },
-      {
-        "url": "may24/basin-street-blues-rev.mp3",
-        "title": "Basin Street Blues"
-      },
-      {
-        "url": "may24/house-of-the-rising-sun.mp3",
-        "title": "House of the Rising Sun"
-      },
-      {
-        "url": "may24/st-james-inf.mp3",
-        "title": "St. James Infirmary Blues"
-      },
-      {
-        "url": "may24/summertime.mp3",
-        "title": "Summertime"
-      },
-      {
-        "url": "may24/wonderful-world.mp3",
-        "title": "What a Wonderful World"
-      }
-    ],
-    "videos": [
-    ]
+    "audio": [],
+    "videos": []
   }
 }
