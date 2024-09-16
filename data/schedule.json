@@ -1,83 +1,6 @@
 {
   "schedule": [
     {
-      "date": "September 4, 2024",
-      "time": "7:30 - 9:30PM",
-      "location": "Merchant Hall Stage",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Tchaikovsky"
-        },
-        {
-          "time": "8:10ish",
-          "piece": "Dvořák"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Dvořák (cont'd)"
-        }
-      ]
-    },
-    {
-      "date": "September 11, 2024",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Vivaldi"
-        },
-        {
-          "time": "7:50",
-          "piece": "Benjamin"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Dvořák IV"
-        },
-        {
-          "time": "9:00",
-          "piece": "Arts Alive Music"
-        }
-      ]
-    },
-    {
-      "date": "September 14, 2024",
-      "time": "Arts Alive 4:30 - 5:00 PM",
-      "location": "Merchant Hall Stage",
-      "scheduleItem": [
-        {
-          "time": "4:00",
-          "piece": "Orchestra call"
-        },
-        {
-          "time": "4:30",
-          "piece": "Concert Order"
-        },
-        {
-          "composer": "Gershwin/Whitney",
-          "piece": "Fascinating Rhythm"
-        },
-        {
-          "composer": "Brubaker",
-          "piece": "A Touch of Jazz"
-        },
-        {
-          "composer": "Custer",
-          "piece": "A Salute to the Big Bands"
-        }
-      ]
-    },
-    {
       "date": "September 18, 2024",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
@@ -95,7 +18,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Tchaikovsky"
+        },
+        {
+          "time": "8:00",
+          "piece": "Dvořák I"
         },
         {
           "time": "8:25",
@@ -103,7 +30,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Dvořák III"
+        },
+        {
+          "time": "9:00",
+          "piece": "Dvořák I"
         }
       ]
     },
