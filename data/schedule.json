@@ -45,7 +45,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Dvořák I [10]"
+        },
+        {
+          "time": "8:00",
+          "piece": "Dvořák II"
         },
         {
           "time": "8:25",
@@ -53,18 +57,22 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Benjamin w/ soloists"
         }
       ]
     },
     {
       "date": "October 9, 2024",
       "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Vivaldi"
+        },
+        {
+          "time": "7:50",
+          "piece": "Dvořák IV"
         },
         {
           "time": "8:25",
@@ -72,7 +80,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Dvořák III"
+        },
+        {
+          "time": "9:00",
+          "piece": "Benjamin"
         }
       ]
     },
@@ -83,7 +95,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Tchaikovsky"
+        },
+        {
+          "time": "7:50",
+          "piece": "Dvořák I, IV"
         },
         {
           "time": "8:25",
@@ -91,7 +107,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Vivaldi w/soloists"
+        },
+        {
+          "time": "8:55",
+          "piece": "Benjamin w/soloists"
         }
       ]
     },
