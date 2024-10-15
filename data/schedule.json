@@ -103,7 +103,7 @@
         },
         {
           "time": "7:50",
-          "piece": "Dvořák I, IV"
+          "piece": "Dvořák (all)"
         },
         {
           "time": "8:25",
@@ -121,12 +121,16 @@
     },
     {
       "date": "October 23, 2024",
-      "time": "7:30 - 9:45PM",
+      "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Tchaikovsky"
+        },
+        {
+          "time": "7:50",
+          "piece": "Dvořák (all)"
         },
         {
           "time": "8:25",
@@ -134,26 +138,24 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Benjamin w/soloists"
+        },
+        {
+          "time": "9:10",
+          "piece": "Vivaldi w/soloists"
         }
       ]
     },
     {
       "date": "Friday, October 25, 2024",
-      "time": "7:30 - 10:00PM",
+      "time": "7:30 - 10:00PM Dress Rehearsal",
       "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
+          "piece": "Wear Concert Dress for Photos"
+        },{
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
@@ -162,6 +164,10 @@
       "time": "3:30PM",
       "location": "Merchant Hall",
       "scheduleItem": [
+        {
+          "time": "3:00",
+          "piece": "Orchestra call"
+        },
         {
           "composer": "Pyotr Ilyich Tchaikovsky",
           "piece": "Marche Slav, Op. 31"

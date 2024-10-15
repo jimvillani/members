@@ -1,15 +1,15 @@
 <div class="banner">Rehearsal Schedule</div>
-<div ng-controller="scheduleCtrl">
+<div ng-controller="scheduleCtrl" style="color: #51134a">
     <div id="schedule1" class="l">
         <div class="item" ng-repeat="x in scheduleData | slice:0:colLength">
             <div class="date">
-                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
-                {{x.time}}
+                {{ x.date }}<span ng-show="x.hasOwnProperty('location')"> ({{ x.location }})</span><br/>
+                {{ x.time }}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">
                 <div class="time">
                     {{ y.time }}{{ y.composer }}
-                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{y.piece}}
+                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{ y.piece }}
                 </div>
                 <div class="instr" ng-show="y.hasOwnProperty('instrumentation')">
                     {{ y.instrumentation }}
@@ -20,13 +20,13 @@
     <div id="schedule2" class="m">
         <div class="item" ng-repeat="x in scheduleData | slice:colLength:2*colLength">
             <div class="date">
-                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
-                {{x.time}}
+                {{ x.date }}<span ng-show="x.hasOwnProperty('location')"> ({{ x.location }})</span><br/>
+                {{ x.time }}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">
                 <div class="time">
                     {{ y.time }}{{ y.composer }}
-                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{y.piece}}
+                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{ y.piece }}
                 </div>
                 <div class="instr" ng-show="y.hasOwnProperty('instrumentation')">
                     {{ y.instrumentation }}
@@ -37,13 +37,13 @@
     <div id="schedule3" class="r">
         <div class="item" ng-repeat="x in scheduleData | slice:2*colLength:scheduleData.length">
             <div class="date">
-                {{x.date}}<span ng-show="x.hasOwnProperty('location')"> ({{x.location}})</span><br/>
-                {{x.time}}
+                {{ x.date }}<span ng-show="x.hasOwnProperty('location')"> ({{ x.location }})</span><br/>
+                {{ x.time }}
             </div>
             <div class="schedule" ng-repeat="y in x.scheduleItem">
                 <div class="time">
                     {{ y.time }}{{ y.composer }}
-                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{y.piece}}
+                    <span ng-show="y.hasOwnProperty('time') || y.hasOwnProperty('composer')"> &ndash; </span>{{ y.piece }}
                 </div>
                 <div class="instr" ng-show="y.hasOwnProperty('instrumentation')">
                     {{ y.instrumentation }}
