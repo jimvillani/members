@@ -1,13 +1,25 @@
 {
   "schedule": [
-     {
-      "date": "October 23, 2024",
+    {
+      "date": "November 6, 2024",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
-          "time": "7:50",
-          "piece": "Dvořák (III, II, IV, I)"
+          "time": "7:30",
+          "piece": "Holdridge"
+        },
+        {
+          "time": "7:45",
+          "piece": "Whitacre"
+        },
+        {
+          "time": "8:00",
+          "piece": "Fauré"
+        },
+        {
+          "time": "8:15",
+          "piece": "Anderson - Lullaby"
         },
         {
           "time": "8:25",
@@ -15,51 +27,132 @@
         },
         {
           "time": "8:35",
-          "piece": "Benjamin w/soloists"
+          "piece": "Berlioz"
+        },
+        {
+          "time": "8:55",
+          "piece": "Elfman"
         },
         {
           "time": "9:15",
-          "piece": "Vivaldi w/soloists"
+          "piece": "Stravinsky"
         }
       ]
     },
     {
-      "date": "Friday, October 25, 2024",
-      "time": "7:30 - 10:00PM Dress Rehearsal",
+      "date": "November 13, 2024",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "November 20, 2024",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "December 4, 2024",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "December 11, 2024",
+      "time": "7:30 - 9:45PM Tech Rehearsal",
       "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
-          "piece": "Wear Concert Dress for Photos"
-        },{
           "time": "7:30",
-          "piece": "Concert Order"
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "Sunday, October 27, 2024",
-      "time": "3:30PM",
+      "date": "December 13, 2024",
+      "time": "7:30 - 10:00PM Dress Rehearsal (if necessary)",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "December 14, 2024",
+      "time": "3:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "time": "3:00",
-          "piece": "Orchestra call"
+          "piece": "Pavane",
+          "composer": "G. Fauré",
+          "instrumentation": "2.2.2.2/2.0.0.0,str"
         },
         {
-          "composer": "Pyotr Ilyich Tchaikovsky",
-          "piece": "Marche Slav, Op. 31"
+          "piece": "A Trumpeter's Lullaby",
+          "composer": "L. Anderson",
+          "instrumentation": "2.2.2.2/4.3.3.0, 2AS,TS,perc,str"
         },
         {
-          "composer": "Arthur Benjamin",
-          "piece": "Romantic Fantasy"
+          "piece": "March to the Scaffold from 'Symphonie Fantastique'",
+          "composer": "H. Berlioz",
+          "instrumentation": "2.2.2.4/4.4.3.2,timp,perc,str"
         },
         {
-          "composer": "Antonio Vivaldi",
-          "piece": "Concerto for 2 Violins in A minor, RV 522, Op. 3 No. 8"
+          "piece": "Elegy for Strings and Harp",
+          "composer": "L. Holdridge",
+          "instrumentation": "0.0.0.0/0.0.0.0,hp,pf,str"
         },
         {
-          "composer": "Antonìn Dvořák",
-          "piece": "Symphony No. 9 in D minor, Op. 95"
+          "piece": "Goodnight, Moon",
+          "composer": "E. Whitacre",
+          "instrumentation": "0.0.0.0/0.0.0.0,hp,pf,str"
+        },
+        {
+          "piece": "The Nightmare Before Christmas",
+          "composer": "D. Elfman",
+          "instrumentation": "2+1.2+1.2+1.2+1/6.2.4.1,timp,perc,hp,pf,str"
+        },
+        {
+          "piece": "Berceuse and Finale from Firebird Suite",
+          "composer": "I. Stravinsky",
+          "instrumentation": "2+1.2.2.2/4.2.3.1,timp,perc,hp,pf,str"
+        },
+        {
+          "piece": "Sleigh Ride",
+          "composer": "L. Anderson",
+          "instrumentation": "2.2.2.2/4.3.3.1, 2AS,TS,perc,str"
+        },
+        {
+          "piece": "Carol of the Bells",
+          "composer": "A. Stanley",
+          "instrumentation": "2+1.2.2+1.2+1/4.3.3.1,timp,perc,str"
+        },
+        {
+          "piece": "Christmas Blast",
+          "composer": "A. DiLorenzo",
+          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,perc,hp,str"
+        },
+        {
+          "piece": "Jingle Bells Forever",
+          "composer": "Pierpont/Sousa/Smith",
+          "instrumentation": "2+1.2.2+1.2/3.3.3.1,timp,perc,tr"
         }
       ]
     }
