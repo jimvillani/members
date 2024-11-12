@@ -46,7 +46,35 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Holdridge"
+        },
+        {
+          "time": "7:40",
+          "piece": "Whitacre"
+        },
+        {
+          "time": "7:50",
+          "piece": "Lullaby - w/ soloist"
+        },
+        {
+          "time": "8:10",
+          "piece": "Stravinsky (Finale [11])"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Elfman"
+        },
+        {
+          "time": "9:00",
+          "piece": "Berlioz"
+        },
+        {
+          "time": "9:20",
+          "piece": "Stanley"
         }
       ]
     },
