@@ -1,115 +1,6 @@
 {
   "schedule": [
     {
-      "date": "November 6, 2024",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Holdridge"
-        },
-        {
-          "time": "7:45",
-          "piece": "Whitacre"
-        },
-        {
-          "time": "8:00",
-          "piece": "Fauré"
-        },
-        {
-          "time": "8:15",
-          "piece": "Anderson - Lullaby"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Berlioz"
-        },
-        {
-          "time": "8:55",
-          "piece": "Elfman"
-        },
-        {
-          "time": "9:15",
-          "piece": "Stravinsky"
-        }
-      ]
-    },
-    {
-      "date": "November 13, 2024",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Holdridge"
-        },
-        {
-          "time": "7:40",
-          "piece": "Whitacre"
-        },
-        {
-          "time": "7:50",
-          "piece": "Lullaby - w/ soloist"
-        },
-        {
-          "time": "8:10",
-          "piece": "Stravinsky (Finale [11])"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Elfman"
-        },
-        {
-          "time": "9:00",
-          "piece": "Berlioz"
-        },
-        {
-          "time": "9:20",
-          "piece": "Stanley"
-        }
-      ]
-    },
-    {
-      "date": "November 20, 2024",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Elfman"
-        },
-        {
-          "time": "8:10",
-          "piece": "Carol of the Bells"
-        },
-        {
-          "time": "8:15",
-          "piece": "Christmas Blast"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Stravinsky"
-        },
-        {
-          "time": "9:00",
-          "piece": "Berlioz"
-        }
-      ]
-    },
-    {
       "date": "December 04, 2024",
       "time": "7:30 - 9:30 PM",
       "location": "JFFRH",
@@ -132,10 +23,14 @@
         },
         {
           "time": "8:20",
+          "piece": "Sleigh Ride"
+        },
+        {
+          "time": "8:25",
           "piece": "break"
         },
         {
-          "time": "8:30",
+          "time": "8:35",
           "piece": "Elfman"
         },
         {
@@ -143,12 +38,12 @@
           "piece": "Berlioz"
         },
         {
-          "time": "9:10",
+          "time": "9:05",
           "piece": "Stravinsky"
         },
         {
-          "time": "9:25",
-          "piece": "Sleigh Ride/JBF"
+          "time": "9:20",
+          "piece": "Christmas Blast/Carol of the Bells"
         }
       ]
     },
@@ -159,7 +54,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Concert order"
         }
       ]
     },
@@ -181,58 +76,47 @@
       "scheduleItem": [
         {
           "piece": "Pavane",
-          "composer": "G. Fauré",
-          "instrumentation": "2.2.2.2/2.0.0.0,str"
+          "composer": "G. Fauré"
         },
         {
           "piece": "A Trumpeter's Lullaby",
-          "composer": "L. Anderson",
-          "instrumentation": "2.2.2.2/4.3.3.0, 2AS,TS,perc,str"
+          "composer": "L. Anderson"
         },
         {
           "piece": "March to the Scaffold from 'Symphonie Fantastique'",
-          "composer": "H. Berlioz",
-          "instrumentation": "2.2.2.4/4.4.3.2,timp,perc,str"
+          "composer": "H. Berlioz"
         },
         {
           "piece": "Elegy for Strings and Harp",
-          "composer": "L. Holdridge",
-          "instrumentation": "0.0.0.0/0.0.0.0,hp,pf,str"
+          "composer": "L. Holdridge"
         },
         {
           "piece": "Goodnight, Moon",
-          "composer": "E. Whitacre",
-          "instrumentation": "0.0.0.0/0.0.0.0,hp,pf,str"
+          "composer": "E. Whitacre"
         },
         {
           "piece": "The Nightmare Before Christmas",
-          "composer": "D. Elfman",
-          "instrumentation": "2+1.2+1.2+1.2+1/6.2.4.1,timp,perc,hp,pf,str"
+          "composer": "D. Elfman"
         },
         {
           "piece": "Berceuse and Finale from Firebird Suite",
-          "composer": "I. Stravinsky",
-          "instrumentation": "2+1.2.2.2/4.2.3.1,timp,perc,hp,pf,str"
+          "composer": "I. Stravinsky"
         },
         {
           "piece": "Sleigh Ride",
-          "composer": "L. Anderson",
-          "instrumentation": "2.2.2.2/4.3.3.1, 2AS,TS,perc,str"
+          "composer": "L. Anderson"
         },
         {
           "piece": "Carol of the Bells",
-          "composer": "A. Stanley",
-          "instrumentation": "2+1.2.2+1.2+1/4.3.3.1,timp,perc,str"
+          "composer": "A. Stanley"
         },
         {
           "piece": "Christmas Blast",
-          "composer": "A. DiLorenzo",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1,timp,perc,hp,str"
+          "composer": "A. DiLorenzo"
         },
         {
           "piece": "Jingle Bells Forever",
-          "composer": "Pierpont/Sousa/Smith",
-          "instrumentation": "2+1.2.2+1.2/3.3.3.1,timp,perc,tr"
+          "composer": "Pierpont/Sousa/Smith"
         }
       ]
     }

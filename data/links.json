@@ -20,11 +20,15 @@
     ],
     "key": [
       {
-        "url": "https://www.manassassymphony.org/pr/flyer20241214.pdf",
+        "url": "https://members.manassassymphony.org/files/voucher-20241214.pdf",
+        "linkText": "December 2024 Voucher (pdf)"
+      },
+      {
+        "url": "https://www.manassassymphony.org/pr/flyer-20241214.pdf",
         "linkText": "December 2024 Flyer (pdf)"
       },
       {
-        "url": "https://www.manassassymphony.org/pr/flyer20241214.png",
+        "url": "https://www.manassassymphony.org/pr/flyer-20241214.png",
         "linkText": "December 2024 Flyer (png)"
       },
       {
