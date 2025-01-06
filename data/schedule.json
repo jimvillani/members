@@ -1,29 +1,17 @@
 {
   "schedule": [
     {
-      "date": "December 04, 2024",
+      "date": "January 08, 2025",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "JFF Rehearsal Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Holdridge"
+          "piece": "Mendelssohn"
         },
         {
-          "time": "7:40",
-          "piece": "Whitacre"
-        },
-        {
-          "time": "7:55",
-          "piece": "Anderson - Lullaby"
-        },
-        {
-          "time": "8:10",
-          "piece": "Fauré"
-        },
-        {
-          "time": "8:20",
-          "piece": "Sleigh Ride"
+          "time": "8:00",
+          "piece": "Ives"
         },
         {
           "time": "8:25",
@@ -31,85 +19,186 @@
         },
         {
           "time": "8:35",
-          "piece": "Elfman"
-        },
-        {
-          "time": "8:50",
-          "piece": "Berlioz"
-        },
-        {
-          "time": "9:05",
-          "piece": "Stravinsky"
-        },
-        {
-          "time": "9:20",
-          "piece": "Christmas Blast/Carol of the Bells"
+          "piece": "Respighi"
         }
       ]
     },
     {
-      "date": "December 11, 2024",
-      "time": "7:30 - 9:45PM Tech Rehearsal",
-      "location": "Merchant Hall Stage",
+      "date": "January 15, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Concert order"
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
         }
       ]
     },
     {
-      "date": "December 13, 2024",
-      "time": "NO REHEARSAL"
+      "date": "January 22, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
     },
     {
-      "date": "December 14, 2024",
-      "time": "3:30 PM Concert",
+      "date": "January 29, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 05, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 12, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 19, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 26, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "February 28, 2025",
+      "time": "7:30 - 10:00 PM",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "March 1, 2025",
+      "time": "7:30 PM Concert",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "piece": "Pavane",
-          "composer": "G. Fauré"
+          "composer": "Paul Dukas",
+          "piece": "Fanfare from La Péri",
+          "instrumentation": "0.0.0.0/4.3.3.1"
         },
         {
-          "piece": "A Trumpeter's Lullaby",
-          "composer": "L. Anderson"
+          "composer": "Charles Ives, arr. William Schuman",
+          "piece": "Variations on 'America'",
+          "instrumentation": "3d2.2.2.2/4.3.3.1 timp perc strings"
         },
         {
-          "piece": "March to the Scaffold from 'Symphonie Fantastique'",
-          "composer": "H. Berlioz"
+          "composer": "Felix Mendelssohn",
+          "piece": "Violin Concerto in E minor, Op. 64",
+          "instrumentation": "2.2.2.2/4.2.3.1 timp perc strings"
         },
         {
-          "piece": "Elegy for Strings and Harp",
-          "composer": "L. Holdridge"
-        },
-        {
-          "piece": "Goodnight, Moon",
-          "composer": "E. Whitacre"
-        },
-        {
-          "piece": "The Nightmare Before Christmas",
-          "composer": "D. Elfman"
-        },
-        {
-          "piece": "Berceuse and Finale from Firebird Suite",
-          "composer": "I. Stravinsky"
-        },
-        {
-          "piece": "Sleigh Ride",
-          "composer": "L. Anderson"
-        },
-        {
-          "piece": "Carol of the Bells",
-          "composer": "A. Stanley"
-        },
-        {
-          "piece": "Christmas Blast",
-          "composer": "A. DiLorenzo"
-        },
-        {
-          "piece": "Jingle Bells Forever",
-          "composer": "Pierpont/Sousa/Smith"
+          "composer": "Ottorino Respighi",
+          "piece": "Pines of Rome",
+          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1 timp hp perc po cel org buccine strings"
         }
       ]
     }
