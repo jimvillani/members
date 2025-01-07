@@ -2,6 +2,12 @@
   "schedule": [
     {
       "date": "January 08, 2025",
+      "time": "Canceled - Weather",
+      "location": "JFF Rehearsal Hall",
+      "scheduleItem": []
+    },
+    {
+      "date": "January 15, 2025",
       "time": "7:30 - 9:30 PM",
       "location": "JFF Rehearsal Hall",
       "scheduleItem": [
@@ -20,25 +26,6 @@
         {
           "time": "8:35",
           "piece": "Respighi"
-        }
-      ]
-    },
-    {
-      "date": "January 15, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
         }
       ]
     },
