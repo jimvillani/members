@@ -36,7 +36,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Respighi"
         },
         {
           "time": "8:25",
@@ -44,26 +44,26 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Ives"
+        },
+        {
+          "time": "9:00",
+          "piece": "Mendelssohn"
         }
       ]
     },
     {
       "date": "January 29, 2025",
       "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
+      "location": "Classroom Wing",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "String Sectionals"
         },
         {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "7:30 - 8:30",
+          "piece": "Dukas (brass)"
         }
       ]
     },
