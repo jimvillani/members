@@ -120,18 +120,18 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Mendelssohn w/soloist"
         }
       ]
     },
     {
       "date": "February 26, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
+      "time": "7:30 - 9:45 PM",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Mendelssohn w/soloist"
         },
         {
           "time": "8:25",
@@ -145,20 +145,12 @@
     },
     {
       "date": "February 28, 2025",
-      "time": "7:30 - 10:00 PM",
-      "location": "JFF Rehearsal Hall",
+      "time": "7:30 - 10:00 PM Dress Rehearsal",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
