@@ -101,7 +101,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Mendelssohn"
         },
         {
           "time": "8:25",
@@ -109,7 +109,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Respighi II"
+        },
+        {
+          "time": "9:00",
+          "piece": "Respighi I"
         }
       ]
     },
