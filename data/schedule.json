@@ -120,11 +120,15 @@
     {
       "date": "February 19, 2025",
       "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Ives"
+        },
+        {
+          "time": "7:50",
+          "piece": "Respighi (all)"
         },
         {
           "time": "8:25",
