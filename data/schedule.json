@@ -1,151 +1,15 @@
 {
   "schedule": [
     {
-      "date": "January 08, 2025",
-      "time": "Canceled - Weather",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": []
-    },
-    {
-      "date": "January 15, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Mendelssohn"
-        },
-        {
-          "time": "8:00",
-          "piece": "Ives"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Respighi"
-        }
-      ]
-    },
-    {
-      "date": "January 22, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Respighi"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Ives"
-        },
-        {
-          "time": "9:00",
-          "piece": "Mendelssohn"
-        }
-      ]
-    },
-    {
-      "date": "January 29, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "Classroom Wing",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "String Sectionals"
-        },
-        {
-          "time": "7:30 - 8:30",
-          "piece": "Dukas (brass)"
-        }
-      ]
-    },
-    {
-      "date": "February 05, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Ives"
-        },
-        {
-          "time": "8:00",
-          "piece": "Respighi I"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Respighi III"
-        },
-        {
-          "time": "9:00",
-          "piece": "Respighi IV"
-        }
-      ]
-    },
-    {
-      "date": "February 12, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFF Rehearsal Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Mendelssohn"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Respighi II"
-        },
-        {
-          "time": "9:00",
-          "piece": "Respighi I"
-        }
-      ]
-    },
-    {
-      "date": "February 19, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Ives"
-        },
-        {
-          "time": "7:50",
-          "piece": "Respighi (all)"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Mendelssohn w/soloist"
-        }
-      ]
-    },
-    {
       "date": "February 26, 2025",
       "time": "7:30 - 9:45 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
+          "time": "7:15",
+          "piece": "Dukas (brass)"
+        },
+        {
           "time": "7:30",
           "piece": "Mendelssohn w/soloist"
         },
@@ -155,7 +19,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Respighi (w/ Buccine brass)"
+        },
+        {
+          "time": "9:30",
+          "piece": "Ives"
         }
       ]
     },
@@ -165,8 +33,27 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
+          "piece": "Times Approximate"
+        },
+        {
           "time": "7:30",
-          "piece": "Concert Order"
+          "piece": "Dukas"
+        },
+        {
+          "time": "7:40",
+          "piece": "Ives"
+        },
+        {
+          "time": "8:00",
+          "piece": "Mendelssohn"
+        },
+        {
+          "time": "8:30",
+          "piece": "break"
+        },
+        {
+          "time": "8:45",
+          "piece": "Respighi"
         }
       ]
     },
@@ -177,23 +64,107 @@
       "scheduleItem": [
         {
           "composer": "Paul Dukas",
-          "piece": "Fanfare from La Péri",
-          "instrumentation": "0.0.0.0/4.3.3.1"
+          "piece": "Fanfare from La Péri"
         },
         {
           "composer": "Charles Ives, arr. William Schuman",
-          "piece": "Variations on 'America'",
-          "instrumentation": "3d2.2.2.2/4.3.3.1 timp perc strings"
+          "piece": "Variations on 'America'"
         },
         {
           "composer": "Felix Mendelssohn",
-          "piece": "Violin Concerto in E minor, Op. 64",
-          "instrumentation": "2.2.2.2/4.2.3.1 timp perc strings"
+          "piece": "Violin Concerto in E minor, Op. 64"
+        },
+        {
+          "piece": "Intermission"
         },
         {
           "composer": "Ottorino Respighi",
-          "piece": "Pines of Rome",
-          "instrumentation": "2+1.2+1.2+1.2+1/4.3.3.1 timp hp perc po cel org buccine strings"
+          "piece": "Pines of Rome"
+        }
+      ]
+    },
+    {
+      "date": "March 5, 2025",
+      "time": "No Rehearsal"
+    },
+    {
+      "date": "March 12, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "March 19, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "piece": "String sectionals"
+        }
+      ]
+    },
+    {
+      "date": "March 26, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "April 2, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "April 9, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "April 16, 2025",
+      "time": "No Rehearsal - Spring Break"
+    },
+    {
+      "date": "April 23, 2025",
+      "time": "7:30 - 9:30 PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": []
+    },
+    {
+      "date": "April 30, 2025",
+      "time": "7:30 - 9:45 PM",
+      "location": "Merchant Hall",
+      "scheduleItem": []
+    },
+    {
+      "date": "May 2, 2025",
+      "time": "7:30 - 10:00 PM Dress Rehearsal",
+      "location": "Merchant Hall",
+      "scheduleItem": []
+    },
+    {
+      "date": "May 3, 2025",
+      "time": "7:30 Concert",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "composer": "Samuel Barber",
+          "piece": "Adagio for Strings",
+          "intrumentation": "strings"
+        },
+        {
+          "composer": "Johannes Brahms",
+          "piece": "Piano Concerto No. 1 in D minor, Op. 15",
+          "intrumentation": "2.2.2.2/4.2.0.0 timp, str"
+        },
+        {
+          "piece": "Intermission"
+        },
+        {
+          "composer": "Georges Bizet",
+          "piece": "Carmen Suite No. 1 and 2",
+          "instrumentation": "2D2.2D1.2.2/4.2.3.1, timp, perc, hp, str"
         }
       ]
     }
