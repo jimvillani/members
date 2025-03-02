@@ -151,12 +151,12 @@
         {
           "composer": "Samuel Barber",
           "piece": "Adagio for Strings",
-          "intrumentation": "strings"
+          "instrumentation": "strings"
         },
         {
           "composer": "Johannes Brahms",
           "piece": "Piano Concerto No. 1 in D minor, Op. 15",
-          "intrumentation": "2.2.2.2/4.2.0.0 timp, str"
+          "instrumentation": "2.2.2.2/4.2.0.0 timp, str"
         },
         {
           "piece": "Intermission"
