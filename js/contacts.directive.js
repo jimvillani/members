@@ -6,4 +6,4 @@ app.directive('contacts', function () {
         scope: {},
         templateUrl: 'template/contacts.html'
     }
-})
+});

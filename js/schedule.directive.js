@@ -6,4 +6,4 @@ app.directive('schedule', function () {
         scope: {},
         templateUrl: 'template/schedule.html'
     }
-})
+});

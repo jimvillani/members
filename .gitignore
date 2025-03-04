@@ -1,0 +1,5 @@
+.idea/*
+.DS_Store
+/parts/
+/files/
+*.mp3

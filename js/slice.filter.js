@@ -1,3 +1,4 @@
+// https://jsfiddle.net/BinaryMuse/vQUsS/
 var app = angular.module('app');
 app.filter('slice', function() {
     return function(arr, start, end) {

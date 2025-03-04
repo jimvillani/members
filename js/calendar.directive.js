@@ -7,3 +7,12 @@ app.directive('calendar', function () {
         templateUrl: "template/calendar.html"
     }
 });
+
+app.directive('boardcal', function () {
+    return {
+        restrict: 'E',
+        transclude: true,
+        scope: {},
+        templateUrl: "template/boardcal.html"
+    }
+});

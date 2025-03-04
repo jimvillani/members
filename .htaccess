@@ -1,0 +1,20 @@
+# Begin password protection #
+#AuthName "Password Protected"
+#Require valid-user
+#AuthUserFile /home/manassa3/members.manassassymphony.org/.htpasswd
+#AuthType basic
+# End password protection #
+
+ErrorDocument 401 https://www.manassassymphony.org/
+ErrorDocument 403 https://members.manassassymphony.org/
+
+<FilesMatch "\.json$">
+  ExpiresActive On
+  ExpiresDefault A1
+  Header append Cache-Control must-revalidate
+</FilesMatch>
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+

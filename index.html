@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <head>
     <title>MSO Members Site</title>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+
 </head>
-<body>
+<body style="background-color: #FFFFFF;">
 <div id="container" ng-app="app">
     <div id="header" class="noprint"></div>
     <tabset>
-        <tab heading="Home">
+        <tab heading="Schedule">
             <schedule></schedule>
         </tab>
-        <tab heading="Calendar">
-            <calendar></calendar>
+        <tab heading="Photoshoot">
+            <misc></misc>
+        </tab>
+        <tab heading="Absences">
+            <absences></absences>
         </tab>
         <tab heading="Parts">
             <parts></parts>
@@ -18,38 +23,57 @@
         <tab heading="Links">
             <links></links>
         </tab>
-        <tab heading="Contact Information">
+        <tab heading="Contacts">
             <contacts></contacts>
         </tab>
+        <tab heading="Library">
+            <library></library>
+        </tab>
+        <tab heading="Orchestra Calendar">
+            <calendar></calendar>
+        </tab>
+        <tab heading="Board Calendar">
+            <boardcal></boardcal>
+        </tab>
     </tabset>
+
+    <seasons></seasons>
+
 </div>
 
-<meta name="Copyright" content="(c) 2005-2016 Manassas Symphony Orchestra. All rights reserved." />
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-<link rel="shortcut icon" href="http://www.manassassymphony.org/favicon.ico"/>
+<meta name="Copyright" content="(c) 2005-2021 Manassas Symphony Orchestra. All rights reserved."/>
+<link rel="shortcut icon" href="favicon.ico"/>
 
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/print.css" type="text/css" media="print"/>
-<link rel="stylesheet" href="css/screen.css" type="text/css" media="screen"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Lato:normal,bold,black,italics" rel="stylesheet">
+<link rel="stylesheet" href="css/style.min.css">
+<link rel="stylesheet" href="css/print.min.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="css/screen.min.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-rc.0/angular.min.js"></script>
-<script src="js/app.js"></script>
-<script src="js/calendar.directive.js"></script>
-<script src="js/contacts.controller.js"></script>
-<script src="js/contacts.directive.js"></script>
-<script src="js/html.filter.js"></script>
-<script src="js/links.controller.js"></script>
-<script src="js/links.directive.js"></script>
-<script src="js/parts.controller.js"></script>
-<script src="js/parts.directive.js"></script>
-<script src="js/schedule.controller.js"></script>
-<script src="js/schedule.directive.js"></script>
-<script src="js/slice.filter.js"></script>
-<script src="js/tab.directive.js"></script>
-<script src="js/tabset.directive.js"></script>
-
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+<script src="js/app.min.js"></script>
+<script src="js/absences.directive.min.js"></script>
+<script src="js/calendar.directive.min.js"></script>
+<script src="js/contacts.controller.min.js"></script>
+<script src="js/contacts.directive.min.js"></script>
+<script src="js/email.controller.min.js"></script>
+<script src="js/email.directive.min.js"></script>
+<script src="js/html.filter.min.js"></script>
+<script src="js/library.directive.js"></script>
+<script src="js/links.controller.min.js"></script>
+<script src="js/links.directive.min.js"></script>
+<script src="js/misc.controller.min.js"></script>
+<script src="js/misc.directive.min.js"></script>
+<script src="js/parts.controller.min.js"></script>
+<script src="js/parts.directive.min.js"></script>
+<script src="js/roster.controller.min.js"></script>
+<script src="js/roster.directive.min.js"></script>
+<script src="js/schedule.controller.min.js"></script>
+<script src="js/schedule.directive.min.js"></script>
+<script src="js/seasons.controller.min.js"></script>
+<script src="js/seasons.directive.min.js"></script>
+<script src="js/survey.directive.min.js"></script>
+<script src="js/slice.filter.min.js"></script>
+<script src="js/tab.directive.min.js"></script>
+<script src="js/tabset.directive.min.js"></script>
 </body>
-</html>

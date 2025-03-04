@@ -9,8 +9,8 @@ app.directive('tab', function () {
             heading: '@'    // @ means this property should be a string
         },
         link: function (scope, elem, attr, tabsetCtrl) {
-            scope.active = false
+            scope.active = false;
             tabsetCtrl.addTab(scope)
         }
     }
-})
+});

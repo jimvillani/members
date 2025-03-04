@@ -1,0 +1,56 @@
+<div class="banner">Orchestra Personnel</div>
+<div class="normal" style="" ng-controller="rosterCtrl">
+    <div class="c1-4">
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:0:2"
+             ng-show="instr.section.length > 0 && instr.show != false">
+            <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
+                {{p.name.first}} {{p.name.last}}*
+            </div>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section | orderBy: 'name.last'"
+                 ng-show="p.active == true && p.principal != true">
+                {{p.name.first}} {{p.name.last}}
+            </div>
+        </div>
+    </div>
+    <div class="c2-4">
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:2:5"
+             ng-show="instr.section.length > 0 && instr.show != false">
+            <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
+                {{p.name.first}} {{p.name.last}}*
+            </div>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section | orderBy: 'name.last'"
+                 ng-show="p.active == true && p.principal != true">
+                {{p.name.first}} {{p.name.last}}
+            </div>
+        </div>
+    </div>
+    <div class="c3-4">
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:5:15"
+             ng-show="instr.section.length > 0 && instr.show != false">
+            <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
+                {{p.name.first}} {{p.name.last}}*
+            </div>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section | orderBy: 'name.last'"
+                 ng-show="p.active == true && p.principal != true">
+                {{p.name.first}} {{p.name.last}}
+            </div>
+        </div>
+    </div>
+    <div class="c4-4">
+        <div style="padding-bottom: 12px;" ng-repeat="instr in rosterData | slice:15:rosterData.length"
+             ng-show="instr.section.length > 0 && instr.show != false">
+            <span style="font-weight: bold; text-decoration: underline;">{{ instr.instrument }}</span>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section" ng-show="p.principal == true">
+                {{p.name.first}} {{p.name.last}}*
+            </div>
+            <div style="font-weight: normal;" ng-repeat="p in instr.section | orderBy: 'name.last'"
+                 ng-show="p.active == true && p.principal != true">
+                {{p.name.first}} {{p.name.last}}
+            </div>
+        </div>
+        <div class="italics">*Principal</div>
+    </div>
+</div>
