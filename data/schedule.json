@@ -1,93 +1,6 @@
 {
   "schedule": [
     {
-      "date": "February 26, 2025",
-      "time": "7:30 - 9:45 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:15",
-          "piece": "Dukas (brass)"
-        },
-        {
-          "time": "7:30",
-          "piece": "Mendelssohn w/soloist"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Respighi (w/ Buccine brass)"
-        },
-        {
-          "time": "9:30",
-          "piece": "Ives"
-        }
-      ]
-    },
-    {
-      "date": "February 28, 2025",
-      "time": "7:30 - 10:00 PM Dress Rehearsal",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "Times Approximate"
-        },
-        {
-          "time": "7:30",
-          "piece": "Dukas"
-        },
-        {
-          "time": "7:40",
-          "piece": "Ives"
-        },
-        {
-          "time": "8:00",
-          "piece": "Mendelssohn"
-        },
-        {
-          "time": "8:30",
-          "piece": "break"
-        },
-        {
-          "time": "8:45",
-          "piece": "Respighi"
-        }
-      ]
-    },
-    {
-      "date": "March 1, 2025",
-      "time": "7:30 PM Concert",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "composer": "Paul Dukas",
-          "piece": "Fanfare from La Péri"
-        },
-        {
-          "composer": "Charles Ives, arr. William Schuman",
-          "piece": "Variations on 'America'"
-        },
-        {
-          "composer": "Felix Mendelssohn",
-          "piece": "Violin Concerto in E minor, Op. 64"
-        },
-        {
-          "piece": "Intermission"
-        },
-        {
-          "composer": "Ottorino Respighi",
-          "piece": "Pines of Rome"
-        }
-      ]
-    },
-    {
-      "date": "March 5, 2025",
-      "time": "No Rehearsal"
-    },
-    {
       "date": "March 12, 2025",
       "time": "7:30 - 9:30 PM",
       "location": "Hylton JFFRH",
@@ -107,7 +20,28 @@
       "date": "March 26, 2025",
       "time": "7:30 - 9:30 PM",
       "location": "Hylton JFFRH",
-      "scheduleItem": []
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Barber"
+        },
+        {
+          "time": "8:00",
+          "piece": "Brahms III"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Bizet 1 (1a, 3, 5)"
+        },
+        {
+          "time": "9:00",
+          "piece": "Bizet 2 (6,8,9,11)"
+        }
+      ]
     },
     {
       "date": "April 2, 2025",
@@ -118,7 +52,7 @@
     {
       "date": "April 9, 2025",
       "time": "7:30 - 9:30 PM",
-      "location": "Hylton JFFRH",
+      "location": "Merchant Hall",
       "scheduleItem": []
     },
     {
