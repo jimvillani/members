@@ -47,7 +47,32 @@
       "date": "April 2, 2025",
       "time": "7:30 - 9:30 PM",
       "location": "Hylton JFFRH",
-      "scheduleItem": []
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Barber"
+        },
+        {
+          "time": "7:50",
+          "piece": "Brahms II"
+        },
+        {
+          "time": "8:20",
+          "piece": "Brahms III [E]"
+        },
+        {
+          "time": "8:30",
+          "piece": "break"
+        },
+        {
+          "time": "8:40",
+          "piece": "Bizet 1 (2, 4)"
+        },
+        {
+          "time": "9:00",
+          "piece": "Bizet 2 (7, 10, 8)"
+        }
+      ]
     },
     {
       "date": "April 9, 2025",
