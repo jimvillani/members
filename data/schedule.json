@@ -78,7 +78,28 @@
       "date": "April 9, 2025",
       "time": "7:30 - 9:30 PM",
       "location": "Merchant Hall",
-      "scheduleItem": []
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "Bizet (1a, 8, 11)"
+        },
+        {
+          "time": "8:00",
+          "piece": "Brahms I"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Brahms II"
+        },
+        {
+          "time": "9:00",
+          "piece": "Brahms III"
+        }
+      ]
     },
     {
       "date": "April 16, 2025",
