@@ -195,6 +195,12 @@ div.schedule > div.instr {
     font-style: italic;
 }
 
+div.schedule > div.indent {
+    padding-left: 2em;
+    text-indent: 0;
+    font-size: 1em;
+}
+
 div.date {
     font-weight: bold;
     margin-bottom: 0;
