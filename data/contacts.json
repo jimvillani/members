@@ -19,12 +19,12 @@
     ],
     "officers": [
       {
-        "name": "Diane Bennett",
-        "email": "diane.bennett@manassassymphony.org",
+        "name": "Beth Sharpe",
+        "email": "beth.sharpe@manassassymphony.org",
         "title": "President"
       },
       {
-        "name": "Jess Green",
+        "name": "Jess Leggett",
         "email": "jessica.green@manassassymphony.org",
         "title": "Vice President"
       },
@@ -41,6 +41,14 @@
     ],
     "directors": [
       {
+        "name": "Diane Bennett",
+        "email": "diane.bennett@manassassymphony.org"
+      },
+      {
+        "name": "Michele Boyd",
+        "email": "michele.boyd@manassassymphony.org"
+      },
+      {
         "name": "Andrea Brothers",
         "email": "andrea.brothers@manassassymphony.org"
       },
@@ -55,10 +63,6 @@
       {
         "name": "Shirley Rice",
         "email": "shirley.rice@manassassymphony.org"
-      },
-      {
-        "name": "Beth Sharpe",
-        "email": "beth.sharpe@manassassymphony.org"
       },
       {
         "name": "Steven Thompson",
