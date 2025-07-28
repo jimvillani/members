@@ -73,7 +73,7 @@
     },
     {
       "date": "August 31, 2025",
-      "time": "3:00 Concert",
+      "time": "3:00 • Concert",
       "location": "Harris Pavilion",
       "scheduleItem": [
         {
@@ -101,6 +101,13 @@
           "piece": "Star Wars: The Force Awakens Suite",
           "instrumentation": "3d1.3d1.2+1.2+1/4.4.3.1 timp perc po/cel hp strings"
         }
+      ]
+    },
+    {
+      "date": "September 14, 2025",
+      "time": "4:30 PM • Arts Alive",
+      "location": "Merchant Hall",
+      "scheduleItem": [
       ]
     }
   ]
