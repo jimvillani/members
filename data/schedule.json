@@ -19,14 +19,18 @@
         },
         {
           "time": "8:35",
-          "piece": "Somewhere in Time"
+          "piece": "Encanto"
         },
         {
           "time": "8:50",
+          "piece": "Somewhere in Time"
+        },
+        {
+          "time": "9:00",
           "piece": "The Lord of the Rings"
         },
         {
-          "time": "9:05",
+          "time": "9:15",
           "piece": "Harry Potter"
         }
       ]
@@ -97,9 +101,52 @@
           "instrumentation": "2.2.2+1.2/4.3.3.1,timp,3 perc,synth,str"
         },
         {
+          "composer": "Lin-Manuel Miranda/arr. Sean O'Loughlin",
+          "piece": "Selections from Encanto",
+          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,2 perc,mallets,po,strings"
+        },
+        {
           "composer": "John Williams",
           "piece": "Star Wars: The Force Awakens Suite",
           "instrumentation": "3d1.3d1.2+1.2+1/4.4.3.1 timp perc po/cel hp strings"
+        }
+      ]
+    },
+    {
+      "date": "September 3, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "September 10, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Music for Arts Alive"
         }
       ]
     },
@@ -108,6 +155,150 @@
       "time": "4:30 PM • Arts Alive",
       "location": "Merchant Hall",
       "scheduleItem": [
+      ]
+    },
+    {
+      "date": "September 17, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "String Sectionals"
+        }
+      ]
+    },
+    {
+      "date": "September 24, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 1, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 8, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 15, 2025",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 22, 2025",
+      "time": "7:30 - 9:45PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 24, 2025",
+      "time": "7:30 - 10:00PM • Dress Rehearsal",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "October 25, 2025",
+      "time": "7:30 PM Concert",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "composer": "Alexander Glazunov",
+          "piece": "'Autumn' from The Seasons, Op. 67b"
+        },
+        {
+          "composer": "Sergei Rachmaninoff",
+          "piece": "Piano Concerto No. 2 in C Minor, Op. 15"
+        },
+        {
+          "composer": "Amy Beach",
+          "piece": "Symphony in E minor, \"Gaelic\", Op. 82"
+        }
       ]
     }
   ]
