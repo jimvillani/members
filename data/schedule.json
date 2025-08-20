@@ -76,7 +76,32 @@
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
-          "piece": "Summer Concert Rehearsal"
+          "time": "7:30",
+          "piece": "Star Wars (focus on I and II)"
+        },
+        {
+          "time": "7:55",
+          "piece": "Somewhere in Time"
+        },
+        {
+          "time": "8:10",
+          "piece": "Harry Potter"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "The Lord of the Rings"
+        },
+        {
+          "time": "8:55",
+          "piece": "Wicked"
+        },
+        {
+          "time": "9:15",
+          "piece": "Encanto"
         }
       ]
     },
