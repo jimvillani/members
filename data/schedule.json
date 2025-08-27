@@ -1,117 +1,37 @@
 {
   "schedule": [
     {
-      "date": "August 6, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Star Wars"
-        },
-        {
-          "time": "8:10",
-          "piece": "Wicked"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Encanto"
-        },
-        {
-          "time": "8:50",
-          "piece": "Somewhere in Time"
-        },
-        {
-          "time": "9:00",
-          "piece": "The Lord of the Rings"
-        },
-        {
-          "time": "9:15",
-          "piece": "Harry Potter"
-        }
-      ]
-    },
-    {
-      "date": "August 13, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Star Wars (focus on V and III)"
-        },
-        {
-          "time": "7:50",
-          "piece": "Harry Potter"
-        },
-        {
-          "time": "8:10",
-          "piece": "Wicked"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "The Lord of the Rings"
-        },
-        {
-          "time": "8:55",
-          "piece": "Encanto"
-        },
-        {
-          "time": "9:15",
-          "piece": "Somewhere in Time"
-        }
-      ]
-    },
-    {
-      "date": "August 20, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Star Wars (focus on I and II)"
-        },
-        {
-          "time": "7:55",
-          "piece": "Somewhere in Time"
-        },
-        {
-          "time": "8:10",
-          "piece": "Harry Potter"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "The Lord of the Rings"
-        },
-        {
-          "time": "8:55",
-          "piece": "Wicked"
-        },
-        {
-          "time": "9:15",
-          "piece": "Encanto"
-        }
-      ]
-    },
-    {
       "date": "August 27, 2025",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
-          "piece": "Summer Concert Rehearsal"
+          "time": "7:30",
+          "piece": "Star Wars (all)"
+        },
+        {
+          "time": "8:10",
+          "piece": "The Lord of the Rings"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Wicked"
+        },
+        {
+          "time": "8:50",
+          "piece": "Encanto"
+        },
+        {
+          "time": "9:05",
+          "piece": "Somewhere in Time"
+        },
+        {
+          "time": "9:15",
+          "piece": "Harry Potter"
         }
       ]
     },
@@ -121,7 +41,7 @@
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
-          "piece": "Summer Concert Dress Rehearsal"
+          "piece": "Run through program in order"
         }
       ]
     },
@@ -205,6 +125,21 @@
       "time": "4:30 PM • Arts Alive",
       "location": "Merchant Hall",
       "scheduleItem": [
+        {
+          "composer": "Stephen Schwartz/arr. Ted Rickets",
+          "piece": "Highlights from Wicked",
+          "instrumentation": "2.1.2+1.1/4.3.3.1 timp perc pf str"
+        },
+        {
+          "composer": "Lin-Manuel Miranda/arr. Sean O'Loughlin",
+          "piece": "Selections from Encanto",
+          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,2 perc,mallets,po,strings"
+        },
+        {
+          "composer": "John Williams",
+          "piece": "Star Wars: The Force Awakens Suite",
+          "instrumentation": "3d1.3d1.2+1.2+1/4.4.3.1 timp perc po/cel hp strings"
+        }
       ]
     },
     {
