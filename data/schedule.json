@@ -1,95 +1,13 @@
 {
   "schedule": [
     {
-      "date": "August 27, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Star Wars (all)"
-        },
-        {
-          "time": "8:10",
-          "piece": "The Lord of the Rings"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Wicked"
-        },
-        {
-          "time": "8:50",
-          "piece": "Encanto"
-        },
-        {
-          "time": "9:05",
-          "piece": "Somewhere in Time"
-        },
-        {
-          "time": "9:15",
-          "piece": "Harry Potter"
-        }
-      ]
-    },
-    {
-      "date": "August 30, 2025",
-      "time": "10:00AM - 12:00PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "piece": "Run through program in order"
-        }
-      ]
-    },
-    {
-      "date": "August 31, 2025",
-      "time": "3:00 • Concert",
-      "location": "Harris Pavilion",
-      "scheduleItem": [
-        {
-          "composer": "arr. Jerry Brubaker",
-          "piece": "The Complete Harry Potter",
-          "instrumentation": "2+1.1.2+1.2/4.3.3.1 timp perc hp str"
-        },
-        {
-          "composer": "Stephen Schwartz/arr. Ted Rickets",
-          "piece": "Highlights from Wicked",
-          "instrumentation": "2.1.2+1.1/4.3.3.1 timp perc pf str"
-        },
-        {
-          "composer": "Howard Shore/arr. Jerry Brubaker",
-          "piece": "The Lord of the Rings: The Two Towers",
-          "instrumentation": "2.2.2.2/4.2.3.1 timp perc strings"
-        },
-        {
-          "composer": "John Barry/arr. C. Custer",
-          "piece": "Somewhere in Time",
-          "instrumentation": "2.2.2+1.2/4.3.3.1,timp,3 perc,synth,str"
-        },
-        {
-          "composer": "Lin-Manuel Miranda/arr. Sean O'Loughlin",
-          "piece": "Selections from Encanto",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,2 perc,mallets,po,strings"
-        },
-        {
-          "composer": "John Williams",
-          "piece": "Star Wars: The Force Awakens Suite",
-          "instrumentation": "3d1.3d1.2+1.2+1/4.4.3.1 timp perc po/cel hp strings"
-        }
-      ]
-    },
-    {
       "date": "September 3, 2025",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beach"
         },
         {
           "time": "8:25",
@@ -97,7 +15,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beach, cont'd"
+        },
+        {
+          "time": "9:05",
+          "piece": "Glazunov"
         }
       ]
     },
@@ -108,7 +30,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Rachmaninoff"
         },
         {
           "time": "8:25",
@@ -127,18 +49,15 @@
       "scheduleItem": [
         {
           "composer": "Stephen Schwartz/arr. Ted Rickets",
-          "piece": "Highlights from Wicked",
-          "instrumentation": "2.1.2+1.1/4.3.3.1 timp perc pf str"
+          "piece": "Highlights from Wicked"
         },
         {
           "composer": "Lin-Manuel Miranda/arr. Sean O'Loughlin",
-          "piece": "Selections from Encanto",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,2 perc,mallets,po,strings"
+          "piece": "Selections from Encanto"
         },
         {
           "composer": "John Williams",
-          "piece": "Star Wars: The Force Awakens Suite",
-          "instrumentation": "3d1.3d1.2+1.2+1/4.4.3.1 timp perc po/cel hp strings"
+          "piece": "Star Wars: The Force Awakens Suite"
         }
       ]
     },
