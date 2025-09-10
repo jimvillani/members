@@ -48,16 +48,7 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "composer": "Stephen Schwartz/arr. Ted Rickets",
-          "piece": "Highlights from Wicked"
-        },
-        {
-          "composer": "Lin-Manuel Miranda/arr. Sean O'Loughlin",
-          "piece": "Selections from Encanto"
-        },
-        {
-          "composer": "John Williams",
-          "piece": "Star Wars: The Force Awakens Suite"
+          "piece": "Brass and percussion ensemble selections"
         }
       ]
     },
