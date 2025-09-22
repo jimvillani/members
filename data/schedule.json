@@ -1,76 +1,17 @@
 {
   "schedule": [
     {
-      "date": "September 3, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Beach"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Beach, cont'd"
-        },
-        {
-          "time": "9:05",
-          "piece": "Glazunov"
-        }
-      ]
-    },
-    {
-      "date": "September 10, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Rachmaninoff"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Music for Arts Alive"
-        }
-      ]
-    },
-    {
-      "date": "September 14, 2025",
-      "time": "4:30 PM • Arts Alive",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "piece": "Brass and percussion ensemble selections"
-        }
-      ]
-    },
-    {
-      "date": "September 17, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "String Sectionals"
-        }
-      ]
-    },
-    {
       "date": "September 24, 2025",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beach I"
+        },
+        {
+          "time": "8:00",
+          "piece": "Beach IV"
         },
         {
           "time": "8:25",
@@ -78,7 +19,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beach II, m. 19"
+        },
+        {
+          "time": "8:55",
+          "piece": "Glazunov (Variation)"
+        },
+        {
+          "time": "9:15",
+          "piece": "Glazunov ([102])"
         }
       ]
     },
@@ -89,7 +38,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beach I"
+        },
+        {
+          "time": "8:00",
+          "piece": "Beach II (beginning + 10 before [G]) "
         },
         {
           "time": "8:25",
@@ -97,7 +50,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Glazunov (Petit Adagio [95])"
+        },
+        {
+          "time": "9:00",
+          "piece": "Beach III"
         }
       ]
     },
