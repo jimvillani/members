@@ -60,12 +60,20 @@
     },
     {
       "date": "October 8, 2025",
-      "time": "7:30 - 9:30PM",
+      "time": "7:30 - 9:30 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Rachmaninoff (III, m. 188)"
+        },
+        {
+          "time": "7:50",
+          "piece": "Glazunov"
+        },
+        {
+          "time": "8:10",
+          "piece": "Beach II"
         },
         {
           "time": "8:25",
@@ -73,7 +81,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Beach IV"
+        },
+        {
+          "time": "9:05",
+          "piece": "Beach I"
         }
       ]
     },
