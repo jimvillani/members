@@ -1,102 +1,13 @@
 {
   "schedule": [
     {
-      "date": "September 24, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Beach I"
-        },
-        {
-          "time": "8:00",
-          "piece": "Beach IV"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Beach II, m. 19"
-        },
-        {
-          "time": "8:55",
-          "piece": "Glazunov (Variation)"
-        },
-        {
-          "time": "9:15",
-          "piece": "Glazunov ([102])"
-        }
-      ]
-    },
-    {
-      "date": "October 1, 2025",
-      "time": "7:30 - 9:30PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Beach III"
-        },
-        {
-          "time": "8:00",
-          "piece": "Beach II (beginning + 10 before [G]) "
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Glazunov (Petit Adagio [95])"
-        },
-        {
-          "time": "9:00",
-          "piece": "Beach I, m. 167"
-        }
-      ]
-    },
-    {
-      "date": "October 8, 2025",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Rachmaninoff (III, m. 188)"
-        },
-        {
-          "time": "7:50",
-          "piece": "Glazunov"
-        },
-        {
-          "time": "8:10",
-          "piece": "Beach II"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Beach IV"
-        },
-        {
-          "time": "9:05",
-          "piece": "Beach I"
-        }
-      ]
-    },
-    {
       "date": "October 15, 2025",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Beach (all)"
         },
         {
           "time": "8:25",
@@ -104,7 +15,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Glazunov"
+        },
+        {
+          "time": "9:00",
+          "piece": "Rachmaninoff"
         }
       ]
     },
@@ -115,15 +30,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Rachmaninoff w/soloist"
         },
         {
-          "time": "8:25",
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:40",
+          "piece": "Beach"
         }
       ]
     },
@@ -134,15 +49,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert order"
         }
       ]
     },
