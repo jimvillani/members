@@ -26,7 +26,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Holcombe"
+        },
+        {
+          "time": "7:50",
+          "piece": "Christmas Time in New Orleans"
+        },
+        {
+          "time": "8:05",
+          "piece": "Please Come Home for Christmas"
         },
         {
           "time": "8:25",
@@ -34,7 +42,19 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Winter Wonderland (new)"
+        },
+        {
+          "time": "8:50",
+          "piece": "Santa Baby"
+        },
+        {
+          "time": "9:00",
+          "piece": "Silent Night/Jingle Bells"
+        },
+        {
+          "time": "9:15",
+          "piece": "What a Wonderful World"
         }
       ]
     },
