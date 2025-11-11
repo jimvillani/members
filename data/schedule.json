@@ -65,7 +65,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Rhythm Section Sectional (piano, bass, drum kit, guitar)"
         },
         {
           "time": "8:25",
@@ -73,7 +73,19 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Winter Wonderland"
+        },
+        {
+          "time": "8:50",
+          "piece": "Santa Baby"
+        },
+        {
+          "time": "9:00",
+          "piece": "Please Come Home"
+        },
+        {
+          "time": "9:10",
+          "piece": "Silent/Jingle"
         }
       ]
     },
