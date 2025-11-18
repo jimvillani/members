@@ -96,7 +96,19 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "'Twas the Night Before Christmas w/narrator"
+        },
+        {
+          "time": "7:50",
+          "piece": "Please Come Home for Christmas w/backup singers"
+        },
+        {
+          "time": "8:05",
+          "piece": "Santa Baby"
+        },
+        {
+          "time": "8:15",
+          "piece": "What a Wonderful World"
         },
         {
           "time": "8:25",
@@ -104,7 +116,27 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Christmas Time in New Orleans"
+        },
+        {
+          "time": "8:45",
+          "piece": "Silent Night/Jingle Bells"
+        },
+        {
+          "time": "8:55",
+          "piece": "Winter Wonderland"
+        },
+        {
+          "time": "9:10",
+          "piece": "Sleigh Ride"
+        },
+        {
+          "time": "9:15",
+          "piece": "Christmas Blast"
+        },
+        {
+          "time": "9:25",
+          "piece": "Jingle Bells Forever"
         }
       ]
     },
