@@ -146,20 +146,44 @@
     },
     {
       "date": "December 3, 2025",
-      "time": "7:30 - 9:30 PM",
+      "time": "7:30 - 10:00 PM",
       "location": "Merchant Hall (Tech Rehearsal)",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "TBD"
+          "piece": "Winter Wonderland",
+          "time": "7:30"
         },
         {
-          "time": "8:25",
+          "piece": "Christmas Time in New Orleans",
+          "time": "7:50"
+        },
+        {
+          "piece": "What a Wonderful World",
+          "time": "8:05"
+        },
+        {
+          "piece": "'Twas the Night Before Christmas",
+          "time": "8:20"
+        },
+        {
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Santa Baby",
+          "time": "8:40"
+        },
+        {
+          "piece": "Please Come Home for Christmas",
+          "time": "8:55"
+        },
+        {
+          "piece": "Silent Night/Jingle Bells",
+          "time": "9:15"
+        },
+        {
+          "piece": "Sleigh Ride",
+          "time": "9:30"
         }
       ]
     },
@@ -170,15 +194,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert order run-through"
         }
       ]
     },
