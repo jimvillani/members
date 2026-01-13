@@ -29,12 +29,24 @@
           "piece": "Still"
         },
         {
-          "time": "8:25",
+          "time": "8:20",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:30",
+          "piece": "Grofé II"
+        },
+        {
+          "time": "8:45",
+          "piece": "Grofé IV"
+        },
+        {
+          "time": "9:00",
+          "piece": "MacDowell III"
+        },
+        {
+          "time": "9:15",
+          "piece": "MacDowell I"
         }
       ]
     },
@@ -45,18 +57,6 @@
       "scheduleItem": [
         {
           "piece": "String Sectionals"
-        },
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
         }
       ]
     },
