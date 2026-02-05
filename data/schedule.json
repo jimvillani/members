@@ -62,46 +62,39 @@
     },
     {
       "date": "January 28, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
-        }
-      ]
+      "time": "Canceled - Weather"
     },
     {
       "date": "Saturday, February 7, 2026",
-      "time": "10:00 AM - 12:00 PM",
+      "time": "10:00 AM - 12:30 PM",
       "location": "JFFRH",
       "scheduleItem": [
         {
           "time": "10:00",
-          "piece": "TBD"
+          "piece": "MacDowell"
         },
         {
-          "time": "8:25",
+          "time": "10:40",
           "piece": "break"
         },
         {
-          "time": "11:05",
-          "piece": "TBD"
+          "time": "10:50",
+          "piece": "Grofé"
+        },
+        {
+          "time": "11:40",
+          "piece": "break"
+        },
+        {
+          "time": "11:50",
+          "piece": "Still"
         }
       ]
     },
     {
       "date": "February 11, 2026",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "Gregory Theater",
       "scheduleItem": [
         {
           "time": "7:30",
