@@ -98,15 +98,31 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "MacDowell II"
         },
         {
-          "time": "8:25",
+          "time": "7:55",
+          "piece": "MacDowell V"
+        },
+        {
+          "time": "8:15",
+          "piece": "Grofé IV"
+        },
+        {
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:40",
+          "piece": "Grofé I"
+        },
+        {
+          "time": "9:00",
+          "piece": "Grofé II"
+        },
+        {
+          "time": "9:15",
+          "piece": "Grofé III"
         }
       ]
     },
