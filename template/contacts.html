@@ -1,6 +1,6 @@
 <div class="banner">Contact Information</div>
 <div id="contacts" ng-controller="contactsCtrl">
-    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="left">
+    <div class="contact-col left">
         <div class="headline">Staff</div>
         <div ng-repeat="x in contactsData.staff">
             <div class="contactname">
@@ -12,13 +12,13 @@
         </div>
 
         <div class="headline" style="margin-top: 12px; margin-bottom: 6px;">Important Links</div>
-        <ul style="list-style: none; padding: 0; margin: 0;" ng-controller="linksCtrl">
+        <ul class="list-plain" ng-controller="linksCtrl">
             <li style="padding-left: 13px; text-indent: -9px;" ng-repeat="x in linksData.key">
                 <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
             </li>
         </ul>
     </div>
-    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="middle">
+    <div class="contact-col middle">
         <div class="headline">Board of Directors</div>
         <div ng-repeat="x in contactsData.officers">
             <div class="contactname">
@@ -38,7 +38,7 @@
             </div>
         </div>
     </div>
-    <div style="padding-top: 0; padding-bottom:6px; margin-bottom:12px; margin-top: 12px;" class="right">
+    <div class="contact-col right">
         <div class="headline">&nbsp;</div>
         <div ng-repeat="x in contactsData.directors |
              slice:((contactsData.directors.length/2) - (contactsData.officers.length/2)):contactsData.directors.length">

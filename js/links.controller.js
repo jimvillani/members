@@ -1,7 +1,12 @@
 var app = angular.module('app');
-app.controller('linksCtrl', function ($scope, $http) {
-    $http.get("data/links.min.json")
-        .then(function (response) {
-            $scope.linksData = response.data.links;
-        });
-}); 
+app.factory('linksService', function ($http) {
+    var promise = $http.get("data/links.min.json").then(function (response) {
+        return response.data.links;
+    });
+    return { getLinks: function () { return promise; } };
+});
+app.controller('linksCtrl', function ($scope, linksService) {
+    linksService.getLinks().then(function (links) {
+        $scope.linksData = links;
+    });
+});

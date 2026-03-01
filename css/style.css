@@ -222,7 +222,7 @@ div.l {
     clear: left;
 }
 
-#schedule1, #schedule2. #schedule3 {
+#schedule1, #schedule2, #schedule3 {
     padding-top: 0;
     padding-bottom: 6px;
     margin-bottom: 12px;
@@ -294,4 +294,71 @@ figure > figcaption.title {
 }
 
 figure > figcaption.movement {
+}
+
+/*roster*/
+.instrument-name {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.player-name {
+    font-weight: normal;
+}
+
+/*contacts*/
+.contact-col {
+    padding-top: 0;
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+/*parts*/
+.section-heading {
+    margin-top: 12px;
+    font-size: 1.2em;
+    font-weight: 800;
+    color: #51134a;
+}
+
+/*links*/
+.list-plain {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.link-indent {
+    padding: 0 0 0 12px;
+}
+
+.key-link-item {
+    padding: 0 0 0 12px;
+    background-color: #D4A752;
+}
+
+/*calendar*/
+.cal-note {
+    font-size: 9px;
+}
+
+/*seasons*/
+.season-col {
+    float: left;
+    padding-left: 12px;
+}
+
+.season-title {
+    width: 100%;
+    padding-top: 6px;
+}
+
+/*keylinks*/
+.keylinks-list {
+    list-style: none;
+    clear: left;
+    padding-top: 6px;
+    padding-left: 12px;
+    margin-top: 12px;
 }
