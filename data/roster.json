@@ -2,6 +2,7 @@
   "instruments": [
     {
       "instrument": "Violin I",
+      "column": 1,
       "section": [
         {
           "name": {
@@ -129,6 +130,7 @@
     },
     {
       "instrument": "Violin II",
+      "column": 1,
       "section": [
         {
           "name": {
@@ -261,6 +263,7 @@
     },
     {
       "instrument": "Viola",
+      "column": 2,
       "section": [
         {
           "name": {
@@ -365,6 +368,7 @@
     },
     {
       "instrument": "Cello",
+      "column": 2,
       "section": [
         {
           "name": {
@@ -462,6 +466,7 @@
     },
     {
       "instrument": "Bass",
+      "column": 2,
       "section": [
         {
           "name": {
@@ -511,6 +516,7 @@
     },
     {
       "instrument": "Piccolo",
+      "column": 3,
       "show": true,
       "section": [
         {
@@ -531,6 +537,7 @@
     },
     {
       "instrument": "Flute",
+      "column": 3,
       "section": [
         {
           "name": {
@@ -558,6 +565,7 @@
     },
     {
       "instrument": "Oboe",
+      "column": 3,
       "section": [
         {
           "name": {
@@ -586,6 +594,7 @@
     },
     {
       "instrument": "English Horn",
+      "column": 3,
       "show": true,
       "section": [
         {
@@ -613,11 +622,13 @@
     },
     {
       "instrument": "Eb Clarinet",
+      "column": 3,
       "show": false,
       "section": []
     },
     {
       "instrument": "Clarinet",
+      "column": 3,
       "section": [
         {
           "name": {
@@ -639,6 +650,7 @@
     },
     {
       "instrument": "Bass Clarinet",
+      "column": 3,
       "show": true,
       "section": [
         {
@@ -666,6 +678,7 @@
     },
     {
       "instrument": "Bassoon",
+      "column": 3,
       "section": [
         {
           "name": {
@@ -707,6 +720,7 @@
     },
     {
       "instrument": "Contrabassoon",
+      "column": 3,
       "show": false,
       "section": [
         {
@@ -720,6 +734,7 @@
     },
     {
       "instrument": "Alto Saxophone",
+      "column": 3,
       "show": true,
       "section": [
         {
@@ -754,6 +769,7 @@
     },
     {
       "instrument": "Horn",
+      "column": 4,
       "section": [
         {
           "name": {
@@ -817,6 +833,7 @@
     },
     {
       "instrument": "Trumpet",
+      "column": 4,
       "section": [
         {
           "name": {
@@ -865,6 +882,7 @@
     },
     {
       "instrument": "Trombone",
+      "column": 4,
       "section": [
         {
           "name": {
@@ -899,6 +917,7 @@
     },
     {
       "instrument": "Tuba",
+      "column": 4,
       "show": true,
       "section": [
         {
@@ -912,6 +931,7 @@
     },
     {
       "instrument": "Timpani",
+      "column": 4,
       "section": [
         {
           "name": {
@@ -924,6 +944,7 @@
     },
     {
       "instrument": "Percussion",
+      "column": 4,
       "show": true,
       "section": [
         {
@@ -994,6 +1015,7 @@
     },
     {
       "instrument": "Piano",
+      "column": 4,
       "show": true,
       "section": [
         {
@@ -1007,6 +1029,7 @@
     },
     {
       "instrument": "Harp",
+      "column": 4,
       "show": true,
       "section": [
         {
@@ -1027,6 +1050,7 @@
     },
     {
       "instrument": "Personnel Manager",
+      "column": 4,
       "section": [
         {
           "name": {
@@ -1039,6 +1063,7 @@
     },
     {
       "instrument": "Music Librarian",
+      "column": 4,
       "section": [
         {
           "name": {

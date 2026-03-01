@@ -1,7 +1,7 @@
 <div class="banner">Orchestra Personnel</div>
 <div class="normal" ng-controller="rosterCtrl">
     <div class="c1-4">
-        <div class="item" ng-repeat="instr in rosterData | slice:0:2"
+        <div class="item" ng-repeat="instr in rosterData | filter:{column:1}"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span class="instrument-name">{{ instr.instrument }}</span>
             <div class="player-name" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -14,7 +14,7 @@
         </div>
     </div>
     <div class="c2-4">
-        <div class="item" ng-repeat="instr in rosterData | slice:2:5"
+        <div class="item" ng-repeat="instr in rosterData | filter:{column:2}"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span class="instrument-name">{{ instr.instrument }}</span>
             <div class="player-name" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="c3-4">
-        <div class="item" ng-repeat="instr in rosterData | slice:5:15"
+        <div class="item" ng-repeat="instr in rosterData | filter:{column:3}"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span class="instrument-name">{{ instr.instrument }}</span>
             <div class="player-name" ng-repeat="p in instr.section" ng-show="p.principal == true">
@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="c4-4">
-        <div class="item" ng-repeat="instr in rosterData | slice:15:rosterData.length"
+        <div class="item" ng-repeat="instr in rosterData | filter:{column:4}"
              ng-show="instr.section.length > 0 && instr.show != false">
             <span class="instrument-name">{{ instr.instrument }}</span>
             <div class="player-name" ng-repeat="p in instr.section" ng-show="p.principal == true">

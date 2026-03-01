@@ -19,13 +19,13 @@
     ],
     "officers": [
       {
-        "name": "Beth Sharpe",
-        "email": "beth.sharpe@manassassymphony.org",
+        "name": "Andrea Brothers",
+        "email": "andrea.brothers@manassassymphony.org",
         "title": "President"
       },
       {
         "name": "Jess Leggett",
-        "email": "jessica.green@manassassymphony.org",
+        "email": "jessica.leggett@manassassymphony.org",
         "title": "Vice President"
       },
       {
@@ -41,20 +41,12 @@
     ],
     "directors": [
       {
+        "name": "Nnenna Aninye",
+        "email": "nnenna.aninye@manassassymphony.org"
+      },
+      {
         "name": "Diane Bennett",
         "email": "diane.bennett@manassassymphony.org"
-      },
-      {
-        "name": "Michele Boyd",
-        "email": "michele.boyd@manassassymphony.org"
-      },
-      {
-        "name": "Andrea Brothers",
-        "email": "andrea.brothers@manassassymphony.org"
-      },
-      {
-        "name": "Carol Hall",
-        "email": "carol.hall@manassassymphony.org"
       },
       {
         "name": "J. Timothy Mauk",
@@ -63,6 +55,10 @@
       {
         "name": "Shirley Rice",
         "email": "shirley.rice@manassassymphony.org"
+      },
+      {
+        "name": "Beth Sharpe",
+        "email": "beth.sharpe@manassassymphony.org"
       },
       {
         "name": "Steven Thompson",
