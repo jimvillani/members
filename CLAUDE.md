@@ -36,25 +36,27 @@ The AngularJS module is bootstrapped in `js/app.js` (`angular.module('app', [])`
 |---|---|---|---|
 | Schedule | `schedule` | `scheduleCtrl` | `data/schedule.json` |
 | Parts | `parts` | `partsCtrl` | `data/parts.json` |
-| Photos | `misc` | `miscCtrl` | — |
+| Photos | `misc` | `miscCtrl` | `data/links.json` (photos) |
 | Links | `links` | `linksCtrl` | `data/links.json` |
 | Contacts | `contacts` | `contactsCtrl` | `data/contacts.json` |
 | Library | `library` | — | — |
 | Orchestra Calendar | `calendar` | — | — |
 | Board Calendar | `boardcal` | — | — |
 
-Additionally: `seasons` directive (concert dates), `absences` directive, `survey` directive, `keylinks` partial (renders `linksData.key` links; embedded in schedule template).
+Additionally: `seasons` directive (concert dates), `absences` directive (uses `linksCtrl`), `survey` directive (uses `linksCtrl`), `keylinks` partial (renders `linksData.key` links; embedded in schedule template).
 
-Custom filters: `unsafe` (trusts HTML via `$sce`), `slice` (slices arrays for 3-column layout).
+Custom filters: `unsafe` (trusts HTML via `$sce`), `trustedUrl` (trusts resource URLs via `$sce` for iframe `ng-src`), `slice` (slices arrays for 3-column layout).
+
+`linksService` is a shared factory that caches the `links.min.json` HTTP request. It is used by `linksCtrl`, `miscCtrl`, and any template needing links data.
 
 ## Data Files (`data/`)
 
 Each `.json` is the human-editable source; `.min.json` is what the app reads. Both must be kept in sync.
 
 - **`schedule.json`** — array of rehearsal dates. Each entry has `date`, `time`, optional `location`, optional `scheduleItem[]`. Each `scheduleItem` may have: `time`, `piece`, `composer`, `indent`, `instrumentation`. A canceled rehearsal omits `scheduleItem` and puts the reason in `time` (e.g., `"time": "Canceled - Weather"`). The schedule display splits entries into 3 columns.
-- **`roster.json`** — `instruments[]`, each with `instrument` name and `section[]` of members (with `first`/`last` name, `active`, optional `principal`).
+- **`roster.json`** — `instruments[]`, each with `instrument` name, `column` (1-4 for display layout), and `section[]` of members (with `first`/`last` name, `active`, optional `principal`).
 - **`parts.json`** — `ftp` URL (iframe embed), `links[]` (IMSLP), `audio[]` (local mp3 via `/audio/`), `videos[]`.
-- **`links.json`** — `key[]` (shown on schedule page and links tab) and `inactive[]` arrays of `{url, linkText}`.
+- **`links.json`** — `key[]` (shown on schedule page and links tab), `inactive[]`, and `interesting[]` arrays of `{url, linkText}`. Also contains `absenceFormEmbed` (Google Form embed URL), `photos` (slideshow/gallery URLs, title, credit), and `survey` (embed URL, direct link, auditions link).
 - **`contacts.json`** — `staff[]` and `officers[]` arrays.
 - **`seasons.json`** — `seasons[]` array with `season` label and `dates[]` strings.
 

@@ -1,5 +1,18 @@
 {
   "links": {
+    "absenceFormEmbed": "https://docs.google.com/forms/d/e/1FAIpQLSexQibgNYkZGaLJWFEHBN8QtU2HTlB1l9TgvbO4tLRbyEpIkA/viewform?embedded=true",
+    "photos": {
+      "title": "October 2024 Photoshoot",
+      "slideshowUrl": "https://gingercarroll.smugmug.com/frame/slideshow?key=nvwm99&speed=3&transition=fade&autoStart=1&captions=0&navigation=1&playButton=0&randomize=1&transitionSpeed=2&clickable=0",
+      "altUrl": "https://gingercarroll.smugmug.com/frame/slideshow?key=nvwm99&speed=3&transition=fade&autoStart=1&captions=0&navigation=1&playButton=0&randomize=1&transitionSpeed=2&clickable=1",
+      "galleryUrl": "https://gingercarroll.smugmug.com/Performances/MSO/n-qgt8M5",
+      "credit": "Sweet Ginger Snaps Photography"
+    },
+    "survey": {
+      "embedUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd8r-B-7gbvj9_u0c6PuifwHBsNJRmTlDXzjOrC5dRCtGTpMg/viewform?embedded=true",
+      "directUrl": "https://forms.gle/FCPqCL7qauu7hB96A",
+      "auditionsUrl": "https://mso.me/auditions-25"
+    },
     "inactive": [
       {
         "url": "https://mso.me/setup1920",
