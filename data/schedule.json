@@ -1,224 +1,40 @@
 {
   "schedule": [
     {
-      "date": "January 7, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Grofé"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "MacDowell"
-        }
-      ]
-    },
-    {
-      "date": "January 14, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Still"
-        },
-        {
-          "time": "8:20",
-          "piece": "break"
-        },
-        {
-          "time": "8:30",
-          "piece": "Grofé II"
-        },
-        {
-          "time": "8:45",
-          "piece": "Grofé IV"
-        },
-        {
-          "time": "9:00",
-          "piece": "MacDowell III"
-        },
-        {
-          "time": "9:15",
-          "piece": "MacDowell I"
-        }
-      ]
-    },
-    {
-      "date": "January 21, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "piece": "String Sectionals"
-        }
-      ]
-    },
-    {
-      "date": "January 28, 2026",
-      "time": "Canceled - Weather"
-    },
-    {
-      "date": "Saturday, February 7, 2026",
-      "time": "10:00 AM - 12:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "10:00",
-          "piece": "MacDowell"
-        },
-        {
-          "time": "10:40",
-          "piece": "break"
-        },
-        {
-          "time": "10:50",
-          "piece": "Grofé"
-        },
-        {
-          "time": "11:40",
-          "piece": "break"
-        },
-        {
-          "time": "11:50",
-          "piece": "Still"
-        }
-      ]
-    },
-    {
-      "date": "February 11, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "Gregory Theater",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "MacDowell II"
-        },
-        {
-          "time": "7:55",
-          "piece": "MacDowell V"
-        },
-        {
-          "time": "8:15",
-          "piece": "Grofé IV"
-        },
-        {
-          "time": "8:30",
-          "piece": "break"
-        },
-        {
-          "time": "8:40",
-          "piece": "Grofé I"
-        },
-        {
-          "time": "9:00",
-          "piece": "Grofé II"
-        },
-        {
-          "time": "9:15",
-          "piece": "Grofé III"
-        }
-      ]
-    },
-    {
-      "date": "February 18, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "MacDowell I, II, IV, V"
-        },
-        {
-          "time": "8:10",
-          "piece": "Grofé I"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Grofé II"
-        },
-        {
-          "time": "8:50",
-          "piece": "Grofé III"
-        },
-        {
-          "time": "9:10",
-          "piece": "Grofé IV"
-        }
-      ]
-    },
-    {
-      "date": "February 25, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Ennanga (strings, harp, piano)"
-        },
-        {
-          "time": "8:00",
-          "piece": "Grofé I/II"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Grofé IV"
-        },
-        {
-          "time": "8:50",
-          "piece": "MacDowell (all)"
-        }
-      ]
-    },
-    {
       "date": "March 4, 2026",
       "time": "7:30 - 9:45 PM Tech Rehearsal",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Still"
         },
         {
-          "time": "8:25",
+          "time": "8:15",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:20",
+          "piece": "MacDowell"
+        },
+        {
+          "time": "8:55",
+          "piece": "break"
+        },
+        {
+          "time": "9:00",
+          "piece": "Grofé"
         }
       ]
     },
     {
       "date": "March 6, 2026",
       "time": "7:30 - 10:00 PM Dress Rehearsal",
-      "location": "JFFRH",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
