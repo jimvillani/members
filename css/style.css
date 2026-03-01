@@ -356,6 +356,11 @@ figure > figcaption.movement {
     padding-top: 6px;
 }
 
+/*hamburger menu toggle (hidden on desktop)*/
+.tab-menu-toggle {
+    display: none;
+}
+
 /*keylinks*/
 .keylinks-list {
     list-style: none;
@@ -379,12 +384,41 @@ figure > figcaption.movement {
         font-size: 18pt;
     }
 
+    .tab-menu-toggle {
+        display: flex;
+        align-items: center;
+        padding: 10px 12px;
+        cursor: pointer;
+        background-color: #51134a;
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .hamburger-icon {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+
     .nav-tabs {
-        flex-wrap: wrap;
+        display: none;
+        flex-direction: column;
+        border-bottom: none;
+    }
+
+    .nav-tabs.menu-open {
+        display: flex;
     }
 
     .nav-tabs > li {
-        flex: none;
+        float: none;
+        width: 100%;
+    }
+
+    .nav-tabs > li > a {
+        padding: 10px 12px;
+        border: none;
+        border-bottom: 1px solid #eee;
     }
 
     /* schedule 3-col to 1-col */

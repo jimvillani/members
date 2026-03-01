@@ -10,6 +10,7 @@ app.directive('tabset', function () {
         controller: function () {
             var self = this;
             self.tabs = [];
+            self.menuOpen = false;
             self.addTab = function addTab(tab) {
                 self.tabs.push(tab);
 

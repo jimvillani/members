@@ -1,12 +1,16 @@
 <div role="tabpanel">
-    <ul class="nav nav-tabs" role="tablist">
+    <div class="tab-menu-toggle" ng-click="tabset.menuOpen = !tabset.menuOpen">
+        <span class="hamburger-icon">&#9776;</span>
+        <span ng-repeat="tab in tabset.tabs" ng-show="tab.active">{{tab.heading}}</span>
+    </div>
+    <ul class="nav nav-tabs" role="tablist"
+        ng-class="{'menu-open': tabset.menuOpen}">
         <li role="presentation"
             ng-repeat="tab in tabset.tabs"
             ng-class="{'active': tab.active}">
-
             <a href=""
                role="tab"
-               ng-click="tabset.select(tab)">{{tab.heading}}</a>
+               ng-click="tabset.select(tab); tabset.menuOpen = false">{{tab.heading}}</a>
         </li>
     </ul>
 
