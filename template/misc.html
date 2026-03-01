@@ -1,8 +1,9 @@
-<div ng-controller="miscCtrl">
+<div ng-controller="miscCtrl" style="padding: 0 12px;">
     <div class="banner">{{ photos.title }}</div>
     <div>
         <iframe ng-src="{{ photos.slideshowUrl | trustedUrl }}"
-                width="971" height="600"></iframe>
+                width="971" height="600"
+                style="max-width:100%;"></iframe>
     </div>
     <div>If this slideshow isn't working, <a target="_blank"
                                              ng-href="{{ photos.altUrl }}">click

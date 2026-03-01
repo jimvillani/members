@@ -72,7 +72,8 @@ a:hover {
 #container {
     font-family: Lato, sans-serif;
     background-color: white;
-    width: 977px;
+    max-width: 977px;
+    width: 100%;
     position: relative;
     top: 70px;
     bottom: 70px;
@@ -85,8 +86,9 @@ a:hover {
     top: 0;
     background: #51134a url('../graphics/2019-20/header19.png') no-repeat center;
     background-origin: content-box;
-    width: 977px;
-    min-width: 977px;
+    background-size: cover;
+    max-width: 977px;
+    width: 100%;
     height: 136px;
     float: left;
 }
@@ -361,4 +363,73 @@ figure > figcaption.movement {
     padding-top: 6px;
     padding-left: 12px;
     margin-top: 12px;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+    #header {
+        height: auto;
+        min-height: 80px;
+        float: none;
+        overflow: hidden;
+        background-size: contain;
+    }
+
+    div.banner {
+        font-size: 18pt;
+    }
+
+    .nav-tabs {
+        flex-wrap: wrap;
+    }
+
+    .nav-tabs > li {
+        flex: none;
+    }
+
+    /* schedule 3-col to 1-col */
+    div.l, div.m, div.r {
+        width: 100%;
+        float: none;
+        padding-right: 0;
+        padding-left: 1em;
+    }
+
+    div.date {
+        text-indent: 0;
+    }
+
+    /* roster 4-col to 1-col */
+    div.c1-4, div.c2-4, div.c3-4, div.c4-4 {
+        width: 100%;
+        float: none;
+    }
+
+    /* contacts 3-col to 1-col */
+    #contacts > .left,
+    #contacts > .middle,
+    #contacts > .right {
+        width: 100%;
+        float: none;
+    }
+
+    /* seasons columns to 1-col */
+    .season-col {
+        width: 100% !important;
+        float: none;
+    }
+
+    iframe {
+        max-width: 100%;
+    }
+
+    audio {
+        width: 100%;
+    }
+
+    .video, .video-right {
+        width: 100%;
+        float: none;
+        clear: both;
+    }
 }
