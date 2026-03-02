@@ -1,17 +1,25 @@
-<div class="banner">Interesting Links</div>
-<div class="normal">
-    <ul class="list-plain" ng-controller="linksCtrl">
-        <li class="key-link-item" ng-repeat="x in linksData.key">
-            <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
-        </li>
-    </ul>
-    <ul class="list-plain" style="padding-top:12px;" ng-controller="linksCtrl">
-        <li class="link-indent" ng-repeat="x in linksData.interesting">
-            <a target="_blank" ng-href="{{ x.url }}"> {{x.linkText}} </a>
-        </li>
-    </ul>
-</div>
+<div class="banner">Links</div>
+<div class="normal links-layout" ng-controller="linksCtrl">
+    <!-- standard links (left 1/4) -->
+    <div class="links-left">
+        <div class="headline">Important Links</div>
+        <ul class="list-plain">
+            <li class="key-link-item" ng-repeat="x in linksData.key">
+                <a target="_blank" ng-href="{{ x.url }}"> {{ x.linkText }} </a>
+            </li>
+        </ul>
+    </div>
 
-<div class="italics" style="padding-top: 8px;">
-    Suggestions? <a href="mailto:jim.villani@manassassymphony.org?Subject=Interesting%20Link"> Let me know. </a>
+    <!-- interesting links (right 3/4) -->
+    <div class="links-right">
+        <div class="headline">Interesting Links</div>
+        <ul class="list-plain" style="padding:12px 0 12px 0;">
+            <li class="link-indent" ng-repeat="x in linksData.interesting">
+                <a target="_blank" ng-href="{{ x.url }}"> {{ x.linkText }} </a>
+            </li>
+        </ul>
+        <div class="italics" style="padding: 8px 0 0 3px;">
+            Suggestions? <a href="mailto:jim.villani@manassassymphony.org?Subject=Interesting%20Link"> Let me know. </a>
+        </div>
+    </div>
 </div>
