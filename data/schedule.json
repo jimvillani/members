@@ -7,14 +7,14 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "Still"
+          "piece": "Claude T. Smith (new)"
         },
         {
-          "time": "8:15",
+          "time": "8:30",
           "piece": "break"
         },
         {
-          "time": "8:20",
+          "time": "8:35",
           "piece": "MacDowell"
         },
         {
@@ -44,12 +44,15 @@
       "location": "Merchant Hall",
       "scheduleItem": [
         {
-          "composer": "Edward MacDowell",
-          "piece": "Suite No. 2, Op. 48"
+          "piece": "The Star Spangled Banner"
         },
         {
-          "composer": "William Grant Still",
-          "piece": "Ennanga"
+          "composer": "Claude T. Smith",
+          "piece": "Eternal Father Strong to Save"
+        },
+        {
+          "composer": "Edward MacDowell",
+          "piece": "Suite No. 2, Op. 48"
         },
         {
           "composer": "Ferde Grofé",
