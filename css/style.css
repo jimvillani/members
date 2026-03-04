@@ -341,6 +341,12 @@ figure > figcaption.movement {
     background-color: rgba(212, 167, 82, 0.5);
 }
 
+.key-link-item a:hover {
+    color: #51134a;
+    font-weight: 900;
+    text-decoration: none;
+}
+
 .links-layout {
     display: flex;
 }
