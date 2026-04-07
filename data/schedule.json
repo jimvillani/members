@@ -1,6 +1,6 @@
 {
   "schedule": [
-        {
+    {
       "date": "March 18, 2026",
       "time": "7:30 - 9:30PM",
       "location": "Hylton JFFRH",
@@ -36,6 +36,116 @@
     {
       "date": "April 2, 2026",
       "time": "No Rehearsal (Spring Break)"
+    },
+    {
+      "date": "April 9, 2026",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "piece": "No piano, trombones or tubas this week"
+        },
+        {
+          "time": "7:30",
+          "piece": "Bach (start at [14])"
+        },
+        {
+          "time": "7:55",
+          "piece": "Mendelssohn I"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "Mendelssohn IV"
+        },
+        {
+          "time": "9:00",
+          "piece": "Mendelssohn III"
+        },
+        {
+          "time": "9:15",
+          "piece": "Strauss II"
+        }
+      ]
+    },
+    {
+      "date": "April 16, 2026",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 23, 2026",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "April 30, 2026",
+      "time": "7:30 - 9:30PM",
+      "location": "Merchant Hall",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
+    },
+    {
+      "date": "May 1, 2026",
+      "time": "7:30 - 9:30PM",
+      "location": "Hylton JFFRH",
+      "scheduleItem": [
+        {
+          "time": "7:30",
+          "piece": "TBD"
+        },
+        {
+          "time": "8:25",
+          "piece": "break"
+        },
+        {
+          "time": "8:35",
+          "piece": "TBD"
+        }
+      ]
     },
     {
       "date": "May 2, 2026",
