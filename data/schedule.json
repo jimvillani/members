@@ -78,7 +78,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Bach"
+        },
+        {
+          "time": "8:05",
+          "piece": "Mendelssohn I (2nd ending, m. 209)"
         },
         {
           "time": "8:25",
@@ -86,7 +90,15 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Mendelssohn II"
+        },
+        {
+          "time": "9:00",
+          "piece": "Mendelssohn III [E]"
+        },
+        {
+          "time": "9:15",
+          "piece": "Mendelssohn IV [K]"
         }
       ]
     },
@@ -131,7 +143,7 @@
     {
       "date": "May 1, 2026",
       "time": "7:30 - 9:30PM",
-      "location": "Hylton JFFRH",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
