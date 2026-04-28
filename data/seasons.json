@@ -1,27 +1,15 @@
 {
   "seasons": [
     {
-      "season": "2025-26",
-      "dates": [
-        "Sunday, August 31, 2025 - 3:00 (Harris Pavilion)",
-        "Sunday, September 14, 2025 - 4:30 (Arts Alive)",
-        "Saturday, October 25, 2025 - 7:30 (Thomas Pandolfi, piano)",
-        "Saturday, November 15, 2025 - 7:00 (Trinity Episcopal Church - Members' Recital)",
-        "Saturday, December 6, 2025 - 3:30 (Doreen Ketchens, clarinet)",
-        "Saturday, March 7, 2026 - 7:30",
-        "Saturday, May 2, 2026 - 7:30 (Andrew Sords, violin)"
-      ]
-    },
-    {
-      "season": "2026-27 • Dates Subject to Change",
+      "season": "2026-27",
       "dates": [
         "Sunday, August 23, 2026 - 3:00 (Harris Pavilion)",
         "Sunday, TBD - 4:30 (Arts Alive)",
-        "Saturday, October 17, 2026 - 7:30",
-        "Saturday, TBD - 7:00 (Trinity Episcopal Church - Members' Recital)",
-        "Saturday, December 12, 2026 - 3:30",
-        "Saturday, March 6, 2026 - 7:30",
-        "Saturday, May 1, 2026 - 7:30"
+        "Saturday, October 17, 2026 - 7:30 (Yevgeny Dokshansky, clarinet)",
+        "Saturday, November 14 - 7:00 (Trinity Episcopal Church - Members' Recital)",
+        "Saturday, December 12, 2026 - 3:30 (Mira Nair, violin)",
+        "Saturday, March 6, 2026 - 7:30 (Anita Graef, cello)",
+        "Saturday, May 1, 2026 - 7:30 (Lisa Tyler, piano)"
       ]
     }
   ]

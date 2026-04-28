@@ -140,6 +140,10 @@
         },
         {
           "time": "8:40",
+          "piece": "Bach"
+        },
+        {
+          "time": "8:55",
           "piece": "Mendelssohn"
         }
       ]
@@ -151,15 +155,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "Concert Order"
         }
       ]
     },
@@ -170,19 +166,16 @@
       "scheduleItem": [
         {
           "piece": "Tocatta and Fugue in D minor, BWV 565",
-          "composer": "Johann Sebastian Bach",
-          "instrumentation": "4.3.3+1.3+1/6.3.4.1 timp cel hp  strings"
+          "composer": "Johann Sebastian Bach"
         },
         {
           "piece": "Violin Concerto in D minor, Op. 8",
           "composer": "Richard Strauss",
-          "soloist": "Andrew Sords",
-          "instrumentation": "2.2.2.2/4.2.0.0 timp strings"
+          "soloist": "Andrew Sords"
         },
         {
           "piece": "Symphony  No. 3 in A minor, Op. 56. \"Scottish \"",
-          "composer": "Felix Mendelssohn",
-          "instrumentation": "2.2.2.2/4.2.0.0 timp strings"
+          "composer": "Felix Mendelssohn"
         }
       ]
     }
