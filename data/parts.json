@@ -1,27 +1,9 @@
 {
   "parts": {
-    "ftp": "https://members.manassassymphony.org/parts/2025-26",
+    "ftp": "https://members.manassassymphony.org/parts/2026-27",
     "links": [],
     "audio": [],
     "videos": [
-      {
-        "composer": "Bach",
-        "title": "Toccata and Fugue in D minor (Stokowski)",
-        "linkText": "YouTube",
-        "url": "https://youtu.be/CpWHbYFA4wo?si=gBCyPd1iqtopUEAw"
-      },
-      {
-        "composer": "Strauss",
-        "title": "Violin Concerto in D minor, Op. 8 (Pavel Sporcl)",
-        "linkText": "YouTube",
-        "url": "https://youtu.be/4k2z3gcaF88?si=qnsD5UA9w54wWm9S"
-      },
-      {
-        "composer": "Mendelssohn",
-        "title": "Symphony No. 3 in A minor, Op. 56. \"Scottish\" (Kurt Masur)",
-        "linkText": "YouTube",
-        "url": "https://youtu.be/Q-zoNEO55yU?si=bPpokQCwk0pLfgpj"
-      }
     ]
   }
 }
