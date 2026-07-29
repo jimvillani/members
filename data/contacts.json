@@ -19,8 +19,8 @@
     ],
     "officers": [
       {
-        "name": "Andrea Brothers",
-        "email": "andrea.brothers@manassassymphony.org",
+        "name": "Diane Bennett",
+        "email": "diane.bennett@manassassymphony.org",
         "title": "President"
       },
       {
@@ -45,10 +45,6 @@
         "email": "nnenna.aninye@manassassymphony.org"
       },
       {
-        "name": "Diane Bennett",
-        "email": "diane.bennett@manassassymphony.org"
-      },
-      {
         "name": "J. Timothy Mauk",
         "email": "tim.mauk@manassassymphony.org"
       },
@@ -63,6 +59,10 @@
       {
         "name": "Steven Thompson",
         "email": "steven.thompson@manassassymphony.org"
+      },
+      {
+        "name": "Jim Villani",
+        "email": "james.villani@manassassymphony.org"
       }
     ]
   }

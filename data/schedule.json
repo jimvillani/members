@@ -7,7 +7,19 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Curtain Up!"
+        },
+        {
+          "time": "",
+          "piece": "Star Trek Through the Years"
+        },
+        {
+          "time": "",
+          "piece": "A Tribute to Henry Mancini"
+        },
+        {
+          "time": "",
+          "piece": "Selections from Moana 2"
         },
         {
           "time": "8:25",
@@ -15,7 +27,23 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "James Bond Medley"
+        },
+        {
+          "time": "",
+          "piece": "Selections from Les Miserables"
+        },
+        {
+          "time": "",
+          "piece": "Stars and Stripes Forever"
+        },
+        {
+          "time": "",
+          "piece": "What a Wonderful World"
+        },
+        {
+          "time": "",
+          "piece": "Medley from My Fair Lady (winds only)"
         }
       ]
     },

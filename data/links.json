@@ -31,16 +31,8 @@
         "linkText": "Polo and Sweat Shirt Order Form"
       },
       {
-        "url": "/files/voucher-20260502.pdf",
-        "linkText": "May 2026 Voucher (pdf)"
-      },
-      {
         "url": "https://www.manassassymphony.org/pr/flyer-20260502.pdf",
         "linkText": "May 2026 Flyer (pdf)"
-      },
-      {
-        "url": "/files/voucher-20260502.png",
-        "linkText": "May 2026 Voucher (png)"
       }
     ],
     "key": [
@@ -51,6 +43,14 @@
       {
         "url": "https://mso.me/survey26-27",
         "linkText": "26-27 Season Survey"
+      },
+      {
+        "url": "/files/voucher-20261017.png",
+        "linkText": "October 2026 Voucher (png)"
+      },
+      {
+        "url": "/files/voucher-20261017.pdf",
+        "linkText": "October 2026 Voucher (pdf)"
       },
       {
         "url": "https://manassassymphony.org",
