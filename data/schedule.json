@@ -54,7 +54,15 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "My Fair Lady (full orchestra - new parts online)"
+        },
+        {
+          "time": "7:50",
+          "piece": "Les Mis"
+        },
+        {
+          "time": "8:10",
+          "piece": "Curtain Up!"
         },
         {
           "time": "8:25",
@@ -62,14 +70,26 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Moana"
+        },
+        {
+          "time": "8:45",
+          "piece": "Star Trek"
+        },
+        {
+          "time": "9:00",
+          "piece": "Mancini"
+        },
+        {
+          "time": "9:15",
+          "piece": "James Bond"
         }
       ]
     },
     {
       "date": "August 12, 2026",
       "time": "7:30 - 9:30 PM",
-      "location": "Hylton JFFRH",
+      "location": "Merchant Hall Stage",
       "scheduleItem": [
         {
           "time": "7:30",
@@ -139,9 +159,9 @@
           "instrumentation": "2D1.2.2+1.2/4.3.3.1,timp,perc,pf,str"
         },
         {
-          "composer": "Andy Beck",
-          "piece": "Medley from My Fair Lady (with Manassas Chorale)",
-          "instrumentation": "1.1.1.0/0.2.1.0,drum kit, guitar, elec. bass"
+          "composer": "Arr. Mark Hayes",
+          "piece": "What a Wonderful World (with Manassas Chorale)",
+          "instrumentation": "1.1.1.1/2.3.2.0,drum kit, guitar, elec. bass, str"
         },
         {
           "composer": "Lionel Bart",
@@ -149,9 +169,9 @@
           "instrumentation": "(Manassas Chorale alone)"
         },
         {
-          "composer": "Arr. Mark Hayes",
-          "piece": "What a Wonderful World (with Manassas Chorale)",
-          "instrumentation": "1.1.1.1/2.3.2.0,drum kit, guitar, elec. bass, str"
+          "composer": "Alan Billingsley",
+          "piece": "Medley from My Fair Lady (with Manassas Chorale)",
+          "instrumentation": "2d1.1.1+1.1/4.3.1.1,alto sax,drum kit, guitar, elec. bass, str"
         },
         {
           "composer": "Calvin Custer",
@@ -171,7 +191,7 @@
         {
           "composer": "Arr. Robert Lowden",
           "piece": "Selections from Les Miserables",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,perc,(sax,pf),str"
+          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,perc,sax,pf,str"
         },
         {
           "composer": "J. P. Sousa",
