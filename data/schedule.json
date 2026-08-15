@@ -132,15 +132,39 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Curtain Up!"
         },
         {
-          "time": "8:25",
-          "piece": "break"
+          "time": "7:40",
+          "piece": "A Tribute to Henry Mancini"
+        },
+        {
+          "time": "7:50",
+          "piece": "What a Wonderful World"
+        },
+        {
+          "time": "8:00",
+          "piece": "Medley from My Fair Lady"
+        },
+        {
+          "time": "8:10",
+          "piece": "Star Trek Through the Years"
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "James Bond Medley"
+        },
+        {
+          "time": "8:45",
+          "piece": "Selections from Moana 2"
+        },
+        {
+          "time": "8:55",
+          "piece": "Selections from Les Miserables"
+        },
+        {
+          "time": "9:15",
+          "piece": "Stars and Stripes Forever"
         }
       ]
     },
@@ -151,7 +175,23 @@
       "scheduleItem": [
         {
           "time": "10:00",
-          "piece": "TBD"
+          "piece": "What a Wonderful World (with Manassas Chorale)"
+        },
+        {
+          "time": "10:20",
+          "piece": "Consider Yourself at Home (Manassas Chorale)"
+        },
+        {
+          "time": "10:30",
+          "piece": "Medley from My Fair Lady (with Manassas Chorale)"
+        },
+        {
+          "time": "10:50",
+          "piece": "Curtain Up!"
+        },
+        {
+          "time": "11:00",
+          "piece": "A Tribute to Henry Mancini"
         },
         {
           "time": "11:15",
@@ -159,7 +199,27 @@
         },
         {
           "time": "11:30",
-          "piece": "TBD"
+          "piece": "Star Trek Through the Years"
+        },
+        {
+          "time": "11:45",
+          "piece": "James Bond Medley"
+        },
+        {
+          "time": "11:55",
+          "piece": "Selections from Moana 2"
+        },
+        {
+          "time": "12:05",
+          "piece": "Selections from Les Miserables"
+        },
+        {
+          "time": "12:20",
+          "piece": "Stars and Stripes Forever"
+        },
+        {
+          "time": "12:30",
+          "piece": "Lunch catered by Board of Directors"
         }
       ]
     },
@@ -170,48 +230,39 @@
       "scheduleItem": [
         {
           "composer": "Arr. Bob Krogstad",
-          "piece": "Curtain Up!",
-          "instrumentation": "2d1.1.2+1.1/4.3.3.1,timp,6 perc,drumset,AT sax,el. bass,hp,pf,str"
+          "piece": "Curtain Up!"
         },
         {
           "composer": "Calvin Custer",
-          "piece": "Star Trek Through the Years",
-          "instrumentation": "2D1.2.2+1.2/4.3.3.1,timp,perc,pf,str"
+          "piece": "A Tribute to Henry Mancini"
         },
         {
           "composer": "Arr. Mark Hayes",
-          "piece": "What a Wonderful World (with Manassas Chorale)",
-          "instrumentation": "1.1.1.1/2.3.2.0,drum kit, guitar, elec. bass, str"
+          "piece": "What a Wonderful World (with Manassas Chorale)"
         },
         {
           "composer": "Lionel Bart",
-          "piece": "Consider Yourself at Home",
-          "instrumentation": "(Manassas Chorale alone)"
+          "piece": "Consider Yourself at Home (Manassas Chorale)"
         },
         {
           "composer": "Alan Billingsley",
-          "piece": "Medley from My Fair Lady (with Manassas Chorale)",
-          "instrumentation": "2d1.1.1+1.1/4.3.1.1,alto sax,drum kit, guitar, elec. bass, str"
+          "piece": "Medley from My Fair Lady (with Manassas Chorale)"
         },
         {
           "composer": "Calvin Custer",
-          "piece": "A Tribute to Henry Mancini",
-          "instrumentation": "2+1.1.2+1.1/4.3.3.1,timp,3 perc,pf,str"
-        },
-        {
-          "composer": "Arr. Sean O'Loughlin",
-          "piece": "Selections from Moana 2",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,6 perc,pf,str"
+          "piece": "Star Trek Through the Years"
         },
         {
           "composer": "Victor Lopez",
-          "piece": "James Bond Medley",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,6 perc,pf,str"
+          "piece": "James Bond Medley"
+        },
+        {
+          "composer": "Arr. Sean O'Loughlin",
+          "piece": "Selections from Moana 2"
         },
         {
           "composer": "Arr. Robert Lowden",
-          "piece": "Selections from Les Miserables",
-          "instrumentation": "2.1.2+1.1/4.3.3.1,timp,perc,sax,pf,str"
+          "piece": "Selections from Les Miserables"
         },
         {
           "composer": "J. P. Sousa",
