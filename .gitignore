@@ -3,3 +3,4 @@
 /parts/
 /files/
 *.mp3
+/run.sh
