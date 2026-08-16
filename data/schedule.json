@@ -245,19 +245,11 @@
     {
       "date": "September 16, 2026",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "location": "JFFRH - String Sectionals",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "TBD"
+          "piece": "String sectionals"
         }
       ]
     },
