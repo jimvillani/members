@@ -168,7 +168,7 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Kohut"
         },
         {
           "time": "8:25",
@@ -176,7 +176,11 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Price"
+        },
+        {
+          "time": "9:00",
+          "piece": "Copland"
         }
       ]
     },
