@@ -1,98 +1,27 @@
 {
   "schedule": [
     {
-      "date": "September 02, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Kohut"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Gould"
-        },
-        {
-          "time": "8:50",
-          "piece": "Copland"
-        }
-      ]
-    },
-    {
-      "date": "September 09, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
-      "scheduleItem": [
-        {
-          "time": "7:30",
-          "piece": "Price"
-        },
-        {
-          "time": "7:55",
-          "piece": "Kohut"
-        },
-        {
-          "time": "8:25",
-          "piece": "break"
-        },
-        {
-          "time": "8:35",
-          "piece": "Copland"
-        },
-        {
-          "time": "8:50",
-          "piece": "Arts Alive Run-through"
-        }
-      ]
-    },
-    {
-      "date": "September 12, 2026",
-      "time": "4:15 PM (Arts Alive)",
-      "location": "Merchant Hall",
-      "scheduleItem": [
-        {
-          "time": "4:15 (TBD)",
-          "piece": "Call Time"
-        },
-        {
-          "time": "4:30",
-          "piece": "Setup for Performance"
-        },
-        {
-          "time": "4:45",
-          "piece": "Performance"
-        },
-        {
-          "composer": "Arr. Bob Krogstad",
-          "piece": "Curtain Up!"
-        },
-        {
-          "composer": "Arr. Robert Lowden",
-          "piece": "Selections from Les Miserables"
-        },
-        {
-          "composer": "Victor Lopez",
-          "piece": "James Bond Medley"
-        },
-        {
-          "composer": "Calvin Custer",
-          "piece": "Star Trek Through the Years"
-        }
-      ]
-    },
-    {
       "date": "September 16, 2026",
       "time": "7:30 - 9:30 PM",
-      "location": "JFFRH - String Sectionals",
+      "location": "String & Percussion Sectionals",
       "scheduleItem": [
         {
-          "time": "7:30",
-          "piece": "String sectionals"
+          "piece": "Violin 1 - JFFRH"
+        },
+        {
+          "piece": "Violin 2 - Ballard Postma Studio"
+        },
+        {
+          "piece": "Viola - Classroom 1"
+        },
+        {
+          "piece": "Cello - UVA Health Rehearsal Room"
+        },
+        {
+          "piece": "Bass - Classroom 2"
+        },
+        {
+          "piece": "Percussion - Didlake Foyer"
         }
       ]
     },
