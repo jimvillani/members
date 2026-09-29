@@ -38,15 +38,23 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Gould"
         },
         {
-          "time": "8:25",
+          "time": "7:50",
+          "piece": "Kohut III"
+        },
+        {
+          "time": "8:20",
           "piece": "break"
         },
         {
-          "time": "8:35",
-          "piece": "TBD"
+          "time": "8:30",
+          "piece": "Copland [28] to end"
+        },
+        {
+          "time": "9:00",
+          "piece": "Kohut I"
         }
       ]
     },
