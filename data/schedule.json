@@ -65,7 +65,11 @@
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Gould"
+        },
+        {
+          "time": "7:45",
+          "piece": "Copland"
         },
         {
           "time": "8:25",
@@ -73,18 +77,22 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
+          "piece": "Price"
+        },
+        {
+          "time": "9:00",
+          "piece": "Kohut II, I, III"
         }
       ]
     },
     {
       "date": "October 14, 2026",
-      "time": "7:30 - 9:30 PM",
-      "location": "JFFRH",
+      "time": "7:30 - 9:45 PM (Tech Rehearsal)",
+      "location": "Merchant Hall",
       "scheduleItem": [
         {
           "time": "7:30",
-          "piece": "TBD"
+          "piece": "Kohut (w/soloist)"
         },
         {
           "time": "8:25",
@@ -92,13 +100,14 @@
         },
         {
           "time": "8:35",
-          "piece": "TBD"
-        }
+          "piece": "Kohut (as needed)"
+        },
+        {}
       ]
     },
     {
       "date": "October 16, 2026",
-      "time": "7:30 - 9:30 PM (Dress Rehearsal)",
+      "time": "7:30 - 9:30 PM",
       "location": "Merchant Hall",
       "scheduleItem": [
         {
@@ -135,6 +144,16 @@
         {
           "composer": "Aaron Copland",
           "piece": "Suite From 'Billy the Kid'"
+        }
+      ]
+    },
+    {
+      "date": "October 21, 2026",
+      "time": "7:00 - 9:00 BBQ Rehearsal (no instruments)",
+      "location": "JFFRH",
+      "scheduleItem": [
+        {
+          "piece": "BBQ courtesy of MSO BoD"
         }
       ]
     }
